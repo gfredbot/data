@@ -3,7 +3,8 @@
   "s":"d1=d['Console_Gfred_Splits']; for (var j=0;j<d1.length;j++){  n = d1[j].Car;  if (n.toLowerCase().includes(a2.toLowerCase())){   vl.push(' '+n+' ['+(vl.length+1)+']');  } } r=vl.toString(); if (r===''){r='Wrong vehicle.'}; r;",
   "s1":"r='';vl=[];d1=d['Console_Gfred_Splits'];for (var j=0;j<d1.length;j++){ n = d1[j].Car; if (n.toLowerCase().includes(a2.toLowerCase())){  vl.push(' '+n+' ['+(vl.length+1)+']'); }}r=vl.toString();if (r===''){r='Wrong vehicle.'};r;",
   "s2":"r='';vl=[];d1=d['Console_Gfred_Splits'];for (var j=0;j<d1.length;j++){ n = d1[j].Car; if (n.toLowerCase().includes(a2.toLowerCase())){  vl.push(' '+n+' ['+(vl.length+1)+']'); }}r=vl;if (r===''){r='Wrong vehicle.'};r;",
-  "s3":"r='';vl=[];d1=d['Console_Gfred_Splits'];for (var j=0;j<d1.length;j++){ n = d1[j].Car; if (n.toLowerCase().includes(a2.toLowerCase())){  vl.push(' '+n+' ['+(vl.length+1)+']'); }}r=vl;if (r===''){r='Wrong vehicle.'};if (a3 === 'null') {r=r.toString();}else {r=r[Number(a3)-1];r=r.split('[')[0].trim();}r;"
+  "s3":"r='';vl=[];d1=d['Console_Gfred_Splits'];for (var j=0;j<d1.length;j++){ n = d1[j].Car; if (n.toLowerCase().includes(a2.toLowerCase())){  vl.push(' '+n+' ['+(vl.length+1)+']'); }}r=vl;if (r===''){r='Wrong vehicle.'};if (a3 === 'null') {r=r.toString();}else {r=r[Number(a3)-1];r=r.split('[')[0].trim();}r;",
+  "s4":"r='';vl=[];d1=d['Console_Gfred_Splits'];for (var j=0;j<d1.length;j++){ n = d1[j].Car; if (n.toLowerCase().includes(a2.toLowerCase())){  vl.push(' '+n+' ['+(vl.length+1)+']'); }}r=vl;if (r===''){r='Wrong vehicle.'};if (a3==='null') {  if (r.length===1){r=r.toString().split('[')[0].trim();}  else {r=r.toString();}}else {r=r[Number(a3)-1];r=r.split('[')[0].trim();}r;"
 
   
 }
