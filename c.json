@@ -7,5 +7,7 @@
   "code1":"resp = a1 + ' ' + a2;",
   "44":"d1=d['Console_Gfred_Splits'];for (var j=0;j<d1.length;j++){ n = d1[j].Car; if (n.toLowerCase().includes(`$(2)`.toLowerCase())){  vl.push(' '+n+' ['+(vl.length+1)+']'); }}r=vl.toString();if(r===''){r='Wrong vehicle.'};r;",
   "55":"d1=d['Console_Gfred_Splits'];for (var j=0;j<d1.length;j++){ n = d1[j].Car; if (n.toLowerCase().includes(`$(2)`.toLowerCase())){  vl.push(' '+n+' ['+(vl.length+1)+']'); }}r=vl.toString();",
-  "66":"d1=d['Console_Gfred_Splits'];for (var j=0;j<d1.length;j++){ n = d1[j].Car; if (n.toLowerCase().includes(a2.toLowerCase())){  vl.push(' '+n+' ['+(vl.length+1)+']'); }}r=vl.toString();r;"
+  "66":"d1=d['Console_Gfred_Splits'];for (var j=0;j<d1.length;j++){ n = d1[j].Car; if (n.toLowerCase().includes(a2.toLowerCase())){  vl.push(' '+n+' ['+(vl.length+1)+']'); }}r=vl.toString();r;",
+  "77":"d1=d['Console_Gfred_Splits']; for (var j=0;j<d1.length;j++){  n = d1[j].Car;  if (n.toLowerCase().includes(a2.toLowerCase())){   vl.push(' '+n+' ['+(vl.length+1)+']');  } } r=vl.toString(); if (r===''){r='Wrong vehicle.'}; r;"
+  
 }
