@@ -4966,20 +4966,16 @@
       "Time": "10:35.817",
       "Player": "SLIMYYY",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "1:56",
-      "Quarry CP": "3:14",
-      "Hospital Line": "",
-      "Airport CP": "5:15",
-      "Route 68": "",
-      "Chilliad CP": "7:58",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": "9:19"
-      },
-      "Zancudo Exit": "",
+      "Quarry": "3:14",
+      "Hospital Line": "N/A",
+      "Airport": "5:15",
+      "Route 68": "N/A",
+      "Chiliad": "7:58",
+      "Off Tracks": "N/A",
+      "Observatory": "9:19",
+      "Zancudo Exit": "N/A",
       "Finish": "10:35",
       "Notes?": ""
     },
@@ -4991,17 +4987,13 @@
       "Link": "Link",
       "Highway": "2:38",
       "Wheelspin": "2:50",
-      "Quarry CP": "3:46",
+      "Quarry": "3:46",
       "Hospital Line": "5:28",
-      "Airport CP": "6:17",
+      "Airport": "6:17",
       "Route 68": "8:25",
-      "Chilliad CP": "10:31",
-      "Off T": {
-        " Tracks": "11:59"
-      },
-      "Observ": {
-        " CP": "13:03"
-      },
+      "Chiliad": "10:31",
+      "Off Tracks": "11:59",
+      "Observatory": "13:03",
       "Zancudo Exit": "14:16",
       "Finish": "15:35",
       "Notes?": "Hybrid"
@@ -5014,17 +5006,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:54",
-      "Quarry CP": "3:49",
+      "Quarry": "3:49",
       "Hospital Line": "5:25",
-      "Airport CP": "6:10",
+      "Airport": "6:10",
       "Route 68": "8:27",
-      "Chilliad CP": "10:39",
-      "Off T": {
-        " Tracks": "12:10"
-      },
-      "Observ": {
-        " CP": "13:20"
-      },
+      "Chiliad": "10:39",
+      "Off Tracks": "12:10",
+      "Observatory": "13:20",
       "Zancudo Exit": "14:32",
       "Finish": "15:44",
       "Notes?": "Hybrid"
@@ -5037,17 +5025,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:47",
-      "Quarry CP": "3:49",
+      "Quarry": "3:49",
       "Hospital Line": "5:32",
-      "Airport CP": "6:26",
+      "Airport": "6:26",
       "Route 68": "8:36",
-      "Chilliad CP": "10:46",
-      "Off T": {
-        " Tracks": "12:18"
-      },
-      "Observ": {
-        " CP": "13:29"
-      },
+      "Chiliad": "10:46",
+      "Off Tracks": "12:18",
+      "Observatory": "13:29",
       "Zancudo Exit": "14:44",
       "Finish": "15:48",
       "Notes?": "Hybrid"
@@ -5060,17 +5044,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:51",
-      "Quarry CP": "3:52",
+      "Quarry": "3:52",
       "Hospital Line": "5:37",
-      "Airport CP": "6:30",
+      "Airport": "6:30",
       "Route 68": "8:42",
-      "Chilliad CP": "10:54",
-      "Off T": {
-        " Tracks": "12:26"
-      },
-      "Observ": {
-        " CP": "13:36"
-      },
+      "Chiliad": "10:54",
+      "Off Tracks": "12:26",
+      "Observatory": "13:36",
       "Zancudo Exit": "14:51",
       "Finish": "15:56",
       "Notes?": "Hybrid / Elevator"
@@ -5083,17 +5063,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:49",
-      "Quarry CP": "3:50",
+      "Quarry": "3:50",
       "Hospital Line": "5:34",
-      "Airport CP": "6:27",
+      "Airport": "6:27",
       "Route 68": "8:40",
-      "Chilliad CP": "10:51",
-      "Off T": {
-        " Tracks": "12:29"
-      },
-      "Observ": {
-        " CP": "13:39"
-      },
+      "Chiliad": "10:51",
+      "Off Tracks": "12:29",
+      "Observatory": "13:39",
       "Zancudo Exit": "14:53",
       "Finish": "15:57",
       "Notes?": "Elevator"
@@ -5106,17 +5082,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:46",
-      "Quarry CP": "3:49",
+      "Quarry": "3:49",
       "Hospital Line": "5:33",
-      "Airport CP": "6:28",
+      "Airport": "6:28",
       "Route 68": "8:41",
-      "Chilliad CP": "10:54",
-      "Off T": {
-        " Tracks": "12:27"
-      },
-      "Observ": {
-        " CP": "13:38"
-      },
+      "Chiliad": "10:54",
+      "Off Tracks": "12:27",
+      "Observatory": "13:38",
       "Zancudo Exit": "14:56",
       "Finish": "16:00",
       "Notes?": "Hybrid / Elevator"
@@ -5129,17 +5101,13 @@
       "Link": "Link",
       "Highway": "2:38",
       "Wheelspin": "2:44",
-      "Quarry CP": "3:48",
+      "Quarry": "3:48",
       "Hospital Line": "5:33",
-      "Airport CP": "6:26",
+      "Airport": "6:26",
       "Route 68": "8:37",
-      "Chilliad CP": "10:54",
-      "Off T": {
-        " Tracks": "12:26"
-      },
-      "Observ": {
-        " CP": "13:39"
-      },
+      "Chiliad": "10:54",
+      "Off Tracks": "12:26",
+      "Observatory": "13:39",
       "Zancudo Exit": "14:55",
       "Finish": "16:01",
       "Notes?": "Elevator"
@@ -5152,17 +5120,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:49",
-      "Quarry CP": "3:51",
+      "Quarry": "3:51",
       "Hospital Line": "5:36",
-      "Airport CP": "6:31",
+      "Airport": "6:31",
       "Route 68": "8:47",
-      "Chilliad CP": "10:58",
-      "Off T": {
-        " Tracks": "12:31"
-      },
-      "Observ": {
-        " CP": "13:41"
-      },
+      "Chiliad": "10:58",
+      "Off Tracks": "12:31",
+      "Observatory": "13:41",
       "Zancudo Exit": "14:56",
       "Finish": "16:01",
       "Notes?": "Hybrid"
@@ -5175,17 +5139,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:49",
-      "Quarry CP": "3:46",
+      "Quarry": "3:46",
       "Hospital Line": "5:30",
-      "Airport CP": "6:29",
+      "Airport": "6:29",
       "Route 68": "8:41",
-      "Chilliad CP": "10:57",
-      "Off T": {
-        " Tracks": "12:27"
-      },
-      "Observ": {
-        " CP": "13:37"
-      },
+      "Chiliad": "10:57",
+      "Off Tracks": "12:27",
+      "Observatory": "13:37",
       "Zancudo Exit": "14:52",
       "Finish": "16:02",
       "Notes?": "Hybrid"
@@ -5198,17 +5158,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:47",
-      "Quarry CP": "3:49",
+      "Quarry": "3:49",
       "Hospital Line": "5:36",
-      "Airport CP": "6:31",
+      "Airport": "6:31",
       "Route 68": "8:43",
-      "Chilliad CP": "10:57",
-      "Off T": {
-        " Tracks": "12:34"
-      },
-      "Observ": {
-        " CP": "13:45"
-      },
+      "Chiliad": "10:57",
+      "Off Tracks": "12:34",
+      "Observatory": "13:45",
       "Zancudo Exit": "15:02",
       "Finish": "16:08",
       "Notes?": "Hybrid / Elevator"
@@ -5221,17 +5177,13 @@
       "Link": "Link",
       "Highway": "2:38",
       "Wheelspin": "2:45",
-      "Quarry CP": "3:49",
+      "Quarry": "3:49",
       "Hospital Line": "5:35",
-      "Airport CP": "6:28",
+      "Airport": "6:28",
       "Route 68": "8:43",
-      "Chilliad CP": "10:56",
-      "Off T": {
-        " Tracks": "12:36"
-      },
-      "Observ": {
-        " CP": "13:49"
-      },
+      "Chiliad": "10:56",
+      "Off Tracks": "12:36",
+      "Observatory": "13:49",
       "Zancudo Exit": "15:06",
       "Finish": "16:10",
       "Notes?": "Elevator"
@@ -5244,17 +5196,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:46",
-      "Quarry CP": "3:51",
+      "Quarry": "3:51",
       "Hospital Line": "5:37",
-      "Airport CP": "6:31",
+      "Airport": "6:31",
       "Route 68": "8:46",
-      "Chilliad CP": "11:02",
-      "Off T": {
-        " Tracks": "12:36"
-      },
-      "Observ": {
-        " CP": "13:53"
-      },
+      "Chiliad": "11:02",
+      "Off Tracks": "12:36",
+      "Observatory": "13:53",
       "Zancudo Exit": "15:10",
       "Finish": "16:16",
       "Notes?": "Elevator"
@@ -5267,17 +5215,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:49",
-      "Quarry CP": "3:52",
+      "Quarry": "3:52",
       "Hospital Line": "5:39",
-      "Airport CP": "6:35",
+      "Airport": "6:35",
       "Route 68": "8:51",
-      "Chilliad CP": "11:08",
-      "Off T": {
-        " Tracks": "12:40"
-      },
-      "Observ": {
-        " CP": "13:54"
-      },
+      "Chiliad": "11:08",
+      "Off Tracks": "12:40",
+      "Observatory": "13:54",
       "Zancudo Exit": "15:13",
       "Finish": "16:19",
       "Notes?": "Elevator"
@@ -5290,17 +5234,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:51",
-      "Quarry CP": "3:48",
+      "Quarry": "3:48",
       "Hospital Line": "5:29",
-      "Airport CP": "6:21",
+      "Airport": "6:21",
       "Route 68": "8:47",
-      "Chilliad CP": "10:59",
-      "Off T": {
-        " Tracks": "12:31"
-      },
-      "Observ": {
-        " CP": "13:39"
-      },
+      "Chiliad": "10:59",
+      "Off Tracks": "12:31",
+      "Observatory": "13:39",
       "Zancudo Exit": "15:01",
       "Finish": "16:20",
       "Notes?": "Hybrid"
@@ -5313,17 +5253,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:47",
-      "Quarry CP": "3:53",
+      "Quarry": "3:53",
       "Hospital Line": "5:40",
-      "Airport CP": "6:34",
+      "Airport": "6:34",
       "Route 68": "8:48",
-      "Chilliad CP": "11:08",
-      "Off T": {
-        " Tracks": "12:49"
-      },
-      "Observ": {
-        " CP": "14:04"
-      },
+      "Chiliad": "11:08",
+      "Off Tracks": "12:49",
+      "Observatory": "14:04",
       "Zancudo Exit": "15:20",
       "Finish": "16:27",
       "Notes?": ""
@@ -5336,17 +5272,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:50",
-      "Quarry CP": "3:54",
+      "Quarry": "3:54",
       "Hospital Line": "5:44",
-      "Airport CP": "6:38",
+      "Airport": "6:38",
       "Route 68": "8:59",
-      "Chilliad CP": "11:19",
-      "Off T": {
-        " Tracks": "12:59"
-      },
-      "Observ": {
-        " CP": "14:13"
-      },
+      "Chiliad": "11:19",
+      "Off Tracks": "12:59",
+      "Observatory": "14:13",
       "Zancudo Exit": "15:31",
       "Finish": "16:37",
       "Notes?": ""
@@ -5359,17 +5291,13 @@
       "Link": "Link",
       "Highway": "2:43",
       "Wheelspin": "2:54",
-      "Quarry CP": "4:00",
+      "Quarry": "4:00",
       "Hospital Line": "5:48",
-      "Airport CP": "6:40",
+      "Airport": "6:40",
       "Route 68": "8:56",
-      "Chilliad CP": "11:19",
-      "Off T": {
-        " Tracks": "12:57"
-      },
-      "Observ": {
-        " CP": "14:16"
-      },
+      "Chiliad": "11:19",
+      "Off Tracks": "12:57",
+      "Observatory": "14:16",
       "Zancudo Exit": "15:34",
       "Finish": "16:41",
       "Notes?": ""
@@ -5382,17 +5310,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:50",
-      "Quarry CP": "3:56",
+      "Quarry": "3:56",
       "Hospital Line": "5:43",
-      "Airport CP": "6:36",
+      "Airport": "6:36",
       "Route 68": "8:51",
-      "Chilliad CP": "11:17",
-      "Off T": {
-        " Tracks": "12:57"
-      },
-      "Observ": {
-        " CP": "14:15"
-      },
+      "Chiliad": "11:17",
+      "Off Tracks": "12:57",
+      "Observatory": "14:15",
       "Zancudo Exit": "15:38",
       "Finish": "16:43",
       "Notes?": ""
@@ -5405,17 +5329,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:53",
-      "Quarry CP": "3:58",
+      "Quarry": "3:58",
       "Hospital Line": "5:49",
-      "Airport CP": "6:40",
+      "Airport": "6:40",
       "Route 68": "8:57",
-      "Chilliad CP": "11:18",
-      "Off T": {
-        " Tracks": "13:00"
-      },
-      "Observ": {
-        " CP": "14:18"
-      },
+      "Chiliad": "11:18",
+      "Off Tracks": "13:00",
+      "Observatory": "14:18",
       "Zancudo Exit": "15:36",
       "Finish": "16:44",
       "Notes?": "Rd. jump - NO"
@@ -5428,17 +5348,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:51",
-      "Quarry CP": "3:56",
+      "Quarry": "3:56",
       "Hospital Line": "5:44",
-      "Airport CP": "6:36",
+      "Airport": "6:36",
       "Route 68": "8:58",
-      "Chilliad CP": "11:23",
-      "Off T": {
-        " Tracks": "13:03"
-      },
-      "Observ": {
-        " CP": "14:20"
-      },
+      "Chiliad": "11:23",
+      "Off Tracks": "13:03",
+      "Observatory": "14:20",
       "Zancudo Exit": "15:41",
       "Finish": "16:46",
       "Notes?": ""
@@ -5451,17 +5367,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:49",
-      "Quarry CP": "3:54",
+      "Quarry": "3:54",
       "Hospital Line": "5:44",
-      "Airport CP": "6:40",
+      "Airport": "6:40",
       "Route 68": "9:00",
-      "Chilliad CP": "11:20",
-      "Off T": {
-        " Tracks": "13:04"
-      },
-      "Observ": {
-        " CP": "14:20"
-      },
+      "Chiliad": "11:20",
+      "Off Tracks": "13:04",
+      "Observatory": "14:20",
       "Zancudo Exit": "15:38",
       "Finish": "16:46",
       "Notes?": ""
@@ -5474,17 +5386,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:48",
-      "Quarry CP": "3:54",
+      "Quarry": "3:54",
       "Hospital Line": "5:43",
-      "Airport CP": "6:37",
+      "Airport": "6:37",
       "Route 68": "8:56",
-      "Chilliad CP": "11:22",
-      "Off T": {
-        " Tracks": "13:08"
-      },
-      "Observ": {
-        " CP": "14:28"
-      },
+      "Chiliad": "11:22",
+      "Off Tracks": "13:08",
+      "Observatory": "14:28",
       "Zancudo Exit": "15:46",
       "Finish": "16:53",
       "Notes?": "Rd. jump - NO"
@@ -5497,17 +5405,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:45",
-      "Quarry CP": "3:50",
+      "Quarry": "3:50",
       "Hospital Line": "5:42",
-      "Airport CP": "6:38",
+      "Airport": "6:38",
       "Route 68": "9:00",
-      "Chilliad CP": "11:23",
-      "Off T": {
-        " Tracks": "13:04"
-      },
-      "Observ": {
-        " CP": "14:23"
-      },
+      "Chiliad": "11:23",
+      "Off Tracks": "13:04",
+      "Observatory": "14:23",
       "Zancudo Exit": "15:45",
       "Finish": "16:56",
       "Notes?": ""
@@ -5520,17 +5424,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:47",
-      "Quarry CP": "3:55",
+      "Quarry": "3:55",
       "Hospital Line": "5:46",
-      "Airport CP": "6:40",
+      "Airport": "6:40",
       "Route 68": "9:06",
-      "Chilliad CP": "11:32",
-      "Off T": {
-        " Tracks": "13:10"
-      },
-      "Observ": {
-        " CP": "14:29"
-      },
+      "Chiliad": "11:32",
+      "Off Tracks": "13:10",
+      "Observatory": "14:29",
       "Zancudo Exit": "15:48",
       "Finish": "16:57",
       "Notes?": ""
@@ -5543,17 +5443,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:45",
-      "Quarry CP": "3:47",
+      "Quarry": "3:47",
       "Hospital Line": "5:39",
-      "Airport CP": "6:35",
+      "Airport": "6:35",
       "Route 68": "9:00",
-      "Chilliad CP": "11:20",
-      "Off T": {
-        " Tracks": "12:57"
-      },
-      "Observ": {
-        " CP": "14:10"
-      },
+      "Chiliad": "11:20",
+      "Off Tracks": "12:57",
+      "Observatory": "14:10",
       "Zancudo Exit": "15:26",
       "Finish": "16:57",
       "Notes?": "Hybrid"
@@ -5566,17 +5462,13 @@
       "Link": "Link",
       "Highway": "2:38",
       "Wheelspin": "2:53",
-      "Quarry CP": "3:52",
+      "Quarry": "3:52",
       "Hospital Line": "5:40",
-      "Airport CP": "6:38",
+      "Airport": "6:38",
       "Route 68": "8:59",
-      "Chilliad CP": "11:21",
-      "Off T": {
-        " Tracks": "13:01"
-      },
-      "Observ": {
-        " CP": "14:14"
-      },
+      "Chiliad": "11:21",
+      "Off Tracks": "13:01",
+      "Observatory": "14:14",
       "Zancudo Exit": "15:32",
       "Finish": "16:58",
       "Notes?": "Hybrid"
@@ -5589,17 +5481,13 @@
       "Link": "Link",
       "Highway": "2:37",
       "Wheelspin": "2:44",
-      "Quarry CP": "3:51",
+      "Quarry": "3:51",
       "Hospital Line": "5:42",
-      "Airport CP": "6:39",
+      "Airport": "6:39",
       "Route 68": "9:03",
-      "Chilliad CP": "11:21",
-      "Off T": {
-        " Tracks": "13:13"
-      },
-      "Observ": {
-        " CP": "14:31"
-      },
+      "Chiliad": "11:21",
+      "Off Tracks": "13:13",
+      "Observatory": "14:31",
       "Zancudo Exit": "15:51",
       "Finish": "16:58",
       "Notes?": ""
@@ -5612,17 +5500,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:50",
-      "Quarry CP": "3:58",
+      "Quarry": "3:58",
       "Hospital Line": "5:51",
-      "Airport CP": "6:44",
+      "Airport": "6:44",
       "Route 68": "9:07",
-      "Chilliad CP": "11:30",
-      "Off T": {
-        " Tracks": "13:09"
-      },
-      "Observ": {
-        " CP": "14:29"
-      },
+      "Chiliad": "11:30",
+      "Off Tracks": "13:09",
+      "Observatory": "14:29",
       "Zancudo Exit": "15:50",
       "Finish": "16:59",
       "Notes?": "Rd. jump - NO"
@@ -5635,17 +5519,13 @@
       "Link": "Link",
       "Highway": "2:38",
       "Wheelspin": "2:45",
-      "Quarry CP": "3:49",
+      "Quarry": "3:49",
       "Hospital Line": "5:44",
-      "Airport CP": "6:47",
+      "Airport": "6:47",
       "Route 68": "9:15",
-      "Chilliad CP": "11:34",
-      "Off T": {
-        " Tracks": "13:17"
-      },
-      "Observ": {
-        " CP": "14:30"
-      },
+      "Chiliad": "11:34",
+      "Off Tracks": "13:17",
+      "Observatory": "14:30",
       "Zancudo Exit": "15:49",
       "Finish": "17:00",
       "Notes?": "Hybrid / Elevator"
@@ -5658,17 +5538,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:49",
-      "Quarry CP": "3:56",
+      "Quarry": "3:56",
       "Hospital Line": "5:48",
-      "Airport CP": "6:43",
+      "Airport": "6:43",
       "Route 68": "9:03",
-      "Chilliad CP": "11:37",
-      "Off T": {
-        " Tracks": "13:17"
-      },
-      "Observ": {
-        " CP": "14:39"
-      },
+      "Chiliad": "11:37",
+      "Off Tracks": "13:17",
+      "Observatory": "14:39",
       "Zancudo Exit": "16:00",
       "Finish": "17:07",
       "Notes?": "Rd. jump - NO"
@@ -5681,17 +5557,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:48",
-      "Quarry CP": "3:56",
+      "Quarry": "3:56",
       "Hospital Line": "5:50",
-      "Airport CP": "6:47",
+      "Airport": "6:47",
       "Route 68": "9:11",
-      "Chilliad CP": "11:42",
-      "Off T": {
-        " Tracks": "13:24"
-      },
-      "Observ": {
-        " CP": "14:44"
-      },
+      "Chiliad": "11:42",
+      "Off Tracks": "13:24",
+      "Observatory": "14:44",
       "Zancudo Exit": "16:05",
       "Finish": "17:12",
       "Notes?": "Rd. jump - NO"
@@ -5704,17 +5576,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:47",
-      "Quarry CP": "3:51",
+      "Quarry": "3:51",
       "Hospital Line": "5:45",
-      "Airport CP": "6:42",
+      "Airport": "6:42",
       "Route 68": "9:04",
-      "Chilliad CP": "11:34",
-      "Off T": {
-        " Tracks": "13:11"
-      },
-      "Observ": {
-        " CP": "14:28"
-      },
+      "Chiliad": "11:34",
+      "Off Tracks": "13:11",
+      "Observatory": "14:28",
       "Zancudo Exit": "15:47",
       "Finish": "17:12",
       "Notes?": "Hybrid / Hotlap"
@@ -5725,19 +5593,15 @@
       "Time": "17:14.049",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "1:24",
-      "Quarry CP": "3:03",
+      "Quarry": "3:03",
       "Hospital Line": "5:02",
-      "Airport CP": "6:04",
+      "Airport": "6:04",
       "Route 68": "8:42",
-      "Chilliad CP": "11:16",
-      "Off T": {
-        " Tracks": "13:06"
-      },
-      "Observ": {
-        " CP": "14:30"
-      },
+      "Chiliad": "11:16",
+      "Off Tracks": "13:06",
+      "Observatory": "14:30",
       "Zancudo Exit": "15:57",
       "Finish": "17:14",
       "Notes?": ""
@@ -5748,19 +5612,15 @@
       "Time": "17:15.734",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "1:38",
-      "Quarry CP": "3:29",
+      "Quarry": "3:29",
       "Hospital Line": "5:21",
-      "Airport CP": "6:23",
+      "Airport": "6:23",
       "Route 68": "8:52",
-      "Chilliad CP": "11:35",
-      "Off T": {
-        " Tracks": "13:18"
-      },
-      "Observ": {
-        " CP": "14:36"
-      },
+      "Chiliad": "11:35",
+      "Off Tracks": "13:18",
+      "Observatory": "14:36",
       "Zancudo Exit": "16:02",
       "Finish": "17:15",
       "Notes?": "Hybrid"
@@ -5773,17 +5633,13 @@
       "Link": "Link",
       "Highway": "2:38",
       "Wheelspin": "2:45",
-      "Quarry CP": "3:53",
+      "Quarry": "3:53",
       "Hospital Line": "5:48",
-      "Airport CP": "6:49",
+      "Airport": "6:49",
       "Route 68": "9:22",
-      "Chilliad CP": "11:44",
-      "Off T": {
-        " Tracks": "13:27"
-      },
-      "Observ": {
-        " CP": "14:44"
-      },
+      "Chiliad": "11:44",
+      "Off Tracks": "13:27",
+      "Observatory": "14:44",
       "Zancudo Exit": "16:09",
       "Finish": "17:21",
       "Notes?": ""
@@ -5796,17 +5652,13 @@
       "Link": "Link",
       "Highway": "2:37",
       "Wheelspin": "2:47",
-      "Quarry CP": "3:55",
+      "Quarry": "3:55",
       "Hospital Line": "5:50",
-      "Airport CP": "6:47",
+      "Airport": "6:47",
       "Route 68": "9:13",
-      "Chilliad CP": "11:42",
-      "Off T": {
-        " Tracks": "13:26"
-      },
-      "Observ": {
-        " CP": "14:48"
-      },
+      "Chiliad": "11:42",
+      "Off Tracks": "13:26",
+      "Observatory": "14:48",
       "Zancudo Exit": "16:11",
       "Finish": "17:23",
       "Notes?": ""
@@ -5819,17 +5671,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:46",
-      "Quarry CP": "3:56",
+      "Quarry": "3:56",
       "Hospital Line": "5:49",
-      "Airport CP": "6:44",
+      "Airport": "6:44",
       "Route 68": "9:10",
-      "Chilliad CP": "11:47",
-      "Off T": {
-        " Tracks": "13:34"
-      },
-      "Observ": {
-        " CP": "14:56"
-      },
+      "Chiliad": "11:47",
+      "Off Tracks": "13:34",
+      "Observatory": "14:56",
       "Zancudo Exit": "16:19",
       "Finish": "17:28",
       "Notes?": ""
@@ -5842,17 +5690,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:49",
-      "Quarry CP": "3:57",
+      "Quarry": "3:57",
       "Hospital Line": "5:53",
-      "Airport CP": "6:53",
+      "Airport": "6:53",
       "Route 68": "9:20",
-      "Chilliad CP": "11:51",
-      "Off T": {
-        " Tracks": "13:32"
-      },
-      "Observ": {
-        " CP": "14:55"
-      },
+      "Chiliad": "11:51",
+      "Off Tracks": "13:32",
+      "Observatory": "14:55",
       "Zancudo Exit": "16:16",
       "Finish": "17:30",
       "Notes?": "Rd. jump - NO"
@@ -5865,17 +5709,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:50",
-      "Quarry CP": "3:57",
+      "Quarry": "3:57",
       "Hospital Line": "5:50",
-      "Airport CP": "6:47",
+      "Airport": "6:47",
       "Route 68": "9:10",
-      "Chilliad CP": "11:36",
-      "Off T": {
-        " Tracks": "13:21"
-      },
-      "Observ": {
-        " CP": "14:46"
-      },
+      "Chiliad": "11:36",
+      "Off Tracks": "13:21",
+      "Observatory": "14:46",
       "Zancudo Exit": "16:26",
       "Finish": "17:35",
       "Notes?": "Rd. jump - NO"
@@ -5888,17 +5728,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:51",
-      "Quarry CP": "4:00",
+      "Quarry": "4:00",
       "Hospital Line": "5:51",
-      "Airport CP": "6:47",
+      "Airport": "6:47",
       "Route 68": "9:07",
-      "Chilliad CP": "11:45",
-      "Off T": {
-        " Tracks": "13:45"
-      },
-      "Observ": {
-        " CP": "15:05"
-      },
+      "Chiliad": "11:45",
+      "Off Tracks": "13:45",
+      "Observatory": "15:05",
       "Zancudo Exit": "16:25",
       "Finish": "17:35",
       "Notes?": ""
@@ -5911,17 +5747,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:47",
-      "Quarry CP": "3:55",
+      "Quarry": "3:55",
       "Hospital Line": "5:50",
-      "Airport CP": "6:48",
+      "Airport": "6:48",
       "Route 68": "9:16",
-      "Chilliad CP": "11:51",
-      "Off T": {
-        " Tracks": "13:47"
-      },
-      "Observ": {
-        " CP": "15:09"
-      },
+      "Chiliad": "11:51",
+      "Off Tracks": "13:47",
+      "Observatory": "15:09",
       "Zancudo Exit": "16:28",
       "Finish": "17:41",
       "Notes?": ""
@@ -5934,17 +5766,13 @@
       "Link": "Link",
       "Highway": "2:38",
       "Wheelspin": "2:45",
-      "Quarry CP": "3:55",
+      "Quarry": "3:55",
       "Hospital Line": "5:49",
-      "Airport CP": "6:46",
+      "Airport": "6:46",
       "Route 68": "9:12",
-      "Chilliad CP": "12:06",
-      "Off T": {
-        " Tracks": "13:51"
-      },
-      "Observ": {
-        " CP": "15:13"
-      },
+      "Chiliad": "12:06",
+      "Off Tracks": "13:51",
+      "Observatory": "15:13",
       "Zancudo Exit": "16:35",
       "Finish": "17:43",
       "Notes?": "Rd. jump - NO"
@@ -5957,17 +5785,13 @@
       "Link": "Link",
       "Highway": "2:43",
       "Wheelspin": "2:49",
-      "Quarry CP": "3:53",
+      "Quarry": "3:53",
       "Hospital Line": "5:48",
-      "Airport CP": "6:48",
+      "Airport": "6:48",
       "Route 68": "9:19",
-      "Chilliad CP": "11:54",
-      "Off T": {
-        " Tracks": "13:33"
-      },
-      "Observ": {
-        " CP": "14:52"
-      },
+      "Chiliad": "11:54",
+      "Off Tracks": "13:33",
+      "Observatory": "14:52",
       "Zancudo Exit": "16:15",
       "Finish": "17:43",
       "Notes?": "Hybrid / Hotlap"
@@ -5978,20 +5802,16 @@
       "Time": "17:44.662",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "10:43",
-      "Quarry CP": "12:04",
-      "Hospital Line": "",
-      "Airport CP": "13:51",
-      "Route 68": "",
-      "Chilliad CP": "15:50",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": "16:49"
-      },
-      "Zancudo Exit": "",
+      "Quarry": "12:04",
+      "Hospital Line": "N/A",
+      "Airport": "13:51",
+      "Route 68": "N/A",
+      "Chiliad": "15:50",
+      "Off Tracks": "N/A",
+      "Observatory": "16:49",
+      "Zancudo Exit": "N/A",
       "Finish": "17:44",
       "Notes?": ""
     },
@@ -6003,17 +5823,13 @@
       "Link": "Link",
       "Highway": "2:38",
       "Wheelspin": "2:44",
-      "Quarry CP": "3:54",
+      "Quarry": "3:54",
       "Hospital Line": "5:56",
-      "Airport CP": "6:55",
+      "Airport": "6:55",
       "Route 68": "9:31",
-      "Chilliad CP": "12:07",
-      "Off T": {
-        " Tracks": "13:53"
-      },
-      "Observ": {
-        " CP": "15:12"
-      },
+      "Chiliad": "12:07",
+      "Off Tracks": "13:53",
+      "Observatory": "15:12",
       "Zancudo Exit": "16:34",
       "Finish": "17:47",
       "Notes?": ""
@@ -6026,17 +5842,13 @@
       "Link": "Link",
       "Highway": "2:46",
       "Wheelspin": "2:55",
-      "Quarry CP": "4:02",
+      "Quarry": "4:02",
       "Hospital Line": "5:58",
-      "Airport CP": "6:59",
+      "Airport": "6:59",
       "Route 68": "9:30",
-      "Chilliad CP": "12:09",
-      "Off T": {
-        " Tracks": "13:52"
-      },
-      "Observ": {
-        " CP": "15:14"
-      },
+      "Chiliad": "12:09",
+      "Off Tracks": "13:52",
+      "Observatory": "15:14",
       "Zancudo Exit": "16:39",
       "Finish": "17:52",
       "Notes?": "Rd. jump - NO"
@@ -6049,17 +5861,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:48",
-      "Quarry CP": "3:57",
+      "Quarry": "3:57",
       "Hospital Line": "5:53",
-      "Airport CP": "6:47",
+      "Airport": "6:47",
       "Route 68": "9:14",
-      "Chilliad CP": "11:53",
-      "Off T": {
-        " Tracks": "13:44"
-      },
-      "Observ": {
-        " CP": "15:08"
-      },
+      "Chiliad": "11:53",
+      "Off Tracks": "13:44",
+      "Observatory": "15:08",
       "Zancudo Exit": "16:44",
       "Finish": "17:53",
       "Notes?": ""
@@ -6072,17 +5880,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:45",
-      "Quarry CP": "3:59",
+      "Quarry": "3:59",
       "Hospital Line": "5:58",
-      "Airport CP": "6:55",
+      "Airport": "6:55",
       "Route 68": "9:24",
-      "Chilliad CP": "12:00",
-      "Off T": {
-        " Tracks": "13:54"
-      },
-      "Observ": {
-        " CP": "15:21"
-      },
+      "Chiliad": "12:00",
+      "Off Tracks": "13:54",
+      "Observatory": "15:21",
       "Zancudo Exit": "16:45",
       "Finish": "17:57",
       "Notes?": ""
@@ -6095,17 +5899,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:50",
-      "Quarry CP": "4:01",
+      "Quarry": "4:01",
       "Hospital Line": "6:00",
-      "Airport CP": "6:57",
+      "Airport": "6:57",
       "Route 68": "9:31",
-      "Chilliad CP": "12:08",
-      "Off T": {
-        " Tracks": "13:53"
-      },
-      "Observ": {
-        " CP": "15:22"
-      },
+      "Chiliad": "12:08",
+      "Off Tracks": "13:53",
+      "Observatory": "15:22",
       "Zancudo Exit": "16:45",
       "Finish": "17:59",
       "Notes?": ""
@@ -6118,17 +5918,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:48",
-      "Quarry CP": "4:02",
+      "Quarry": "4:02",
       "Hospital Line": "6:02",
-      "Airport CP": "7:00",
+      "Airport": "7:00",
       "Route 68": "9:36",
-      "Chilliad CP": "12:21",
-      "Off T": {
-        " Tracks": "14:06"
-      },
-      "Observ": {
-        " CP": "15:34"
-      },
+      "Chiliad": "12:21",
+      "Off Tracks": "14:06",
+      "Observatory": "15:34",
       "Zancudo Exit": "16:57",
       "Finish": "18:10",
       "Notes?": ""
@@ -6141,17 +5937,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:48",
-      "Quarry CP": "4:02",
+      "Quarry": "4:02",
       "Hospital Line": "6:01",
-      "Airport CP": "6:57",
+      "Airport": "6:57",
       "Route 68": "9:35",
-      "Chilliad CP": "12:17",
-      "Off T": {
-        " Tracks": "14:04"
-      },
-      "Observ": {
-        " CP": "15:31"
-      },
+      "Chiliad": "12:17",
+      "Off Tracks": "14:04",
+      "Observatory": "15:31",
       "Zancudo Exit": "16:55",
       "Finish": "18:10",
       "Notes?": ""
@@ -6164,17 +5956,13 @@
       "Link": "Link",
       "Highway": "2:43",
       "Wheelspin": "2:51",
-      "Quarry CP": "4:06",
+      "Quarry": "4:06",
       "Hospital Line": "6:03",
-      "Airport CP": "7:04",
+      "Airport": "7:04",
       "Route 68": "9:36",
-      "Chilliad CP": "12:15",
-      "Off T": {
-        " Tracks": "14:07"
-      },
-      "Observ": {
-        " CP": "15:36"
-      },
+      "Chiliad": "12:15",
+      "Off Tracks": "14:07",
+      "Observatory": "15:36",
       "Zancudo Exit": "17:02",
       "Finish": "18:16",
       "Notes?": ""
@@ -6185,19 +5973,15 @@
       "Time": "18:16.569",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "3:12",
-      "Quarry CP": "4:28",
+      "Quarry": "4:28",
       "Hospital Line": "6:29",
-      "Airport CP": "7:30",
+      "Airport": "7:30",
       "Route 68": "10:05",
-      "Chilliad CP": "12:29",
-      "Off T": {
-        " Tracks": "14:18"
-      },
-      "Observ": {
-        " CP": "15:40"
-      },
+      "Chiliad": "12:29",
+      "Off Tracks": "14:18",
+      "Observatory": "15:40",
       "Zancudo Exit": "17:02",
       "Finish": "18:16",
       "Notes?": "Rd. jump - NO"
@@ -6210,17 +5994,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:46",
-      "Quarry CP": "3:59",
+      "Quarry": "3:59",
       "Hospital Line": "6:01",
-      "Airport CP": "7:00",
+      "Airport": "7:00",
       "Route 68": "9:36",
-      "Chilliad CP": "12:20",
-      "Off T": {
-        " Tracks": "14:11"
-      },
-      "Observ": {
-        " CP": "15:40"
-      },
+      "Chiliad": "12:20",
+      "Off Tracks": "14:11",
+      "Observatory": "15:40",
       "Zancudo Exit": "17:03",
       "Finish": "18:18",
       "Notes?": ""
@@ -6233,17 +6013,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:47",
-      "Quarry CP": "4:00",
+      "Quarry": "4:00",
       "Hospital Line": "6:01",
-      "Airport CP": "7:02",
+      "Airport": "7:02",
       "Route 68": "9:38",
-      "Chilliad CP": "12:21",
-      "Off T": {
-        " Tracks": "14:13"
-      },
-      "Observ": {
-        " CP": "15:41"
-      },
+      "Chiliad": "12:21",
+      "Off Tracks": "14:13",
+      "Observatory": "15:41",
       "Zancudo Exit": "17:05",
       "Finish": "18:19",
       "Notes?": ""
@@ -6256,17 +6032,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:46",
-      "Quarry CP": "3:59",
+      "Quarry": "3:59",
       "Hospital Line": "6:00",
-      "Airport CP": "6:59",
+      "Airport": "6:59",
       "Route 68": "9:37",
-      "Chilliad CP": "12:20",
-      "Off T": {
-        " Tracks": "14:10"
-      },
-      "Observ": {
-        " CP": "15:38"
-      },
+      "Chiliad": "12:20",
+      "Off Tracks": "14:10",
+      "Observatory": "15:38",
       "Zancudo Exit": "17:01",
       "Finish": "18:20",
       "Notes?": ""
@@ -6279,17 +6051,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:47",
-      "Quarry CP": "4:05",
+      "Quarry": "4:05",
       "Hospital Line": "6:09",
-      "Airport CP": "7:11",
+      "Airport": "7:11",
       "Route 68": "9:48",
-      "Chilliad CP": "12:28",
-      "Off T": {
-        " Tracks": "14:14"
-      },
-      "Observ": {
-        " CP": "15:42"
-      },
+      "Chiliad": "12:28",
+      "Off Tracks": "14:14",
+      "Observatory": "15:42",
       "Zancudo Exit": "17:10",
       "Finish": "18:20",
       "Notes?": ""
@@ -6302,17 +6070,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:52",
-      "Quarry CP": "4:06",
+      "Quarry": "4:06",
       "Hospital Line": "6:09",
-      "Airport CP": "7:09",
+      "Airport": "7:09",
       "Route 68": "9:50",
-      "Chilliad CP": "12:25",
-      "Off T": {
-        " Tracks": "14:14"
-      },
-      "Observ": {
-        " CP": "15:41"
-      },
+      "Chiliad": "12:25",
+      "Off Tracks": "14:14",
+      "Observatory": "15:41",
       "Zancudo Exit": "17:10",
       "Finish": "18:24",
       "Notes?": ""
@@ -6325,17 +6089,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:47",
-      "Quarry CP": "4:02",
+      "Quarry": "4:02",
       "Hospital Line": "6:04",
-      "Airport CP": "7:03",
+      "Airport": "7:03",
       "Route 68": "9:44",
-      "Chilliad CP": "12:24",
-      "Off T": {
-        " Tracks": "14:19"
-      },
-      "Observ": {
-        " CP": "15:47"
-      },
+      "Chiliad": "12:24",
+      "Off Tracks": "14:19",
+      "Observatory": "15:47",
       "Zancudo Exit": "17:13",
       "Finish": "18:28",
       "Notes?": ""
@@ -6348,17 +6108,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:47",
-      "Quarry CP": "3:56",
+      "Quarry": "3:56",
       "Hospital Line": "5:54",
-      "Airport CP": "7:01",
+      "Airport": "7:01",
       "Route 68": "9:29",
-      "Chilliad CP": "12:34",
-      "Off T": {
-        " Tracks": "14:22"
-      },
-      "Observ": {
-        " CP": "15:43"
-      },
+      "Chiliad": "12:34",
+      "Off Tracks": "14:22",
+      "Observatory": "15:43",
       "Zancudo Exit": "17:06",
       "Finish": "18:28",
       "Notes?": "Hotlap"
@@ -6371,17 +6127,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:50",
-      "Quarry CP": "4:04",
+      "Quarry": "4:04",
       "Hospital Line": "6:06",
-      "Airport CP": "7:05",
+      "Airport": "7:05",
       "Route 68": "9:37",
-      "Chilliad CP": "12:24",
-      "Off T": {
-        " Tracks": "14:17"
-      },
-      "Observ": {
-        " CP": "15:44"
-      },
+      "Chiliad": "12:24",
+      "Off Tracks": "14:17",
+      "Observatory": "15:44",
       "Zancudo Exit": "17:09",
       "Finish": "18:29",
       "Notes?": ""
@@ -6394,17 +6146,13 @@
       "Link": "Link",
       "Highway": "2:37",
       "Wheelspin": "2:46",
-      "Quarry CP": "4:02",
+      "Quarry": "4:02",
       "Hospital Line": "6:03",
-      "Airport CP": "7:02",
+      "Airport": "7:02",
       "Route 68": "9:41",
-      "Chilliad CP": "12:26",
-      "Off T": {
-        " Tracks": "14:21"
-      },
-      "Observ": {
-        " CP": "15:52"
-      },
+      "Chiliad": "12:26",
+      "Off Tracks": "14:21",
+      "Observatory": "15:52",
       "Zancudo Exit": "17:21",
       "Finish": "18:38",
       "Notes?": ""
@@ -6417,17 +6165,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:49",
-      "Quarry CP": "4:04",
+      "Quarry": "4:04",
       "Hospital Line": "6:08",
-      "Airport CP": "7:09",
+      "Airport": "7:09",
       "Route 68": "9:48",
-      "Chilliad CP": "12:34",
-      "Off T": {
-        " Tracks": "14:28"
-      },
-      "Observ": {
-        " CP": "15:57"
-      },
+      "Chiliad": "12:34",
+      "Off Tracks": "14:28",
+      "Observatory": "15:57",
       "Zancudo Exit": "17:23",
       "Finish": "18:42",
       "Notes?": ""
@@ -6440,17 +6184,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:48",
-      "Quarry CP": "4:05",
+      "Quarry": "4:05",
       "Hospital Line": "6:10",
-      "Airport CP": "7:16",
+      "Airport": "7:16",
       "Route 68": "10:07",
-      "Chilliad CP": "12:47",
-      "Off T": {
-        " Tracks": "14:38"
-      },
-      "Observ": {
-        " CP": "16:03"
-      },
+      "Chiliad": "12:47",
+      "Off Tracks": "14:38",
+      "Observatory": "16:03",
       "Zancudo Exit": "17:34",
       "Finish": "18:48",
       "Notes?": ""
@@ -6463,17 +6203,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:54",
-      "Quarry CP": "4:04",
+      "Quarry": "4:04",
       "Hospital Line": "6:06",
-      "Airport CP": "7:08",
+      "Airport": "7:08",
       "Route 68": "9:43",
-      "Chilliad CP": "12:43",
-      "Off T": {
-        " Tracks": "14:38"
-      },
-      "Observ": {
-        " CP": "16:06"
-      },
+      "Chiliad": "12:43",
+      "Off Tracks": "14:38",
+      "Observatory": "16:06",
       "Zancudo Exit": "17:35",
       "Finish": "18:51",
       "Notes?": ""
@@ -6486,17 +6222,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:47",
-      "Quarry CP": "4:04",
+      "Quarry": "4:04",
       "Hospital Line": "6:05",
-      "Airport CP": "7:06",
+      "Airport": "7:06",
       "Route 68": "9:48",
-      "Chilliad CP": "12:35",
-      "Off T": {
-        " Tracks": "14:40"
-      },
-      "Observ": {
-        " CP": "16:11"
-      },
+      "Chiliad": "12:35",
+      "Off Tracks": "14:40",
+      "Observatory": "16:11",
       "Zancudo Exit": "17:42",
       "Finish": "18:52",
       "Notes?": ""
@@ -6509,17 +6241,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:51",
-      "Quarry CP": "4:03",
+      "Quarry": "4:03",
       "Hospital Line": "6:08",
-      "Airport CP": "7:11",
+      "Airport": "7:11",
       "Route 68": "9:48",
-      "Chilliad CP": "12:50",
-      "Off T": {
-        " Tracks": "14:47"
-      },
-      "Observ": {
-        " CP": "16:14"
-      },
+      "Chiliad": "12:50",
+      "Off Tracks": "14:47",
+      "Observatory": "16:14",
       "Zancudo Exit": "17:39",
       "Finish": "18:54",
       "Notes?": ""
@@ -6532,17 +6260,13 @@
       "Link": "Link",
       "Highway": "2:43",
       "Wheelspin": "2:50",
-      "Quarry CP": "4:07",
+      "Quarry": "4:07",
       "Hospital Line": "6:13",
-      "Airport CP": "7:15",
+      "Airport": "7:15",
       "Route 68": "10:04",
-      "Chilliad CP": "12:48",
-      "Off T": {
-        " Tracks": "14:42"
-      },
-      "Observ": {
-        " CP": "16:12"
-      },
+      "Chiliad": "12:48",
+      "Off Tracks": "14:42",
+      "Observatory": "16:12",
       "Zancudo Exit": "17:40",
       "Finish": "18:59",
       "Notes?": ""
@@ -6555,17 +6279,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:53",
-      "Quarry CP": "4:08",
+      "Quarry": "4:08",
       "Hospital Line": "6:13",
-      "Airport CP": "7:16",
+      "Airport": "7:16",
       "Route 68": "10:00",
-      "Chilliad CP": "12:46",
-      "Off T": {
-        " Tracks": "14:41"
-      },
-      "Observ": {
-        " CP": "16:12"
-      },
+      "Chiliad": "12:46",
+      "Off Tracks": "14:41",
+      "Observatory": "16:12",
       "Zancudo Exit": "17:44",
       "Finish": "19:02",
       "Notes?": ""
@@ -6578,17 +6298,13 @@
       "Link": "Link",
       "Highway": "2:43",
       "Wheelspin": "2:52",
-      "Quarry CP": "4:09",
+      "Quarry": "4:09",
       "Hospital Line": "6:18",
-      "Airport CP": "7:20",
+      "Airport": "7:20",
       "Route 68": "10:05",
-      "Chilliad CP": "12:56",
-      "Off T": {
-        " Tracks": "14:53"
-      },
-      "Observ": {
-        " CP": "16:24"
-      },
+      "Chiliad": "12:56",
+      "Off Tracks": "14:53",
+      "Observatory": "16:24",
       "Zancudo Exit": "17:55",
       "Finish": "19:10",
       "Notes?": ""
@@ -6601,17 +6317,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:50",
-      "Quarry CP": "4:10",
+      "Quarry": "4:10",
       "Hospital Line": "6:16",
-      "Airport CP": "7:19",
+      "Airport": "7:19",
       "Route 68": "10:06",
-      "Chilliad CP": "12:52",
-      "Off T": {
-        " Tracks": "14:53"
-      },
-      "Observ": {
-        " CP": "16:23"
-      },
+      "Chiliad": "12:52",
+      "Off Tracks": "14:53",
+      "Observatory": "16:23",
       "Zancudo Exit": "17:53",
       "Finish": "19:12",
       "Notes?": ""
@@ -6624,17 +6336,13 @@
       "Link": "Link",
       "Highway": "2:38",
       "Wheelspin": "2:45",
-      "Quarry CP": "4:00",
+      "Quarry": "4:00",
       "Hospital Line": "6:07",
-      "Airport CP": "7:09",
+      "Airport": "7:09",
       "Route 68": "9:49",
-      "Chilliad CP": "13:12",
-      "Off T": {
-        " Tracks": "15:01"
-      },
-      "Observ": {
-        " CP": "16:31"
-      },
+      "Chiliad": "13:12",
+      "Off Tracks": "15:01",
+      "Observatory": "16:31",
       "Zancudo Exit": "17:59",
       "Finish": "19:17",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -6647,17 +6355,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:46",
-      "Quarry CP": "4:03",
+      "Quarry": "4:03",
       "Hospital Line": "6:12",
-      "Airport CP": "7:12",
+      "Airport": "7:12",
       "Route 68": "9:56",
-      "Chilliad CP": "12:54",
-      "Off T": {
-        " Tracks": "14:51"
-      },
-      "Observ": {
-        " CP": "16:23"
-      },
+      "Chiliad": "12:54",
+      "Off Tracks": "14:51",
+      "Observatory": "16:23",
       "Zancudo Exit": "17:50",
       "Finish": "19:18",
       "Notes?": ""
@@ -6670,17 +6374,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:50",
-      "Quarry CP": "4:06",
+      "Quarry": "4:06",
       "Hospital Line": "6:08",
-      "Airport CP": "7:11",
+      "Airport": "7:11",
       "Route 68": "9:53",
-      "Chilliad CP": "12:48",
-      "Off T": {
-        " Tracks": "14:57"
-      },
-      "Observ": {
-        " CP": "16:35"
-      },
+      "Chiliad": "12:48",
+      "Off Tracks": "14:57",
+      "Observatory": "16:35",
       "Zancudo Exit": "18:03",
       "Finish": "19:19",
       "Notes?": ""
@@ -6693,17 +6393,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:46",
-      "Quarry CP": "4:06",
+      "Quarry": "4:06",
       "Hospital Line": "6:19",
-      "Airport CP": "7:23",
+      "Airport": "7:23",
       "Route 68": "10:12",
-      "Chilliad CP": "13:02",
-      "Off T": {
-        " Tracks": "15:02"
-      },
-      "Observ": {
-        " CP": "16:37"
-      },
+      "Chiliad": "13:02",
+      "Off Tracks": "15:02",
+      "Observatory": "16:37",
       "Zancudo Exit": "18:07",
       "Finish": "19:25",
       "Notes?": ""
@@ -6716,17 +6412,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:47",
-      "Quarry CP": "4:03",
+      "Quarry": "4:03",
       "Hospital Line": "6:09",
-      "Airport CP": "7:10",
+      "Airport": "7:10",
       "Route 68": "9:52",
-      "Chilliad CP": "13:14",
-      "Off T": {
-        " Tracks": "15:04"
-      },
-      "Observ": {
-        " CP": "16:36"
-      },
+      "Chiliad": "13:14",
+      "Off Tracks": "15:04",
+      "Observatory": "16:36",
       "Zancudo Exit": "18:07",
       "Finish": "19:28",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -6739,17 +6431,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:45",
-      "Quarry CP": "4:06",
+      "Quarry": "4:06",
       "Hospital Line": "6:17",
-      "Airport CP": "7:21",
+      "Airport": "7:21",
       "Route 68": "10:11",
-      "Chilliad CP": "13:01",
-      "Off T": {
-        " Tracks": "15:00"
-      },
-      "Observ": {
-        " CP": "16:42"
-      },
+      "Chiliad": "13:01",
+      "Off Tracks": "15:00",
+      "Observatory": "16:42",
       "Zancudo Exit": "18:13",
       "Finish": "19:32",
       "Notes?": ""
@@ -6762,17 +6450,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:49",
-      "Quarry CP": "4:02",
+      "Quarry": "4:02",
       "Hospital Line": "6:07",
-      "Airport CP": "7:17",
+      "Airport": "7:17",
       "Route 68": "10:05",
-      "Chilliad CP": "13:21",
-      "Off T": {
-        " Tracks": "15:17"
-      },
-      "Observ": {
-        " CP": "16:54"
-      },
+      "Chiliad": "13:21",
+      "Off Tracks": "15:17",
+      "Observatory": "16:54",
       "Zancudo Exit": "18:23",
       "Finish": "19:42",
       "Notes?": "Elevator"
@@ -6785,17 +6469,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:53",
-      "Quarry CP": "4:12",
+      "Quarry": "4:12",
       "Hospital Line": "6:23",
-      "Airport CP": "7:38",
+      "Airport": "7:38",
       "Route 68": "10:32",
-      "Chilliad CP": "13:28",
-      "Off T": {
-        " Tracks": "15:27"
-      },
-      "Observ": {
-        " CP": "16:56"
-      },
+      "Chiliad": "13:28",
+      "Off Tracks": "15:27",
+      "Observatory": "16:56",
       "Zancudo Exit": "18:25",
       "Finish": "19:45",
       "Notes?": ""
@@ -6808,17 +6488,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:47",
-      "Quarry CP": "4:01",
+      "Quarry": "4:01",
       "Hospital Line": "6:05",
-      "Airport CP": "7:13",
+      "Airport": "7:13",
       "Route 68": "9:54",
-      "Chilliad CP": "13:28",
-      "Off T": {
-        " Tracks": "15:28"
-      },
-      "Observ": {
-        " CP": "16:58"
-      },
+      "Chiliad": "13:28",
+      "Off Tracks": "15:28",
+      "Observatory": "16:58",
       "Zancudo Exit": "18:30",
       "Finish": "19:46",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -6831,17 +6507,13 @@
       "Link": "Link",
       "Highway": "2:44",
       "Wheelspin": "2:51",
-      "Quarry CP": "4:10",
+      "Quarry": "4:10",
       "Hospital Line": "6:21",
-      "Airport CP": "7:24",
+      "Airport": "7:24",
       "Route 68": "10:15",
-      "Chilliad CP": "13:10",
-      "Off T": {
-        " Tracks": "15:13"
-      },
-      "Observ": {
-        " CP": "16:46"
-      },
+      "Chiliad": "13:10",
+      "Off Tracks": "15:13",
+      "Observatory": "16:46",
       "Zancudo Exit": "18:19",
       "Finish": "19:47",
       "Notes?": ""
@@ -6854,17 +6526,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:52",
-      "Quarry CP": "4:10",
+      "Quarry": "4:10",
       "Hospital Line": "6:22",
-      "Airport CP": "7:28",
+      "Airport": "7:28",
       "Route 68": "10:22",
-      "Chilliad CP": "13:17",
-      "Off T": {
-        " Tracks": "15:18"
-      },
-      "Observ": {
-        " CP": "16:53"
-      },
+      "Chiliad": "13:17",
+      "Off Tracks": "15:18",
+      "Observatory": "16:53",
       "Zancudo Exit": "18:28",
       "Finish": "19:49",
       "Notes?": "Elevator / Og Chiliad"
@@ -6877,17 +6545,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:50",
-      "Quarry CP": "4:06",
+      "Quarry": "4:06",
       "Hospital Line": "6:17",
-      "Airport CP": "7:23",
+      "Airport": "7:23",
       "Route 68": "10:18",
-      "Chilliad CP": "13:18",
-      "Off T": {
-        " Tracks": "15:26"
-      },
-      "Observ": {
-        " CP": "16:57"
-      },
+      "Chiliad": "13:18",
+      "Off Tracks": "15:26",
+      "Observatory": "16:57",
       "Zancudo Exit": "18:29",
       "Finish": "19:55",
       "Notes?": ""
@@ -6900,17 +6564,13 @@
       "Link": "Link",
       "Highway": "2:44",
       "Wheelspin": "2:56",
-      "Quarry CP": "4:14",
+      "Quarry": "4:14",
       "Hospital Line": "6:28",
-      "Airport CP": "7:34",
+      "Airport": "7:34",
       "Route 68": "10:29",
-      "Chilliad CP": "13:22",
-      "Off T": {
-        " Tracks": "15:28"
-      },
-      "Observ": {
-        " CP": "17:03"
-      },
+      "Chiliad": "13:22",
+      "Off Tracks": "15:28",
+      "Observatory": "17:03",
       "Zancudo Exit": "18:35",
       "Finish": "19:56",
       "Notes?": ""
@@ -6923,17 +6583,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:48",
-      "Quarry CP": "4:02",
+      "Quarry": "4:02",
       "Hospital Line": "6:13",
-      "Airport CP": "7:21",
+      "Airport": "7:21",
       "Route 68": "10:15",
-      "Chilliad CP": "13:29",
-      "Off T": {
-        " Tracks": "15:27"
-      },
-      "Observ": {
-        " CP": "17:04"
-      },
+      "Chiliad": "13:29",
+      "Off Tracks": "15:27",
+      "Observatory": "17:04",
       "Zancudo Exit": "18:34",
       "Finish": "19:56",
       "Notes?": ""
@@ -6946,17 +6602,13 @@
       "Link": "Link",
       "Highway": "2:47",
       "Wheelspin": "2:55",
-      "Quarry CP": "4:16",
+      "Quarry": "4:16",
       "Hospital Line": "6:27",
-      "Airport CP": "7:33",
+      "Airport": "7:33",
       "Route 68": "10:28",
-      "Chilliad CP": "13:32",
-      "Off T": {
-        " Tracks": "15:41"
-      },
-      "Observ": {
-        " CP": "17:20"
-      },
+      "Chiliad": "13:32",
+      "Off Tracks": "15:41",
+      "Observatory": "17:20",
       "Zancudo Exit": "18:52",
       "Finish": "20:10",
       "Notes?": ""
@@ -6969,17 +6621,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:50",
-      "Quarry CP": "4:10",
+      "Quarry": "4:10",
       "Hospital Line": "6:23",
-      "Airport CP": "7:27",
+      "Airport": "7:27",
       "Route 68": "10:20",
-      "Chilliad CP": "13:56",
-      "Off T": {
-        " Tracks": "15:55"
-      },
-      "Observ": {
-        " CP": "17:34"
-      },
+      "Chiliad": "13:56",
+      "Off Tracks": "15:55",
+      "Observatory": "17:34",
       "Zancudo Exit": "19:10",
       "Finish": "20:34",
       "Notes?": ""
@@ -6992,17 +6640,13 @@
       "Link": "Link",
       "Highway": "2:37",
       "Wheelspin": "2:46",
-      "Quarry CP": "4:09",
+      "Quarry": "4:09",
       "Hospital Line": "6:25",
-      "Airport CP": "7:32",
+      "Airport": "7:32",
       "Route 68": "10:30",
-      "Chilliad CP": "14:10",
-      "Off T": {
-        " Tracks": "16:11"
-      },
-      "Observ": {
-        " CP": "17:49"
-      },
+      "Chiliad": "14:10",
+      "Off Tracks": "16:11",
+      "Observatory": "17:49",
       "Zancudo Exit": "19:24",
       "Finish": "20:45",
       "Notes?": "Route 68 = Quarry Underpass    AKA Poopoo XL"
@@ -7015,17 +6659,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:47",
-      "Quarry CP": "4:07",
+      "Quarry": "4:07",
       "Hospital Line": "6:23",
-      "Airport CP": "7:30",
+      "Airport": "7:30",
       "Route 68": "10:36",
-      "Chilliad CP": "14:43",
-      "Off T": {
-        " Tracks": "16:41"
-      },
-      "Observ": {
-        " CP": "18:26"
-      },
+      "Chiliad": "14:43",
+      "Off Tracks": "16:41",
+      "Observatory": "18:26",
       "Zancudo Exit": "19:57",
       "Finish": "21:17",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7038,17 +6678,13 @@
       "Link": "Link",
       "Highway": "2:38",
       "Wheelspin": "2:48",
-      "Quarry CP": "4:12",
+      "Quarry": "4:12",
       "Hospital Line": "6:35",
-      "Airport CP": "7:39",
+      "Airport": "7:39",
       "Route 68": "10:36",
-      "Chilliad CP": "14:15",
-      "Off T": {
-        " Tracks": "16:32"
-      },
-      "Observ": {
-        " CP": "18:24"
-      },
+      "Chiliad": "14:15",
+      "Off Tracks": "16:32",
+      "Observatory": "18:24",
       "Zancudo Exit": "19:57",
       "Finish": "21:18",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7061,17 +6697,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:52",
-      "Quarry CP": "4:14",
+      "Quarry": "4:14",
       "Hospital Line": "6:27",
-      "Airport CP": "7:30",
+      "Airport": "7:30",
       "Route 68": "10:25",
-      "Chilliad CP": "14:31",
-      "Off T": {
-        " Tracks": "16:34"
-      },
-      "Observ": {
-        " CP": "18:24"
-      },
+      "Chiliad": "14:31",
+      "Off Tracks": "16:34",
+      "Observatory": "18:24",
       "Zancudo Exit": "19:58",
       "Finish": "21:18",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7084,17 +6716,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:45",
-      "Quarry CP": "4:03",
+      "Quarry": "4:03",
       "Hospital Line": "6:23",
-      "Airport CP": "7:39",
+      "Airport": "7:39",
       "Route 68": "10:42",
-      "Chilliad CP": "14:35",
-      "Off T": {
-        " Tracks": "16:44"
-      },
-      "Observ": {
-        " CP": "18:29"
-      },
+      "Chiliad": "14:35",
+      "Off Tracks": "16:44",
+      "Observatory": "18:29",
       "Zancudo Exit": "20:06",
       "Finish": "21:33",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7107,17 +6735,13 @@
       "Link": "Link",
       "Highway": "2:37",
       "Wheelspin": "2:46",
-      "Quarry CP": "4:11",
+      "Quarry": "4:11",
       "Hospital Line": "6:29",
-      "Airport CP": "7:36",
+      "Airport": "7:36",
       "Route 68": "10:31",
-      "Chilliad CP": "14:37",
-      "Off T": {
-        " Tracks": "16:47"
-      },
-      "Observ": {
-        " CP": "18:40"
-      },
+      "Chiliad": "14:37",
+      "Off Tracks": "16:47",
+      "Observatory": "18:40",
       "Zancudo Exit": "20:17",
       "Finish": "21:35",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7130,17 +6754,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:49",
-      "Quarry CP": "4:14",
+      "Quarry": "4:14",
       "Hospital Line": "6:35",
-      "Airport CP": "7:48",
+      "Airport": "7:48",
       "Route 68": "10:50",
-      "Chilliad CP": "14:34",
-      "Off T": {
-        " Tracks": "17:14"
-      },
-      "Observ": {
-        " CP": "18:56"
-      },
+      "Chiliad": "14:34",
+      "Off Tracks": "17:14",
+      "Observatory": "18:56",
       "Zancudo Exit": "20:36",
       "Finish": "22:02",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7151,19 +6771,15 @@
       "Time": "22:18.887",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "5:39",
-      "Quarry CP": "6:48",
+      "Quarry": "6:48",
       "Hospital Line": "8:58",
-      "Airport CP": "10:08",
+      "Airport": "10:08",
       "Route 68": "13:05",
-      "Chilliad CP": "15:47",
-      "Off T": {
-        " Tracks": "17:50"
-      },
-      "Observ": {
-        " CP": "19:23"
-      },
+      "Chiliad": "15:47",
+      "Off Tracks": "17:50",
+      "Observatory": "19:23",
       "Zancudo Exit": "20:52",
       "Finish": "22:18",
       "Notes?": ""
@@ -7174,19 +6790,15 @@
       "Time": "22:31.464",
       "Player": "SLIMYYY",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "4:23",
-      "Quarry CP": "6:26",
+      "Quarry": "6:26",
       "Hospital Line": "8:31",
-      "Airport CP": "9:33",
+      "Airport": "9:33",
       "Route 68": "12:15",
-      "Chilliad CP": "15:09",
-      "Off T": {
-        " Tracks": "17:29"
-      },
-      "Observ": {
-        " CP": "19:01"
-      },
+      "Chiliad": "15:09",
+      "Off Tracks": "17:29",
+      "Observatory": "19:01",
       "Zancudo Exit": "20:46",
       "Finish": "22:31",
       "Notes?": ""
@@ -7199,17 +6811,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:46",
-      "Quarry CP": "4:15",
+      "Quarry": "4:15",
       "Hospital Line": "6:45",
-      "Airport CP": "7:55",
+      "Airport": "7:55",
       "Route 68": "11:03",
-      "Chilliad CP": "15:33",
-      "Off T": {
-        " Tracks": "17:39"
-      },
-      "Observ": {
-        " CP": "19:40"
-      },
+      "Chiliad": "15:33",
+      "Off Tracks": "17:39",
+      "Observatory": "19:40",
       "Zancudo Exit": "21:16",
       "Finish": "22:40",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7220,19 +6828,15 @@
       "Time": "22:47.048",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "6:46",
-      "Quarry CP": "8:48",
+      "Quarry": "8:48",
       "Hospital Line": "10:47",
-      "Airport CP": "11:47",
+      "Airport": "11:47",
       "Route 68": "14:22",
-      "Chilliad CP": "16:53",
-      "Off T": {
-        " Tracks": "18:45"
-      },
-      "Observ": {
-        " CP": "20:06"
-      },
+      "Chiliad": "16:53",
+      "Off Tracks": "18:45",
+      "Observatory": "20:06",
       "Zancudo Exit": "21:28",
       "Finish": "22:47",
       "Notes?": "Elevator"
@@ -7243,19 +6847,15 @@
       "Time": "22:48.784",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "4:19",
-      "Quarry CP": "6:27",
+      "Quarry": "6:27",
       "Hospital Line": "8:36",
-      "Airport CP": "9:40",
+      "Airport": "9:40",
       "Route 68": "12:31",
-      "Chilliad CP": "16:09",
-      "Off T": {
-        " Tracks": "18:19"
-      },
-      "Observ": {
-        " CP": "19:59"
-      },
+      "Chiliad": "16:09",
+      "Off Tracks": "18:19",
+      "Observatory": "19:59",
       "Zancudo Exit": "21:30",
       "Finish": "22:48",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7268,17 +6868,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:47",
-      "Quarry CP": "4:17",
+      "Quarry": "4:17",
       "Hospital Line": "6:43",
-      "Airport CP": "7:52",
+      "Airport": "7:52",
       "Route 68": "11:25",
-      "Chilliad CP": "14:52",
-      "Off T": {
-        " Tracks": "17:12"
-      },
-      "Observ": {
-        " CP": "18:53"
-      },
+      "Chiliad": "14:52",
+      "Off Tracks": "17:12",
+      "Observatory": "18:53",
       "Zancudo Exit": "21:27",
       "Finish": "22:57",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7291,17 +6887,13 @@
       "Link": "Link",
       "Highway": "2:44",
       "Wheelspin": "2:53",
-      "Quarry CP": "4:21",
+      "Quarry": "4:21",
       "Hospital Line": "6:52",
-      "Airport CP": "8:01",
+      "Airport": "8:01",
       "Route 68": "11:13",
-      "Chilliad CP": "16:13",
-      "Off T": {
-        " Tracks": "18:23"
-      },
-      "Observ": {
-        " CP": "20:34"
-      },
+      "Chiliad": "16:13",
+      "Off Tracks": "18:23",
+      "Observatory": "20:34",
       "Zancudo Exit": "22:11",
       "Finish": "23:40",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7312,19 +6904,15 @@
       "Time": "23:45.073",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "4:44",
-      "Quarry CP": "6:53",
+      "Quarry": "6:53",
       "Hospital Line": "9:07",
-      "Airport CP": "10:12",
+      "Airport": "10:12",
       "Route 68": "13:08",
-      "Chilliad CP": "16:57",
-      "Off T": {
-        " Tracks": "19:02"
-      },
-      "Observ": {
-        " CP": "20:50"
-      },
+      "Chiliad": "16:57",
+      "Off Tracks": "19:02",
+      "Observatory": "20:50",
       "Zancudo Exit": "22:23",
       "Finish": "23:45",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7335,19 +6923,15 @@
       "Time": "23:46.358",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "4:59",
-      "Quarry CP": "6:19",
+      "Quarry": "6:19",
       "Hospital Line": "8:37",
-      "Airport CP": "9:44",
+      "Airport": "9:44",
       "Route 68": "12:47",
-      "Chilliad CP": "16:52",
-      "Off T": {
-        " Tracks": "18:59"
-      },
-      "Observ": {
-        " CP": "20:46"
-      },
+      "Chiliad": "16:52",
+      "Off Tracks": "18:59",
+      "Observatory": "20:46",
       "Zancudo Exit": "22:21",
       "Finish": "23:46",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7360,17 +6944,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:52",
-      "Quarry CP": "4:17",
+      "Quarry": "4:17",
       "Hospital Line": "6:49",
-      "Airport CP": "8:07",
+      "Airport": "8:07",
       "Route 68": "11:18",
-      "Chilliad CP": "15:36",
-      "Off T": {
-        " Tracks": "18:20"
-      },
-      "Observ": {
-        " CP": "20:13"
-      },
+      "Chiliad": "15:36",
+      "Off Tracks": "18:20",
+      "Observatory": "20:13",
       "Zancudo Exit": "21:58",
       "Finish": "23:48",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7383,17 +6963,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:48",
-      "Quarry CP": "4:20",
+      "Quarry": "4:20",
       "Hospital Line": "6:55",
-      "Airport CP": "8:17",
+      "Airport": "8:17",
       "Route 68": "11:42",
-      "Chilliad CP": "15:37",
-      "Off T": {
-        " Tracks": "18:24"
-      },
-      "Observ": {
-        " CP": "20:24"
-      },
+      "Chiliad": "15:37",
+      "Off Tracks": "18:24",
+      "Observatory": "20:24",
       "Zancudo Exit": "22:08",
       "Finish": "23:51",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7406,17 +6982,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:46",
-      "Quarry CP": "4:21",
+      "Quarry": "4:21",
       "Hospital Line": "6:50",
-      "Airport CP": "8:30",
+      "Airport": "8:30",
       "Route 68": "11:56",
-      "Chilliad CP": "15:27",
-      "Off T": {
-        " Tracks": "18:37"
-      },
-      "Observ": {
-        " CP": "20:17"
-      },
+      "Chiliad": "15:27",
+      "Off Tracks": "18:37",
+      "Observatory": "20:17",
       "Zancudo Exit": "22:25",
       "Finish": "24:00",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7429,17 +7001,13 @@
       "Link": "Link",
       "Highway": "2:37",
       "Wheelspin": "2:45",
-      "Quarry CP": "4:13",
+      "Quarry": "4:13",
       "Hospital Line": "6:47",
-      "Airport CP": "7:59",
+      "Airport": "7:59",
       "Route 68": "11:17",
-      "Chilliad CP": "16:34",
-      "Off T": {
-        " Tracks": "18:45"
-      },
-      "Observ": {
-        " CP": "21:02"
-      },
+      "Chiliad": "16:34",
+      "Off Tracks": "18:45",
+      "Observatory": "21:02",
       "Zancudo Exit": "22:44",
       "Finish": "24:20",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7450,19 +7018,15 @@
       "Time": "24:22.026",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "4:58",
-      "Quarry CP": "6:24",
+      "Quarry": "6:24",
       "Hospital Line": "8:46",
-      "Airport CP": "10:40",
+      "Airport": "10:40",
       "Route 68": "13:39",
-      "Chilliad CP": "17:29",
-      "Off T": {
-        " Tracks": "19:32"
-      },
-      "Observ": {
-        " CP": "21:23"
-      },
+      "Chiliad": "17:29",
+      "Off Tracks": "19:32",
+      "Observatory": "21:23",
       "Zancudo Exit": "22:57",
       "Finish": "24:22",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7473,19 +7037,15 @@
       "Time": "24:29.650",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "4:32",
-      "Quarry CP": "6:45",
+      "Quarry": "6:45",
       "Hospital Line": "9:03",
-      "Airport CP": "10:11",
+      "Airport": "10:11",
       "Route 68": "13:12",
-      "Chilliad CP": "17:05",
-      "Off T": {
-        " Tracks": "19:25"
-      },
-      "Observ": {
-        " CP": "21:12"
-      },
+      "Chiliad": "17:05",
+      "Off Tracks": "19:25",
+      "Observatory": "21:12",
       "Zancudo Exit": "22:57",
       "Finish": "24:29",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7498,17 +7058,13 @@
       "Link": "Link",
       "Highway": "2:49",
       "Wheelspin": "3:00",
-      "Quarry CP": "4:32",
+      "Quarry": "4:32",
       "Hospital Line": "7:11",
-      "Airport CP": "8:35",
+      "Airport": "8:35",
       "Route 68": "12:10",
-      "Chilliad CP": "16:56",
-      "Off T": {
-        " Tracks": "19:03"
-      },
-      "Observ": {
-        " CP": "21:10"
-      },
+      "Chiliad": "16:56",
+      "Off Tracks": "19:03",
+      "Observatory": "21:10",
       "Zancudo Exit": "22:54",
       "Finish": "24:31",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7519,19 +7075,15 @@
       "Time": "24:40.746",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "4:41",
-      "Quarry CP": "6:56",
+      "Quarry": "6:56",
       "Hospital Line": "9:14",
-      "Airport CP": "10:28",
+      "Airport": "10:28",
       "Route 68": "13:28",
-      "Chilliad CP": "17:41",
-      "Off T": {
-        " Tracks": "19:52"
-      },
-      "Observ": {
-        " CP": "21:40"
-      },
+      "Chiliad": "17:41",
+      "Off Tracks": "19:52",
+      "Observatory": "21:40",
       "Zancudo Exit": "23:17",
       "Finish": "24:40",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7544,17 +7096,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:49",
-      "Quarry CP": "4:23",
+      "Quarry": "4:23",
       "Hospital Line": "7:06",
-      "Airport CP": "8:27",
+      "Airport": "8:27",
       "Route 68": "11:57",
-      "Chilliad CP": "17:40",
-      "Off T": {
-        " Tracks": "19:51"
-      },
-      "Observ": {
-        " CP": "22:19"
-      },
+      "Chiliad": "17:40",
+      "Off Tracks": "19:51",
+      "Observatory": "22:19",
       "Zancudo Exit": "24:06",
       "Finish": "25:51",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7567,17 +7115,13 @@
       "Link": "Link",
       "Highway": "2:46",
       "Wheelspin": "2:57",
-      "Quarry CP": "4:33",
+      "Quarry": "4:33",
       "Hospital Line": "7:00",
-      "Airport CP": "8:55",
+      "Airport": "8:55",
       "Route 68": "12:04",
-      "Chilliad CP": "16:22",
-      "Off T": {
-        " Tracks": "19:08"
-      },
-      "Observ": {
-        " CP": "20:48"
-      },
+      "Chiliad": "16:22",
+      "Off Tracks": "19:08",
+      "Observatory": "20:48",
       "Zancudo Exit": "24:49",
       "Finish": "26:49",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7590,17 +7134,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "2:52",
-      "Quarry CP": "4:33",
+      "Quarry": "4:33",
       "Hospital Line": "7:20",
-      "Airport CP": "8:39",
+      "Airport": "8:39",
       "Route 68": "12:19",
-      "Chilliad CP": "18:15",
-      "Off T": {
-        " Tracks": "20:50"
-      },
-      "Observ": {
-        " CP": "23:21"
-      },
+      "Chiliad": "18:15",
+      "Off Tracks": "20:50",
+      "Observatory": "23:21",
       "Zancudo Exit": "25:12",
       "Finish": "27:01",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7613,17 +7153,13 @@
       "Link": "Link",
       "Highway": "2:46",
       "Wheelspin": "2:57",
-      "Quarry CP": "4:29",
+      "Quarry": "4:29",
       "Hospital Line": "7:04",
-      "Airport CP": "9:24",
+      "Airport": "9:24",
       "Route 68": "12:52",
-      "Chilliad CP": "18:15",
-      "Off T": {
-        " Tracks": "21:08"
-      },
-      "Observ": {
-        " CP": "23:26"
-      },
+      "Chiliad": "18:15",
+      "Off Tracks": "21:08",
+      "Observatory": "23:26",
       "Zancudo Exit": "25:10",
       "Finish": "27:04",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7636,17 +7172,13 @@
       "Link": "Link",
       "Highway": "2:44",
       "Wheelspin": "2:56",
-      "Quarry CP": "4:30",
+      "Quarry": "4:30",
       "Hospital Line": "7:16",
-      "Airport CP": "9:33",
+      "Airport": "9:33",
       "Route 68": "13:10",
-      "Chilliad CP": "17:32",
-      "Off T": {
-        " Tracks": "20:47"
-      },
-      "Observ": {
-        " CP": "23:04"
-      },
+      "Chiliad": "17:32",
+      "Off Tracks": "20:47",
+      "Observatory": "23:04",
       "Zancudo Exit": "25:07",
       "Finish": "27:05",
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
@@ -7659,17 +7191,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:52",
-      "Quarry CP": "4:30",
+      "Quarry": "4:30",
       "Hospital Line": "7:12",
-      "Airport CP": "8:31",
+      "Airport": "8:31",
       "Route 68": "12:08",
-      "Chilliad CP": "18:10",
-      "Off T": {
-        " Tracks": "20:51"
-      },
-      "Observ": {
-        " CP": "23:18"
-      },
+      "Chiliad": "18:10",
+      "Off Tracks": "20:51",
+      "Observatory": "23:18",
       "Zancudo Exit": "25:39",
       "Finish": "27:30",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7682,17 +7210,13 @@
       "Link": "Link",
       "Highway": "2:43",
       "Wheelspin": "2:55",
-      "Quarry CP": "4:33",
+      "Quarry": "4:33",
       "Hospital Line": "7:11",
-      "Airport CP": "8:32",
+      "Airport": "8:32",
       "Route 68": "11:47",
-      "Chilliad CP": "17:54",
-      "Off T": {
-        " Tracks": "21:17"
-      },
-      "Observ": {
-        " CP": "23:47"
-      },
+      "Chiliad": "17:54",
+      "Off Tracks": "21:17",
+      "Observatory": "23:47",
       "Zancudo Exit": "25:54",
       "Finish": "27:53",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7703,19 +7227,15 @@
       "Time": "27:54.655",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "11:28",
-      "Quarry CP": "14:23",
+      "Quarry": "14:23",
       "Hospital Line": "16:17",
-      "Airport CP": "17:15",
+      "Airport": "17:15",
       "Route 68": "19:43",
-      "Chilliad CP": "22:08",
-      "Off T": {
-        " Tracks": "23:56"
-      },
-      "Observ": {
-        " CP": "25:16"
-      },
+      "Chiliad": "22:08",
+      "Off Tracks": "23:56",
+      "Observatory": "25:16",
       "Zancudo Exit": "26:40",
       "Finish": "27:54",
       "Notes?": ""
@@ -7726,19 +7246,15 @@
       "Time": "28:10.720",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "13:00",
-      "Quarry CP": "15:38",
+      "Quarry": "15:38",
       "Hospital Line": "17:25",
-      "Airport CP": "18:17",
+      "Airport": "18:17",
       "Route 68": "20:31",
-      "Chilliad CP": "22:46",
-      "Off T": {
-        " Tracks": "24:38"
-      },
-      "Observ": {
-        " CP": "25:49"
-      },
+      "Chiliad": "22:46",
+      "Off Tracks": "24:38",
+      "Observatory": "25:49",
       "Zancudo Exit": "27:06",
       "Finish": "28:10",
       "Notes?": ""
@@ -7749,19 +7265,15 @@
       "Time": "28:14.024",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "10:30",
-      "Quarry CP": "13:37",
+      "Quarry": "13:37",
       "Hospital Line": "15:41",
-      "Airport CP": "16:41",
+      "Airport": "16:41",
       "Route 68": "19:18",
-      "Chilliad CP": "22:06",
-      "Off T": {
-        " Tracks": "24:04"
-      },
-      "Observ": {
-        " CP": "25:32"
-      },
+      "Chiliad": "22:06",
+      "Off Tracks": "24:04",
+      "Observatory": "25:32",
       "Zancudo Exit": "26:59",
       "Finish": "28:14",
       "Notes?": ""
@@ -7774,17 +7286,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:52",
-      "Quarry CP": "4:31",
+      "Quarry": "4:31",
       "Hospital Line": "7:23",
-      "Airport CP": "8:48",
+      "Airport": "8:48",
       "Route 68": "12:19",
-      "Chilliad CP": "19:23",
-      "Off T": {
-        " Tracks": "21:49"
-      },
-      "Observ": {
-        " CP": "24:32"
-      },
+      "Chiliad": "19:23",
+      "Off Tracks": "21:49",
+      "Observatory": "24:32",
       "Zancudo Exit": "26:27",
       "Finish": "28:21",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7795,19 +7303,15 @@
       "Time": "28:32.493",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "12:07",
-      "Quarry CP": "14:51",
+      "Quarry": "14:51",
       "Hospital Line": "16:40",
-      "Airport CP": "17:35",
+      "Airport": "17:35",
       "Route 68": "19:51",
-      "Chilliad CP": "22:24",
-      "Off T": {
-        " Tracks": "24:17"
-      },
-      "Observ": {
-        " CP": "25:36"
-      },
+      "Chiliad": "22:24",
+      "Off Tracks": "24:17",
+      "Observatory": "25:36",
       "Zancudo Exit": "26:54",
       "Finish": "28:32",
       "Notes?": ""
@@ -7818,19 +7322,15 @@
       "Time": "28:38.850",
       "Player": "SLIMYYY",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "12:44",
-      "Quarry CP": "15:23",
+      "Quarry": "15:23",
       "Hospital Line": "17:12",
-      "Airport CP": "18:09",
+      "Airport": "18:09",
       "Route 68": "20:29",
-      "Chilliad CP": "22:51",
-      "Off T": {
-        " Tracks": "24:43"
-      },
-      "Observ": {
-        " CP": "26:01"
-      },
+      "Chiliad": "22:51",
+      "Off Tracks": "24:43",
+      "Observatory": "26:01",
       "Zancudo Exit": "27:28",
       "Finish": "28:38",
       "Notes?": ""
@@ -7841,19 +7341,15 @@
       "Time": "28:55.649",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "13:52",
-      "Quarry CP": "16:26",
+      "Quarry": "16:26",
       "Hospital Line": "18:15",
-      "Airport CP": "19:09",
+      "Airport": "19:09",
       "Route 68": "21:32",
-      "Chilliad CP": "23:45",
-      "Off T": {
-        " Tracks": "25:19"
-      },
-      "Observ": {
-        " CP": "26:31"
-      },
+      "Chiliad": "23:45",
+      "Off Tracks": "25:19",
+      "Observatory": "26:31",
       "Zancudo Exit": "27:49",
       "Finish": "28:55",
       "Notes?": ""
@@ -7864,19 +7360,15 @@
       "Time": "28:57.952",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "11:21",
-      "Quarry CP": "14:12",
+      "Quarry": "14:12",
       "Hospital Line": "16:09",
-      "Airport CP": "17:09",
+      "Airport": "17:09",
       "Route 68": "19:52",
-      "Chilliad CP": "22:26",
-      "Off T": {
-        " Tracks": "24:42"
-      },
-      "Observ": {
-        " CP": "26:10"
-      },
+      "Chiliad": "22:26",
+      "Off Tracks": "24:42",
+      "Observatory": "26:10",
       "Zancudo Exit": "27:40",
       "Finish": "28:57",
       "Notes?": ""
@@ -7889,17 +7381,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "2:53",
-      "Quarry CP": "4:21",
+      "Quarry": "4:21",
       "Hospital Line": "6:47",
-      "Airport CP": "8:08",
+      "Airport": "8:08",
       "Route 68": "11:12",
-      "Chilliad CP": "19:37",
-      "Off T": {
-        " Tracks": "22:36"
-      },
-      "Observ": {
-        " CP": "25:19"
-      },
+      "Chiliad": "19:37",
+      "Off Tracks": "22:36",
+      "Observatory": "25:19",
       "Zancudo Exit": "27:27",
       "Finish": "29:08",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -7912,17 +7400,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "3:10",
-      "Quarry CP": "4:40",
+      "Quarry": "4:40",
       "Hospital Line": "7:27",
-      "Airport CP": "11:33",
+      "Airport": "11:33",
       "Route 68": "15:13",
-      "Chilliad CP": "19:57",
-      "Off T": {
-        " Tracks": "22:54"
-      },
-      "Observ": {
-        " CP": "25:14"
-      },
+      "Chiliad": "19:57",
+      "Off Tracks": "22:54",
+      "Observatory": "25:14",
       "Zancudo Exit": "27:21",
       "Finish": "29:08",
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
@@ -7935,17 +7419,13 @@
       "Link": "",
       "Highway": "",
       "Wheelspin": "",
-      "Quarry CP": "",
+      "Quarry": "",
       "Hospital Line": "",
-      "Airport CP": "",
+      "Airport": "",
       "Route 68": "",
-      "Chilliad CP": "",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": ""
-      },
+      "Chiliad": "",
+      "Off Tracks": "",
+      "Observatory": "",
       "Zancudo Exit": "",
       "Finish": "",
       "Notes?": ""
@@ -7956,19 +7436,15 @@
       "Time": "29:15.402",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "12:00",
-      "Quarry CP": "14:56",
+      "Quarry": "14:56",
       "Hospital Line": "16:57",
-      "Airport CP": "17:55",
+      "Airport": "17:55",
       "Route 68": "20:28",
-      "Chilliad CP": "23:10",
-      "Off T": {
-        " Tracks": "25:07"
-      },
-      "Observ": {
-        " CP": "26:30"
-      },
+      "Chiliad": "23:10",
+      "Off Tracks": "25:07",
+      "Observatory": "26:30",
       "Zancudo Exit": "28:01",
       "Finish": "29:15",
       "Notes?": ""
@@ -7981,17 +7457,13 @@
       "Link": "Link",
       "Highway": "2:40",
       "Wheelspin": "3:04",
-      "Quarry CP": "4:33",
+      "Quarry": "4:33",
       "Hospital Line": "7:17",
-      "Airport CP": "11:57",
+      "Airport": "11:57",
       "Route 68": "15:38",
-      "Chilliad CP": "20:10",
-      "Off T": {
-        " Tracks": "23:50"
-      },
-      "Observ": {
-        " CP": "26:01"
-      },
+      "Chiliad": "20:10",
+      "Off Tracks": "23:50",
+      "Observatory": "26:01",
       "Zancudo Exit": "28:00",
       "Finish": "29:54",
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
@@ -8004,17 +7476,13 @@
       "Link": "Link",
       "Highway": "2:43",
       "Wheelspin": "3:07",
-      "Quarry CP": "4:55",
+      "Quarry": "4:55",
       "Hospital Line": "7:42",
-      "Airport CP": "9:55",
+      "Airport": "9:55",
       "Route 68": "13:44",
-      "Chilliad CP": "20:01",
-      "Off T": {
-        " Tracks": "23:05"
-      },
-      "Observ": {
-        " CP": "25:50"
-      },
+      "Chiliad": "20:01",
+      "Off Tracks": "23:05",
+      "Observatory": "25:50",
       "Zancudo Exit": "27:48",
       "Finish": "29:54",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8027,17 +7495,13 @@
       "Link": "Link",
       "Highway": "2:43",
       "Wheelspin": "3:02",
-      "Quarry CP": "4:27",
+      "Quarry": "4:27",
       "Hospital Line": "6:55",
-      "Airport CP": "13:12",
+      "Airport": "13:12",
       "Route 68": "16:22",
-      "Chilliad CP": "20:43",
-      "Off T": {
-        " Tracks": "24:01"
-      },
-      "Observ": {
-        " CP": "26:02"
-      },
+      "Chiliad": "20:43",
+      "Off Tracks": "24:01",
+      "Observatory": "26:02",
       "Zancudo Exit": "27:55",
       "Finish": "29:56",
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (aggressive)"
@@ -8048,19 +7512,15 @@
       "Time": "29:57.248",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "10:11",
-      "Quarry CP": "13:34",
+      "Quarry": "13:34",
       "Hospital Line": "15:48",
-      "Airport CP": "16:53",
+      "Airport": "16:53",
       "Route 68": "19:46",
-      "Chilliad CP": "22:47",
-      "Off T": {
-        " Tracks": "24:54"
-      },
-      "Observ": {
-        " CP": "26:29"
-      },
+      "Chiliad": "22:47",
+      "Off Tracks": "24:54",
+      "Observatory": "26:29",
       "Zancudo Exit": "28:05",
       "Finish": "29:57",
       "Notes?": ""
@@ -8071,19 +7531,15 @@
       "Time": "29:58.063",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "11:41",
-      "Quarry CP": "14:50",
+      "Quarry": "14:50",
       "Hospital Line": "16:59",
-      "Airport CP": "18:06",
+      "Airport": "18:06",
       "Route 68": "20:54",
-      "Chilliad CP": "23:41",
-      "Off T": {
-        " Tracks": "25:35"
-      },
-      "Observ": {
-        " CP": "27:04"
-      },
+      "Chiliad": "23:41",
+      "Off Tracks": "25:35",
+      "Observatory": "27:04",
       "Zancudo Exit": "28:35",
       "Finish": "29:58",
       "Notes?": ""
@@ -8094,19 +7550,15 @@
       "Time": "30:04.650",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "5:19",
-      "Quarry CP": "7:17",
+      "Quarry": "7:17",
       "Hospital Line": "9:49",
-      "Airport CP": "11:15",
+      "Airport": "11:15",
       "Route 68": "14:30",
-      "Chilliad CP": "20:50",
-      "Off T": {
-        " Tracks": "23:44"
-      },
-      "Observ": {
-        " CP": "26:12"
-      },
+      "Chiliad": "20:50",
+      "Off Tracks": "23:44",
+      "Observatory": "26:12",
       "Zancudo Exit": "28:12",
       "Finish": "30:04",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8119,17 +7571,13 @@
       "Link": "Link",
       "Highway": "2:44",
       "Wheelspin": "2:52",
-      "Quarry CP": "4:37",
+      "Quarry": "4:37",
       "Hospital Line": "7:33",
-      "Airport CP": "9:08",
+      "Airport": "9:08",
       "Route 68": "12:47",
-      "Chilliad CP": "20:46",
-      "Off T": {
-        " Tracks": "23:27"
-      },
-      "Observ": {
-        " CP": "26:24"
-      },
+      "Chiliad": "20:46",
+      "Off Tracks": "23:27",
+      "Observatory": "26:24",
       "Zancudo Exit": "28:18",
       "Finish": "30:06",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8140,19 +7588,15 @@
       "Time": "30:07.955",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "11:29",
-      "Quarry CP": "14:37",
+      "Quarry": "14:37",
       "Hospital Line": "16:44",
-      "Airport CP": "17:49",
+      "Airport": "17:49",
       "Route 68": "20:32",
-      "Chilliad CP": "23:38",
-      "Off T": {
-        " Tracks": "25:46"
-      },
-      "Observ": {
-        " CP": "27:14"
-      },
+      "Chiliad": "23:38",
+      "Off Tracks": "25:46",
+      "Observatory": "27:14",
       "Zancudo Exit": "28:49",
       "Finish": "30:07",
       "Notes?": ""
@@ -8165,18 +7609,14 @@
       "Link": "Link",
       "Highway": "2:48",
       "Wheelspin": "3:18",
-      "Quarry CP": "4:48",
+      "Quarry": "4:48",
       "Hospital Line": "7:21",
-      "Airport CP": "9:41",
+      "Airport": "9:41",
       "Route 68": "13:15",
-      "Chilliad CP": "20:05",
-      "Off T": {
-        " Tracks": "22:50"
-      },
-      "Observ": {
-        " CP": "25:16"
-      },
-      "Zancudo Exit": "",
+      "Chiliad": "20:05",
+      "Off Tracks": "22:50",
+      "Observatory": "25:16",
+      "Zancudo Exit": "N/A",
       "Finish": "30:11",
       "Notes?": ""
     },
@@ -8188,17 +7628,13 @@
       "Link": "Link",
       "Highway": "2:44",
       "Wheelspin": "3:35",
-      "Quarry CP": "5:05",
+      "Quarry": "5:05",
       "Hospital Line": "7:48",
-      "Airport CP": "11:16",
+      "Airport": "11:16",
       "Route 68": "15:19",
-      "Chilliad CP": "19:58",
-      "Off T": {
-        " Tracks": "23:49"
-      },
-      "Observ": {
-        " CP": "25:58"
-      },
+      "Chiliad": "19:58",
+      "Off Tracks": "23:49",
+      "Observatory": "25:58",
       "Zancudo Exit": "28:23",
       "Finish": "30:26",
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
@@ -8211,17 +7647,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:47",
-      "Quarry CP": "4:27",
+      "Quarry": "4:27",
       "Hospital Line": "7:23",
-      "Airport CP": "9:20",
+      "Airport": "9:20",
       "Route 68": "13:05",
-      "Chilliad CP": "20:46",
-      "Off T": {
-        " Tracks": "23:57"
-      },
-      "Observ": {
-        " CP": "26:41"
-      },
+      "Chiliad": "20:46",
+      "Off Tracks": "23:57",
+      "Observatory": "26:41",
       "Zancudo Exit": "28:35",
       "Finish": "30:28",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8234,17 +7666,13 @@
       "Link": "Link",
       "Highway": "2:39",
       "Wheelspin": "2:59",
-      "Quarry CP": "4:37",
+      "Quarry": "4:37",
       "Hospital Line": "7:31",
-      "Airport CP": "8:58",
+      "Airport": "8:58",
       "Route 68": "12:37",
-      "Chilliad CP": "20:37",
-      "Off T": {
-        " Tracks": "23:52"
-      },
-      "Observ": {
-        " CP": "26:56"
-      },
+      "Chiliad": "20:37",
+      "Off Tracks": "23:52",
+      "Observatory": "26:56",
       "Zancudo Exit": "29:06",
       "Finish": "30:59",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8257,17 +7685,13 @@
       "Link": "Link",
       "Highway": "2:45",
       "Wheelspin": "3:04",
-      "Quarry CP": "4:51",
+      "Quarry": "4:51",
       "Hospital Line": "7:48",
-      "Airport CP": "9:49",
+      "Airport": "9:49",
       "Route 68": "13:42",
-      "Chilliad CP": "21:25",
-      "Off T": {
-        " Tracks": "24:32"
-      },
-      "Observ": {
-        " CP": "27:32"
-      },
+      "Chiliad": "21:25",
+      "Off Tracks": "24:32",
+      "Observatory": "27:32",
       "Zancudo Exit": "29:25",
       "Finish": "31:23",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8278,19 +7702,15 @@
       "Time": "31:40.081",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "13:33",
-      "Quarry CP": "16:24",
+      "Quarry": "16:24",
       "Hospital Line": "18:31",
-      "Airport CP": "19:33",
+      "Airport": "19:33",
       "Route 68": "22:12",
-      "Chilliad CP": "25:27",
-      "Off T": {
-        " Tracks": "27:26"
-      },
-      "Observ": {
-        " CP": "28:55"
-      },
+      "Chiliad": "25:27",
+      "Off Tracks": "27:26",
+      "Observatory": "28:55",
       "Zancudo Exit": "30:24",
       "Finish": "31:40",
       "Notes?": ""
@@ -8301,19 +7721,15 @@
       "Time": "31:50.808",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "8:52",
-      "Quarry CP": "11:56",
+      "Quarry": "11:56",
       "Hospital Line": "14:20",
-      "Airport CP": "16:22",
+      "Airport": "16:22",
       "Route 68": "19:29",
-      "Chilliad CP": "23:16",
-      "Off T": {
-        " Tracks": "25:55"
-      },
-      "Observ": {
-        " CP": "27:59"
-      },
+      "Chiliad": "23:16",
+      "Off Tracks": "25:55",
+      "Observatory": "27:59",
       "Zancudo Exit": "30:00",
       "Finish": "31:50",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8324,19 +7740,15 @@
       "Time": "32:09.860",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "16:36",
-      "Quarry CP": "19:05",
+      "Quarry": "19:05",
       "Hospital Line": "20:44",
-      "Airport CP": "21:38",
+      "Airport": "21:38",
       "Route 68": "23:56",
-      "Chilliad CP": "26:04",
-      "Off T": {
-        " Tracks": "27:46"
-      },
-      "Observ": {
-        " CP": "28:51"
-      },
+      "Chiliad": "26:04",
+      "Off Tracks": "27:46",
+      "Observatory": "28:51",
       "Zancudo Exit": "30:03",
       "Finish": "32:09",
       "Notes?": "Hybrid"
@@ -8349,17 +7761,13 @@
       "Link": "Link",
       "Highway": "2:41",
       "Wheelspin": "2:56",
-      "Quarry CP": "4:30",
+      "Quarry": "4:30",
       "Hospital Line": "7:09",
-      "Airport CP": "11:16",
+      "Airport": "11:16",
       "Route 68": "16:09",
-      "Chilliad CP": "20:56",
-      "Off T": {
-        " Tracks": "25:17"
-      },
-      "Observ": {
-        " CP": "27:41"
-      },
+      "Chiliad": "20:56",
+      "Off Tracks": "25:17",
+      "Observatory": "27:41",
       "Zancudo Exit": "30:10",
       "Finish": "32:11",
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
@@ -8370,19 +7778,15 @@
       "Time": "32:22.974",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "5:35",
-      "Quarry CP": "7:13",
+      "Quarry": "7:13",
       "Hospital Line": "10:02",
-      "Airport CP": "12:05",
+      "Airport": "12:05",
       "Route 68": "15:53",
-      "Chilliad CP": "23:07",
-      "Off T": {
-        " Tracks": "25:47"
-      },
-      "Observ": {
-        " CP": "28:25"
-      },
+      "Chiliad": "23:07",
+      "Off Tracks": "25:47",
+      "Observatory": "28:25",
       "Zancudo Exit": "30:31",
       "Finish": "32:22",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8395,17 +7799,13 @@
       "Link": "Link",
       "Highway": "2:44",
       "Wheelspin": "5:32",
-      "Quarry CP": "7:05",
+      "Quarry": "7:05",
       "Hospital Line": "9:49",
-      "Airport CP": "12:32",
+      "Airport": "12:32",
       "Route 68": "16:41",
-      "Chilliad CP": "21:34",
-      "Off T": {
-        " Tracks": "26:02"
-      },
-      "Observ": {
-        " CP": "28:22"
-      },
+      "Chiliad": "21:34",
+      "Off Tracks": "26:02",
+      "Observatory": "28:22",
       "Zancudo Exit": "30:57",
       "Finish": "33:02",
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
@@ -8416,19 +7816,15 @@
       "Time": "36:11.735",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "10:01",
-      "Quarry CP": "12:43",
+      "Quarry": "12:43",
       "Hospital Line": "15:08",
-      "Airport CP": "16:59",
+      "Airport": "16:59",
       "Route 68": "20:05",
-      "Chilliad CP": "27:12",
-      "Off T": {
-        " Tracks": "30:09"
-      },
-      "Observ": {
-        " CP": "32:29"
-      },
+      "Chiliad": "27:12",
+      "Off Tracks": "30:09",
+      "Observatory": "32:29",
       "Zancudo Exit": "34:18",
       "Finish": "36:11",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8441,17 +7837,13 @@
       "Link": "",
       "Highway": "",
       "Wheelspin": "",
-      "Quarry CP": "",
+      "Quarry": "",
       "Hospital Line": "",
-      "Airport CP": "",
+      "Airport": "",
       "Route 68": "",
-      "Chilliad CP": "",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": ""
-      },
+      "Chiliad": "",
+      "Off Tracks": "",
+      "Observatory": "",
       "Zancudo Exit": "",
       "Finish": "",
       "Notes?": ""
@@ -8462,19 +7854,15 @@
       "Time": "37:08.009",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "10:51",
-      "Quarry CP": "13:56",
+      "Quarry": "13:56",
       "Hospital Line": "16:30",
-      "Airport CP": "17:52",
+      "Airport": "17:52",
       "Route 68": "21:06",
-      "Chilliad CP": "28:25",
-      "Off T": {
-        " Tracks": "31:02"
-      },
-      "Observ": {
-        " CP": "33:31"
-      },
+      "Chiliad": "28:25",
+      "Off Tracks": "31:02",
+      "Observatory": "33:31",
       "Zancudo Exit": "35:17",
       "Finish": "37:08",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8485,19 +7873,15 @@
       "Time": "37:10.828",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "8:43",
-      "Quarry CP": "12:27",
+      "Quarry": "12:27",
       "Hospital Line": "15:09",
-      "Airport CP": "17:26",
+      "Airport": "17:26",
       "Route 68": "20:50",
-      "Chilliad CP": "26:48",
-      "Off T": {
-        " Tracks": "31:07"
-      },
-      "Observ": {
-        " CP": "33:20"
-      },
+      "Chiliad": "26:48",
+      "Off Tracks": "31:07",
+      "Observatory": "33:20",
       "Zancudo Exit": "35:24",
       "Finish": "37:10",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8508,19 +7892,15 @@
       "Time": "37:53.154",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "9:33",
-      "Quarry CP": "12:41",
+      "Quarry": "12:41",
       "Hospital Line": "15:12",
-      "Airport CP": "17:12",
+      "Airport": "17:12",
       "Route 68": "20:37",
-      "Chilliad CP": "27:50",
-      "Off T": {
-        " Tracks": "31:17"
-      },
-      "Observ": {
-        " CP": "33:57"
-      },
+      "Chiliad": "27:50",
+      "Off Tracks": "31:17",
+      "Observatory": "33:57",
       "Zancudo Exit": "36:02",
       "Finish": "37:53",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8531,19 +7911,15 @@
       "Time": "38:51.045",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "6:07",
-      "Quarry CP": "8:17",
+      "Quarry": "8:17",
       "Hospital Line": "11:37",
-      "Airport CP": "14:13",
+      "Airport": "14:13",
       "Route 68": "18:21",
-      "Chilliad CP": "27:37",
-      "Off T": {
-        " Tracks": "31:21"
-      },
-      "Observ": {
-        " CP": "34:37"
-      },
+      "Chiliad": "27:37",
+      "Off Tracks": "31:21",
+      "Observatory": "34:37",
       "Zancudo Exit": "36:46",
       "Finish": "38:51",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8556,17 +7932,13 @@
       "Link": "Link",
       "Highway": "2:42",
       "Wheelspin": "4:31",
-      "Quarry CP": "6:12",
+      "Quarry": "6:12",
       "Hospital Line": "9:27",
-      "Airport CP": "13:06",
+      "Airport": "13:06",
       "Route 68": "17:36",
-      "Chilliad CP": "28:47",
-      "Off T": {
-        " Tracks": "32:32"
-      },
-      "Observ": {
-        " CP": "35:04"
-      },
+      "Chiliad": "28:47",
+      "Off Tracks": "32:32",
+      "Observatory": "35:04",
       "Zancudo Exit": "37:14",
       "Finish": "39:17",
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
@@ -8579,17 +7951,13 @@
       "Link": "Link",
       "Highway": "2:49",
       "Wheelspin": "3:02",
-      "Quarry CP": "4:42",
+      "Quarry": "4:42",
       "Hospital Line": "7:43",
-      "Airport CP": "10:29",
+      "Airport": "10:29",
       "Route 68": "14:32",
-      "Chilliad CP": "28:10",
-      "Off T": {
-        " Tracks": "32:03"
-      },
-      "Observ": {
-        " CP": "35:36"
-      },
+      "Chiliad": "28:10",
+      "Off Tracks": "32:03",
+      "Observatory": "35:36",
       "Zancudo Exit": "37:39",
       "Finish": "39:37",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8602,17 +7970,13 @@
       "Link": "Link",
       "Highway": "2:56",
       "Wheelspin": "3:10",
-      "Quarry CP": "4:55",
+      "Quarry": "4:55",
       "Hospital Line": "8:21",
-      "Airport CP": "10:41",
+      "Airport": "10:41",
       "Route 68": "15:16",
-      "Chilliad CP": "29:15",
-      "Off T": {
-        " Tracks": "32:24"
-      },
-      "Observ": {
-        " CP": "36:07"
-      },
+      "Chiliad": "29:15",
+      "Off Tracks": "32:24",
+      "Observatory": "36:07",
       "Zancudo Exit": "38:18",
       "Finish": "40:26",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8623,19 +7987,15 @@
       "Time": "40:58.506",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "13:39",
-      "Quarry CP": "17:41",
+      "Quarry": "17:41",
       "Hospital Line": "20:25",
-      "Airport CP": "22:34",
+      "Airport": "22:34",
       "Route 68": "26:21",
-      "Chilliad CP": "31:52",
-      "Off T": {
-        " Tracks": "34:39"
-      },
-      "Observ": {
-        " CP": "36:52"
-      },
+      "Chiliad": "31:52",
+      "Off Tracks": "34:39",
+      "Observatory": "36:52",
       "Zancudo Exit": "39:06",
       "Finish": "40:58",
       "Notes?": ""
@@ -8646,19 +8006,15 @@
       "Time": "44:27.781",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "13:56",
-      "Quarry CP": "18:49",
+      "Quarry": "18:49",
       "Hospital Line": "22:14",
-      "Airport CP": "24:33",
+      "Airport": "24:33",
       "Route 68": "29:26",
-      "Chilliad CP": "34:54",
-      "Off T": {
-        " Tracks": "37:45"
-      },
-      "Observ": {
-        " CP": "39:58"
-      },
+      "Chiliad": "34:54",
+      "Off Tracks": "37:45",
+      "Observatory": "39:58",
       "Zancudo Exit": "42:27",
       "Finish": "44:27",
       "Notes?": ""
@@ -8669,20 +8025,16 @@
       "Time": "44:56.077",
       "Player": "BloodySquirrels",
       "Link": "Link",
-      "Highway": "",
-      "Wheelspin": "",
-      "Quarry CP": "5:28",
-      "Hospital Line": "",
-      "Airport CP": "15:33",
+      "Highway": "N/A",
+      "Wheelspin": "N/A",
+      "Quarry": "5:28",
+      "Hospital Line": "N/A",
+      "Airport": "15:33",
       "Route 68": "23:59",
-      "Chilliad CP": "32:58",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": "38:42"
-      },
-      "Zancudo Exit": "",
+      "Chiliad": "32:58",
+      "Off Tracks": "N/A",
+      "Observatory": "38:42",
+      "Zancudo Exit": "N/A",
       "Finish": "44:56",
       "Notes?": "Route 68 = Quarry Underpass"
     },
@@ -8692,20 +8044,16 @@
       "Time": "52:00.084*",
       "Player": "SLIMYYY",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "1:40",
-      "Quarry CP": "6:52",
-      "Hospital Line": "",
-      "Airport CP": "20:10",
-      "Route 68": "",
-      "Chilliad CP": "36:58",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": "44:23"
-      },
-      "Zancudo Exit": "",
+      "Quarry": "6:52",
+      "Hospital Line": "N/A",
+      "Airport": "20:10",
+      "Route 68": "N/A",
+      "Chiliad": "36:58",
+      "Off Tracks": "N/A",
+      "Observatory": "44:23",
+      "Zancudo Exit": "N/A",
       "Finish": "52:00",
       "Notes?": ""
     },
@@ -8715,20 +8063,16 @@
       "Time": "52:30.848*",
       "Player": "BloodySquirrels",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "4:38",
-      "Quarry CP": "9:08",
-      "Hospital Line": "",
-      "Airport CP": "19:00",
-      "Route 68": "",
-      "Chilliad CP": "33:09",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": "41:38"
-      },
-      "Zancudo Exit": "",
+      "Quarry": "9:08",
+      "Hospital Line": "N/A",
+      "Airport": "19:00",
+      "Route 68": "N/A",
+      "Chiliad": "33:09",
+      "Off Tracks": "N/A",
+      "Observatory": "41:38",
+      "Zancudo Exit": "N/A",
       "Finish": "52:30",
       "Notes?": ""
     },
@@ -8738,19 +8082,15 @@
       "Time": "53:39.566",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "3:46",
-      "Quarry CP": "6:11",
+      "Quarry": "6:11",
       "Hospital Line": "11:30",
-      "Airport CP": "15:13",
+      "Airport": "15:13",
       "Route 68": "23:07",
-      "Chilliad CP": "38:05",
-      "Off T": {
-        " Tracks": "42:10"
-      },
-      "Observ": {
-        " CP": "47:26"
-      },
+      "Chiliad": "38:05",
+      "Off Tracks": "42:10",
+      "Observatory": "47:26",
       "Zancudo Exit": "50:50",
       "Finish": "53:39",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8763,17 +8103,13 @@
       "Link": "",
       "Highway": "",
       "Wheelspin": "",
-      "Quarry CP": "",
+      "Quarry": "",
       "Hospital Line": "",
-      "Airport CP": "",
+      "Airport": "",
       "Route 68": "",
-      "Chilliad CP": "",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": ""
-      },
+      "Chiliad": "",
+      "Off Tracks": "",
+      "Observatory": "",
       "Zancudo Exit": "",
       "Finish": "",
       "Notes?": ""
@@ -8784,19 +8120,15 @@
       "Time": "60:29.576",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "12:19",
-      "Quarry CP": "20:23",
+      "Quarry": "20:23",
       "Hospital Line": "26:04",
-      "Airport CP": "29:43",
+      "Airport": "29:43",
       "Route 68": "36:56",
-      "Chilliad CP": "46:03",
-      "Off T": {
-        " Tracks": "49:46"
-      },
-      "Observ": {
-        " CP": "54:14"
-      },
+      "Chiliad": "46:03",
+      "Off Tracks": "49:46",
+      "Observatory": "54:14",
       "Zancudo Exit": "57:47",
       "Finish": "60:29",
       "Notes?": ""
@@ -8807,19 +8139,15 @@
       "Time": "76:30.779",
       "Player": "NuggetTrees",
       "Link": "Link",
-      "Highway": "",
-      "Wheelspin": "",
-      "Quarry CP": "8:18",
+      "Highway": "N/A",
+      "Wheelspin": "N/A",
+      "Quarry": "8:18",
       "Hospital Line": "19:11",
-      "Airport CP": "25:58",
+      "Airport": "25:58",
       "Route 68": "40:03",
-      "Chilliad CP": "49:51",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": "63:57"
-      },
+      "Chiliad": "49:51",
+      "Off Tracks": "N/A",
+      "Observatory": "63:57",
       "Zancudo Exit": "71:35",
       "Finish": "76:30",
       "Notes?": ""
@@ -8830,19 +8158,15 @@
       "Time": "85:48.909",
       "Player": "SMGWolfmanz",
       "Link": "Link",
-      "Highway": "",
+      "Highway": "N/A",
       "Wheelspin": "12:01",
-      "Quarry CP": "15:46",
+      "Quarry": "15:46",
       "Hospital Line": "18:44",
-      "Airport CP": "20:47",
+      "Airport": "20:47",
       "Route 68": "24:39",
-      "Chilliad CP": "73:18",
-      "Off T": {
-        " Tracks": "78:06"
-      },
-      "Observ": {
-        " CP": "81:41"
-      },
+      "Chiliad": "73:18",
+      "Off Tracks": "78:06",
+      "Observatory": "81:41",
       "Zancudo Exit": "83:37",
       "Finish": "85:48",
       "Notes?": "Route 68 = Quarry Underpass"
@@ -8854,18 +8178,14 @@
       "Player": "Jakeyy9741",
       "Link": "Link",
       "Highway": "13:12",
-      "Wheelspin": "",
-      "Quarry CP": "31:50",
+      "Wheelspin": "N/A",
+      "Quarry": "31:50",
       "Hospital Line": "79:50",
-      "Airport CP": "108:58",
+      "Airport": "108:58",
       "Route 68": "176:42",
-      "Chilliad CP": "223:06",
-      "Off T": {
-        " Tracks": "249:58"
-      },
-      "Observ": {
-        " CP": "276:34"
-      },
+      "Chiliad": "223:06",
+      "Off Tracks": "249:58",
+      "Observatory": "276:34",
       "Zancudo Exit": "306:11",
       "Finish": "323:08",
       "Notes?": ""
@@ -8878,17 +8198,13 @@
       "Link": "",
       "Highway": "",
       "Wheelspin": "",
-      "Quarry CP": "",
+      "Quarry": "",
       "Hospital Line": "",
-      "Airport CP": "",
+      "Airport": "",
       "Route 68": "",
-      "Chilliad CP": "",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": ""
-      },
+      "Chiliad": "",
+      "Off Tracks": "",
+      "Observatory": "",
       "Zancudo Exit": "",
       "Finish": "",
       "Notes?": ""
@@ -8901,17 +8217,13 @@
       "Link": "",
       "Highway": "",
       "Wheelspin": "",
-      "Quarry CP": "",
+      "Quarry": "",
       "Hospital Line": "",
-      "Airport CP": "",
+      "Airport": "",
       "Route 68": "",
-      "Chilliad CP": "",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": ""
-      },
+      "Chiliad": "",
+      "Off Tracks": "",
+      "Observatory": "",
       "Zancudo Exit": "",
       "Finish": "",
       "Notes?": ""
@@ -8924,17 +8236,13 @@
       "Link": "",
       "Highway": "",
       "Wheelspin": "",
-      "Quarry CP": "",
+      "Quarry": "",
       "Hospital Line": "",
-      "Airport CP": "",
+      "Airport": "",
       "Route 68": "",
-      "Chilliad CP": "",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": ""
-      },
+      "Chiliad": "",
+      "Off Tracks": "",
+      "Observatory": "",
       "Zancudo Exit": "",
       "Finish": "",
       "Notes?": "Can Wiggle Boost (gentle)"
@@ -8947,17 +8255,13 @@
       "Link": "",
       "Highway": "",
       "Wheelspin": "",
-      "Quarry CP": "",
+      "Quarry": "",
       "Hospital Line": "",
-      "Airport CP": "",
+      "Airport": "",
       "Route 68": "",
-      "Chilliad CP": "",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": ""
-      },
+      "Chiliad": "",
+      "Off Tracks": "",
+      "Observatory": "",
       "Zancudo Exit": "",
       "Finish": "",
       "Notes?": ""
@@ -8970,17 +8274,13 @@
       "Link": "",
       "Highway": "",
       "Wheelspin": "",
-      "Quarry CP": "",
+      "Quarry": "",
       "Hospital Line": "",
-      "Airport CP": "",
+      "Airport": "",
       "Route 68": "",
-      "Chilliad CP": "",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": ""
-      },
+      "Chiliad": "",
+      "Off Tracks": "",
+      "Observatory": "",
       "Zancudo Exit": "",
       "Finish": "",
       "Notes?": ""
@@ -8993,17 +8293,13 @@
       "Link": "",
       "Highway": "",
       "Wheelspin": "",
-      "Quarry CP": "",
+      "Quarry": "",
       "Hospital Line": "",
-      "Airport CP": "",
+      "Airport": "",
       "Route 68": "",
-      "Chilliad CP": "",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": ""
-      },
+      "Chiliad": "",
+      "Off Tracks": "",
+      "Observatory": "",
       "Zancudo Exit": "",
       "Finish": "",
       "Notes?": ""
@@ -9016,17 +8312,13 @@
       "Link": "",
       "Highway": "",
       "Wheelspin": "",
-      "Quarry CP": "",
+      "Quarry": "",
       "Hospital Line": "",
-      "Airport CP": "",
+      "Airport": "",
       "Route 68": "",
-      "Chilliad CP": "",
-      "Off T": {
-        " Tracks": ""
-      },
-      "Observ": {
-        " CP": ""
-      },
+      "Chiliad": "",
+      "Off Tracks": "",
+      "Observatory": "",
       "Zancudo Exit": "",
       "Finish": "",
       "Notes?": ""
@@ -20395,15 +19687,6 @@
     },
     {
       "field1": "161",
-      "Car": "Taco Van",
-      "Time": "41:35.417*",
-      "field4": "",
-      "Player": "Rj_Igor",
-      "Video": "Link",
-      "Date": "Feb 28, 2025"
-    },
-    {
-      "field1": "162",
       "Car": "Seashark",
       "Time": "44:05.773*",
       "field4": "",
@@ -20412,7 +19695,7 @@
       "Date": "Jun 3, 2025"
     },
     {
-      "field1": "163",
+      "field1": "162",
       "Car": "Feet (Open)",
       "Time": "44:42.804",
       "field4": "",
@@ -20421,7 +19704,7 @@
       "Date": "Jan 9, 2024"
     },
     {
-      "field1": "164",
+      "field1": "163",
       "Car": "Dinghy",
       "Time": "45:34.641*",
       "field4": "",
@@ -20430,7 +19713,7 @@
       "Date": "Jun 2, 2025"
     },
     {
-      "field1": "165",
+      "field1": "164",
       "Car": "Tropic",
       "Time": "46:27.848*",
       "field4": "",
@@ -20439,7 +19722,7 @@
       "Date": "Jun 2, 2025"
     },
     {
-      "field1": "166",
+      "field1": "165",
       "Car": "Squalo",
       "Time": "46:31.831*",
       "field4": "",
@@ -20448,7 +19731,7 @@
       "Date": "Jun 1, 2025"
     },
     {
-      "field1": "167",
+      "field1": "166",
       "Car": "Jetmax",
       "Time": "46:42.498*",
       "field4": "",
@@ -20457,7 +19740,7 @@
       "Date": "Jun 1, 2025"
     },
     {
-      "field1": "168",
+      "field1": "167",
       "Car": "Suntrap",
       "Time": "49:19.260*",
       "field4": "",
@@ -20466,7 +19749,7 @@
       "Date": "Jun 3, 2025"
     },
     {
-      "field1": "169",
+      "field1": "168",
       "Car": "Scorcher",
       "Time": "49:23.096",
       "field4": "",
@@ -20475,7 +19758,7 @@
       "Date": "Jun 7, 2025"
     },
     {
-      "field1": "170",
+      "field1": "169",
       "Car": "Police Predator",
       "Time": "52:23.553*",
       "field4": "",
@@ -20484,7 +19767,7 @@
       "Date": "Jun 3, 2025"
     },
     {
-      "field1": "171",
+      "field1": "170",
       "Car": "Fieldmaster",
       "Time": "52:43.930",
       "field4": "",
@@ -20493,7 +19776,7 @@
       "Date": "Nov 24, 2024"
     },
     {
-      "field1": "172",
+      "field1": "171",
       "Car": "Logs Trailer",
       "Time": "52:50.711",
       "field4": "",
@@ -20502,7 +19785,7 @@
       "Date": "Nov 18, 2024"
     },
     {
-      "field1": "173",
+      "field1": "172",
       "Car": "BMX",
       "Time": "54:30.366",
       "field4": "",
@@ -20511,13 +19794,22 @@
       "Date": "May 28, 2025"
     },
     {
-      "field1": "174",
+      "field1": "173",
       "Car": "Cruiser (Bicycle)",
       "Time": "62:03.232",
       "field4": "",
       "Player": "SMGWolfmanz",
       "Video": "Link",
       "Date": "Mar 29, 2025"
+    },
+    {
+      "field1": "174",
+      "Car": "Taco Van",
+      "Time": "70:08.438",
+      "field4": "",
+      "Player": "HeavyFlavor",
+      "Video": "Link",
+      "Date": "Aug 15, 2025"
     },
     {
       "field1": "175",
