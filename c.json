@@ -1,5 +1,7 @@
 {
   "s":"a1='$(1)';a2='$(2)';a3='$(3)';a4='$(4)';resp='';vl=[];if(a1==='s'){  d1=data['Console_Gfred_Splits'];  for (var j=0;j<d1.length;j++){    n = d1[j].Car;    if (n.toLowerCase().includes(a2.toLowerCase())){    vl.push(' '+n+' ['+(vl.length+1)+']');    }  }  resp=vl.toString();  if(resp===''){resp='Wrong vehicle.'}}",
   
-  "math":"2+2"
+  "math":"2+2",
+
+  "test":"this is a string"
 }
