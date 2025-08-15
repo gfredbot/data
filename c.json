@@ -1,5 +1,5 @@
 { 
-  "s":"if(`$(1)`==='s'){ d1=d['Console_Gfred_Splits'][0]['Car']; r=d1.toString(); if(r===''){r='Wrong vehicle.'};}",
+  "zz":"d1=d['Console_Gfred_Splits'][0]['Car'];r=d1.toString();",
   "math":"2+2", 
   "test":"this is a string",
   "code1":"resp = a1 + ' ' + a2;"
