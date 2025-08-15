@@ -1,5 +1,6 @@
 { 
   "11":"$(eval d=$(urlfetch json https://raw.githubusercontent.com/gfredbot/data/refs/heads/main/data.json); code=$(urlfetch json https://raw.githubusercontent.com/gfredbot/data/refs/heads/main/c.json); a1=`$(1)`; a2=`$(2)`; r=''; vl=[];  d1=d['Console_Gfred_Splits'][0]['Car']; r=d1.toString(); r;)",
+  "22":"d1=d['Console_Gfred_Splits'][0]['Car'];r=d1;",
   "math":"2+2", 
   "test":"this is a string",
   "code1":"resp = a1 + ' ' + a2;"
