@@ -11708,6 +11708,25 @@
     },
     {
       "#": "95",
+      "Car": "Pony",
+      "Time": "23:05.748",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "02:40",
+      "Observatory": "05:24",
+      "Route 68": "06:28",
+      "Chiliad": "11:32",
+      "Off Tracks": "13:42",
+      "Hospital Line": "15:49",
+      "Airport": "16:57",
+      "Quarry": "20:21",
+      "Lighthouse": "22:39",
+      "Finish": "23:05",
+      "Notes?": ""
+    },
+    {
+      "#": "96",
       "Car": "Burrito",
       "Time": "23:15.071",
       "Player": "Rj_Igor",
@@ -11726,7 +11745,7 @@
       "Notes?": ""
     },
     {
-      "#": "96",
+      "#": "97",
       "Car": "Peyote",
       "Time": "23:20.208",
       "Player": "Rj_Igor",
@@ -11745,7 +11764,7 @@
       "Notes?": ""
     },
     {
-      "#": "97",
+      "#": "98",
       "Car": "Alpha",
       "Time": "23:36.489",
       "Player": "Rj_Igor",
@@ -11764,7 +11783,7 @@
       "Notes?": ""
     },
     {
-      "#": "98",
+      "#": "99",
       "Car": "Jester",
       "Time": "23:46.002",
       "Player": "Rj_Igor",
@@ -11783,7 +11802,7 @@
       "Notes?": ""
     },
     {
-      "#": "99",
+      "#": "100",
       "Car": "Furore GT",
       "Time": "24:08.026",
       "Player": "Rj_Igor",
@@ -11802,7 +11821,7 @@
       "Notes?": ""
     },
     {
-      "#": "100",
+      "#": "101",
       "Car": "Dukes",
       "Time": "24:44.989",
       "Player": "Rj_Igor",
@@ -11821,7 +11840,7 @@
       "Notes?": ""
     },
     {
-      "#": "101",
+      "#": "102",
       "Car": "Ingot",
       "Time": "24:51.841",
       "Player": "Rj_Igor",
@@ -11840,7 +11859,7 @@
       "Notes?": ""
     },
     {
-      "#": "102",
+      "#": "103",
       "Car": "Duneloader",
       "Time": "24:57.012",
       "Player": "Rj_Igor",
@@ -11859,7 +11878,7 @@
       "Notes?": ""
     },
     {
-      "#": "103",
+      "#": "104",
       "Car": "Massacro",
       "Time": "25:00.143",
       "Player": "Rj_Igor",
@@ -11878,7 +11897,7 @@
       "Notes?": ""
     },
     {
-      "#": "104",
+      "#": "105",
       "Car": "Youga",
       "Time": "25:09.121",
       "Player": "Rj_Igor",
@@ -11897,7 +11916,7 @@
       "Notes?": ""
     },
     {
-      "#": "105",
+      "#": "106",
       "Car": "Utility Trailer",
       "Time": "25:12.891",
       "Player": "Rj_Igor",
@@ -11916,7 +11935,7 @@
       "Notes?": ""
     },
     {
-      "#": "106",
+      "#": "107",
       "Car": "Generator Trailer",
       "Time": "25:17.858",
       "Player": "Rj_Igor",
@@ -11935,7 +11954,7 @@
       "Notes?": ""
     },
     {
-      "#": "107",
+      "#": "108",
       "Car": "Emperor",
       "Time": "25:24.508",
       "Player": "Rj_Igor",
@@ -11954,7 +11973,7 @@
       "Notes?": ""
     },
     {
-      "#": "108",
+      "#": "109",
       "Car": "Phantom",
       "Time": "25:52.027",
       "Player": "Rj_Igor",
@@ -11973,7 +11992,7 @@
       "Notes?": "can do 2nd entry elevator"
     },
     {
-      "#": "109",
+      "#": "110",
       "Car": "Panto",
       "Time": "25:58.266",
       "Player": "Rj_Igor",
@@ -11992,7 +12011,7 @@
       "Notes?": ""
     },
     {
-      "#": "110",
+      "#": "111",
       "Car": "Flatbed",
       "Time": "25:58.429",
       "Player": "Rj_Igor",
@@ -12011,7 +12030,7 @@
       "Notes?": ""
     },
     {
-      "#": "111",
+      "#": "112",
       "Car": "Pigalle",
       "Time": "26:34.744",
       "Player": "Rj_Igor",
@@ -12030,7 +12049,7 @@
       "Notes?": ""
     },
     {
-      "#": "112",
+      "#": "113",
       "Car": "Barracks Semi",
       "Time": "26:55.768",
       "Player": "Rj_Igor",
@@ -12049,7 +12068,7 @@
       "Notes?": ""
     },
     {
-      "#": "113",
+      "#": "114",
       "Car": "Regina",
       "Time": "28:17.281",
       "Player": "Rj_Igor",
@@ -12068,7 +12087,7 @@
       "Notes?": ""
     },
     {
-      "#": "114",
+      "#": "115",
       "Car": "Rubble",
       "Time": "28:18.683",
       "Player": "HeavyFlavor",
@@ -12087,7 +12106,7 @@
       "Notes?": ""
     },
     {
-      "#": "115",
+      "#": "116",
       "Car": "Pounder",
       "Time": "28:54.999*",
       "Player": "Rj_Igor",
@@ -12106,7 +12125,7 @@
       "Notes?": ""
     },
     {
-      "#": "116",
+      "#": "117",
       "Car": "Mixer (8 wheels)",
       "Time": "29:22.214",
       "Player": "HeavyFlavor",
@@ -12125,7 +12144,7 @@
       "Notes?": ""
     },
     {
-      "#": "117",
+      "#": "118",
       "Car": "Mixer (6 wheels)",
       "Time": "29:54.509",
       "Player": "HeavyFlavor",
@@ -12144,7 +12163,7 @@
       "Notes?": ""
     },
     {
-      "#": "118",
+      "#": "119",
       "Car": "Scrap Truck",
       "Time": "30:51.141",
       "Player": "HeavyFlavor",
@@ -12163,7 +12182,7 @@
       "Notes?": ""
     },
     {
-      "#": "119",
+      "#": "120",
       "Car": "Camper",
       "Time": "31:16.345",
       "Player": "Rj_Igor",
@@ -12182,7 +12201,7 @@
       "Notes?": ""
     },
     {
-      "#": "120",
+      "#": "121",
       "Car": "Voodoo",
       "Time": "31:34.245",
       "Player": "HeavyFlavor",
@@ -12201,7 +12220,7 @@
       "Notes?": ""
     },
     {
-      "#": "121",
+      "#": "122",
       "Car": "Dashound",
       "Time": "32:16.918",
       "Player": "HeavyFlavor",
@@ -12220,7 +12239,7 @@
       "Notes?": ""
     },
     {
-      "#": "122",
+      "#": "123",
       "Car": "Utility Truck (Cargo Truck)",
       "Time": "32:19.581",
       "Player": "HeavyFlavor",
@@ -12239,7 +12258,7 @@
       "Notes?": ""
     },
     {
-      "#": "123",
+      "#": "124",
       "Car": "Flatbed Trailer",
       "Time": "32:23.809",
       "Player": "frozenhunt",
@@ -12258,7 +12277,7 @@
       "Notes?": "Can Wiggle Boost (gentle)"
     },
     {
-      "#": "124",
+      "#": "125",
       "Car": "Tipper (6 wheels)",
       "Time": "32:48.881",
       "Player": "HeavyFlavor",
@@ -12277,7 +12296,7 @@
       "Notes?": ""
     },
     {
-      "#": "125",
+      "#": "126",
       "Car": "Biff",
       "Time": "32:51.290",
       "Player": "Rj_Igor",
@@ -12296,7 +12315,7 @@
       "Notes?": ""
     },
     {
-      "#": "126",
+      "#": "127",
       "Car": "Sheriff SUV",
       "Time": "33:59.489",
       "Player": "HeavyFlavor",
@@ -12315,7 +12334,7 @@
       "Notes?": ""
     },
     {
-      "#": "127",
+      "#": "128",
       "Car": "Tipper (4 wheels)",
       "Time": "34:11.104",
       "Player": "HeavyFlavor",
@@ -12334,7 +12353,7 @@
       "Notes?": ""
     },
     {
-      "#": "128",
+      "#": "129",
       "Car": "Barracks",
       "Time": "34:20.169",
       "Player": "HeavyFlavor",
@@ -12353,7 +12372,7 @@
       "Notes?": ""
     },
     {
-      "#": "129",
+      "#": "130",
       "Car": "Utility Truck (Van)",
       "Time": "36:28.840",
       "Player": "HeavyFlavor",
@@ -12372,7 +12391,7 @@
       "Notes?": ""
     },
     {
-      "#": "130",
+      "#": "131",
       "Car": "Tanker Trailer",
       "Time": "39:28.146*",
       "Player": "Rj_Igor",
@@ -12391,7 +12410,7 @@
       "Notes?": "Can Wiggle Boost (gentle)"
     },
     {
-      "#": "131",
+      "#": "132",
       "Car": "Caddy",
       "Time": "41:45.697",
       "Player": "HeavyFlavor",
@@ -12410,7 +12429,7 @@
       "Notes?": ""
     },
     {
-      "#": "132",
+      "#": "133",
       "Car": "Hauler",
       "Time": "41:52.457",
       "Player": "HeavyFlavor",
@@ -12429,7 +12448,7 @@
       "Notes?": "Can Wiggle Boost (gentle)"
     },
     {
-      "#": "133",
+      "#": "134",
       "Car": "Faggio",
       "Time": "43:17.335",
       "Player": "HeavyFlavor",
@@ -12448,7 +12467,7 @@
       "Notes?": ""
     },
     {
-      "#": "134",
+      "#": "135",
       "Car": "Mule",
       "Time": "44:05.948",
       "Player": "HeavyFlavor",
@@ -12467,7 +12486,7 @@
       "Notes?": ""
     },
     {
-      "#": "135",
+      "#": "136",
       "Car": "Bus",
       "Time": "45:19.335",
       "Player": "HeavyFlavor",
@@ -12486,7 +12505,7 @@
       "Notes?": ""
     },
     {
-      "#": "136",
+      "#": "137",
       "Car": "Cruiser (Bicycle)",
       "Time": "46:54.597",
       "Player": "Squilliam",
@@ -12505,7 +12524,7 @@
       "Notes?": ""
     },
     {
-      "#": "137",
+      "#": "138",
       "Car": "Feet (Open)",
       "Time": "49:28.885",
       "Player": "BloodySquirrels",
@@ -12524,7 +12543,7 @@
       "Notes?": ""
     },
     {
-      "#": "138",
+      "#": "139",
       "Car": "Trashmaster",
       "Time": "51:18.486",
       "Player": "HeavyFlavor",
@@ -12543,7 +12562,7 @@
       "Notes?": ""
     },
     {
-      "#": "139",
+      "#": "140",
       "Car": "Surfer",
       "Time": "53:38.128",
       "Player": "HeavyFlavor",
@@ -12562,7 +12581,7 @@
       "Notes?": ""
     },
     {
-      "#": "140",
+      "#": "141",
       "Car": "Journey",
       "Time": "71:17.690",
       "Player": "HeavyFlavor",
@@ -12581,7 +12600,7 @@
       "Notes?": ""
     },
     {
-      "#": "141",
+      "#": "142",
       "Car": "Feet (Traditional)",
       "Time": "",
       "Player": "",
@@ -12600,7 +12619,7 @@
       "Notes?": ""
     },
     {
-      "#": "142",
+      "#": "143",
       "Car": "Feet (Walking)",
       "Time": "",
       "Player": "",
@@ -12619,7 +12638,7 @@
       "Notes?": ""
     },
     {
-      "#": "143",
+      "#": "144",
       "Car": "Tropic",
       "Time": "",
       "Player": "",
@@ -12638,7 +12657,7 @@
       "Notes?": ""
     },
     {
-      "#": "144",
+      "#": "145",
       "Car": "Suntrap",
       "Time": "",
       "Player": "",
@@ -12657,7 +12676,7 @@
       "Notes?": ""
     },
     {
-      "#": "145",
+      "#": "146",
       "Car": "Squalo",
       "Time": "",
       "Player": "",
@@ -12676,7 +12695,7 @@
       "Notes?": ""
     },
     {
-      "#": "146",
+      "#": "147",
       "Car": "Logs Trailer",
       "Time": "",
       "Player": "",
@@ -12695,7 +12714,7 @@
       "Notes?": "Can Wiggle Boost (gentle)"
     },
     {
-      "#": "147",
+      "#": "148",
       "Car": "Seashark",
       "Time": "",
       "Player": "",
@@ -12714,7 +12733,7 @@
       "Notes?": ""
     },
     {
-      "#": "148",
+      "#": "149",
       "Car": "Police Predator",
       "Time": "",
       "Player": "",
@@ -12733,7 +12752,7 @@
       "Notes?": ""
     },
     {
-      "#": "149",
+      "#": "150",
       "Car": "Jetmax",
       "Time": "",
       "Player": "",
@@ -12752,7 +12771,7 @@
       "Notes?": ""
     },
     {
-      "#": "150",
+      "#": "151",
       "Car": "Police Maverick",
       "Time": "",
       "Player": "",
@@ -12771,7 +12790,7 @@
       "Notes?": ""
     },
     {
-      "#": "151",
+      "#": "152",
       "Car": "PCJ 600",
       "Time": "",
       "Player": "",
@@ -12790,7 +12809,7 @@
       "Notes?": ""
     },
     {
-      "#": "152",
+      "#": "153",
       "Car": "Blazer",
       "Time": "",
       "Player": "",
@@ -12809,7 +12828,7 @@
       "Notes?": ""
     },
     {
-      "#": "153",
+      "#": "154",
       "Car": "Crusader",
       "Time": "",
       "Player": "",
@@ -12828,27 +12847,8 @@
       "Notes?": ""
     },
     {
-      "#": "154",
-      "Car": "Police Cruiser (Interceptor)",
-      "Time": "",
-      "Player": "",
-      "Link": "",
-      "Highway": "",
-      "Wheelspin": "",
-      "Observatory": "",
-      "Route 68": "",
-      "Chiliad": "",
-      "Off Tracks": "",
-      "Hospital Line": "",
-      "Airport": "",
-      "Quarry": "",
-      "Lighthouse": "",
-      "Finish": "",
-      "Notes?": ""
-    },
-    {
       "#": "155",
-      "Car": "Pony",
+      "Car": "Police Cruiser (Interceptor)",
       "Time": "",
       "Player": "",
       "Link": "",
