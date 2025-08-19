@@ -3043,7 +3043,7 @@
     {
       "#": "161",
       "Car": "Feet (Walking)",
-      "Time": "z   270:39.975   z",
+      "Time": "z   270:39.975*   z",
       "Player": "Jakeyy9741",
       "Link": "Link",
       "Highway": "N/A",
@@ -6579,7 +6579,7 @@
     {
       "#": "170",
       "Car": "Feet (Walking)",
-      "Time": "z276:43.003",
+      "Time": "l    276:43.003    l",
       "Player": "KDawgHonda777",
       "Link": "Link",
       "Highway": "N/A",
