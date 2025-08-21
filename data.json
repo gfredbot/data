@@ -10420,6 +10420,25 @@
     },
     {
       "#": "18",
+      "Car": "Buffalo",
+      "Time": "16:36.086",
+      "Player": "Episky",
+      "Link": "Link",
+      "Highway": "02:36",
+      "Wheelspin": "02:45",
+      "Quarry": "03:52",
+      "Hospital Line": "05:41",
+      "Airport": "06:34",
+      "Route 68": "08:55",
+      "Chiliad": "11:17",
+      "Off Tracks": "12:51",
+      "Observatory": "14:10",
+      "Zancudo Exit": "15:30",
+      "Finish": "16:36",
+      "Notes?": ""
+    },
+    {
+      "#": "19",
       "Car": "Ruffian",
       "Time": "16:37.119",
       "Player": "SMGWolfmanz",
@@ -10438,7 +10457,7 @@
       "Notes?": "Hybrid"
     },
     {
-      "#": "19",
+      "#": "20",
       "Car": "Jackal",
       "Time": "16:41.262",
       "Player": "Rj_Igor",
@@ -10457,7 +10476,7 @@
       "Notes?": ""
     },
     {
-      "#": "20",
+      "#": "21",
       "Car": "Double-T",
       "Time": "16:47.422",
       "Player": "SMGWolfmanz",
@@ -10474,25 +10493,6 @@
       "Zancudo Exit": "15:22",
       "Finish": "16:47",
       "Notes?": "Hybrid"
-    },
-    {
-      "#": "21",
-      "Car": "Buffalo",
-      "Time": "16:48.292",
-      "Player": "RBSReece",
-      "Link": "Link",
-      "Highway": "02:37",
-      "Wheelspin": "02:44",
-      "Quarry": "03:51",
-      "Hospital Line": "05:40",
-      "Airport": "06:34",
-      "Route 68": "08:54",
-      "Chiliad": "11:15",
-      "Off Tracks": "12:53",
-      "Observatory": "14:15",
-      "Zancudo Exit": "15:39",
-      "Finish": "16:48",
-      "Notes?": ""
     },
     {
       "#": "22",
