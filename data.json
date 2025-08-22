@@ -9316,6 +9316,25 @@
     },
     {
       "#": "137",
+      "Car": "Logs Trailer",
+      "Time": "46:14.234",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:00",
+      "Wheelspin": "02:06",
+      "Observatory": "05:53",
+      "Route 68": "07:22",
+      "Chiliad": "18:59",
+      "Off Tracks": "23:20",
+      "Hospital Line": "26:31",
+      "Airport": "30:12",
+      "Quarry": "42:25",
+      "Lighthouse": "45:00",
+      "Finish": "46:14",
+      "Notes?": "Can Wiggle Boost (gentle)"
+    },
+    {
+      "#": "138",
       "Car": "Cruiser (Bicycle)",
       "Time": "46:54.597",
       "Player": "Squilliam",
@@ -9334,7 +9353,7 @@
       "Notes?": ""
     },
     {
-      "#": "138",
+      "#": "139",
       "Car": "Feet (Open)",
       "Time": "49:28.885",
       "Player": "BloodySquirrels",
@@ -9353,7 +9372,7 @@
       "Notes?": ""
     },
     {
-      "#": "139",
+      "#": "140",
       "Car": "Trashmaster",
       "Time": "51:18.486",
       "Player": "HeavyFlavor",
@@ -9372,7 +9391,7 @@
       "Notes?": ""
     },
     {
-      "#": "140",
+      "#": "141",
       "Car": "Surfer",
       "Time": "53:38.128",
       "Player": "HeavyFlavor",
@@ -9391,7 +9410,7 @@
       "Notes?": ""
     },
     {
-      "#": "141",
+      "#": "142",
       "Car": "Journey",
       "Time": "71:17.690",
       "Player": "HeavyFlavor",
@@ -9410,7 +9429,7 @@
       "Notes?": ""
     },
     {
-      "#": "142",
+      "#": "143",
       "Car": "Feet (Traditional)",
       "Time": "",
       "Player": "",
@@ -9429,7 +9448,7 @@
       "Notes?": ""
     },
     {
-      "#": "143",
+      "#": "144",
       "Car": "Feet (Walking)",
       "Time": "",
       "Player": "",
@@ -9448,7 +9467,7 @@
       "Notes?": ""
     },
     {
-      "#": "144",
+      "#": "145",
       "Car": "Tropic",
       "Time": "",
       "Player": "",
@@ -9467,7 +9486,7 @@
       "Notes?": ""
     },
     {
-      "#": "145",
+      "#": "146",
       "Car": "Suntrap",
       "Time": "",
       "Player": "",
@@ -9486,7 +9505,7 @@
       "Notes?": ""
     },
     {
-      "#": "146",
+      "#": "147",
       "Car": "Squalo",
       "Time": "",
       "Player": "",
@@ -9503,25 +9522,6 @@
       "Lighthouse": "",
       "Finish": "",
       "Notes?": ""
-    },
-    {
-      "#": "147",
-      "Car": "Logs Trailer",
-      "Time": "",
-      "Player": "",
-      "Link": "",
-      "Highway": "",
-      "Wheelspin": "",
-      "Observatory": "",
-      "Route 68": "",
-      "Chiliad": "",
-      "Off Tracks": "",
-      "Hospital Line": "",
-      "Airport": "",
-      "Quarry": "",
-      "Lighthouse": "",
-      "Finish": "",
-      "Notes?": "Can Wiggle Boost (gentle)"
     },
     {
       "#": "148",
@@ -10686,6 +10686,25 @@
     },
     {
       "#": "32",
+      "Car": "Police Cruiser (Interceptor)",
+      "Time": "17:15.124",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "01:29",
+      "Quarry": "03:42",
+      "Hospital Line": "05:35",
+      "Airport": "06:31",
+      "Route 68": "08:52",
+      "Chiliad": "11:25",
+      "Off Tracks": "13:18",
+      "Observatory": "14:37",
+      "Zancudo Exit": "16:01",
+      "Finish": "17:15",
+      "Notes?": "Can do Hybrid"
+    },
+    {
+      "#": "33",
       "Car": "Buccaneer",
       "Time": "17:16.581",
       "Player": "RBSReece",
@@ -10704,7 +10723,7 @@
       "Notes?": ""
     },
     {
-      "#": "33",
+      "#": "34",
       "Car": "Baller (New)",
       "Time": "17:19.089",
       "Player": "Rj_Igor",
@@ -10723,7 +10742,7 @@
       "Notes?": ""
     },
     {
-      "#": "34",
+      "#": "35",
       "Car": "Ruiner",
       "Time": "17:20.030",
       "Player": "Rj_Igor",
@@ -10742,7 +10761,7 @@
       "Notes?": ""
     },
     {
-      "#": "35",
+      "#": "36",
       "Car": "Sabre Turbo",
       "Time": "17:21.336",
       "Player": "Episky",
@@ -10761,7 +10780,7 @@
       "Notes?": ""
     },
     {
-      "#": "36",
+      "#": "37",
       "Car": "Futo",
       "Time": "17:24.484",
       "Player": "RBSReece",
@@ -10780,7 +10799,7 @@
       "Notes?": ""
     },
     {
-      "#": "37",
+      "#": "38",
       "Car": "Sentinel XS",
       "Time": "17:26.786",
       "Player": "RBSReece",
@@ -10799,7 +10818,7 @@
       "Notes?": ""
     },
     {
-      "#": "38",
+      "#": "39",
       "Car": "Schwartzer",
       "Time": "17:27.810",
       "Player": "Rj_Igor",
@@ -10818,7 +10837,26 @@
       "Notes?": ""
     },
     {
-      "#": "39",
+      "#": "40",
+      "Car": "Sheriff Cruiser",
+      "Time": "17:29.759",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "02:05",
+      "Quarry": "03:28",
+      "Hospital Line": "05:28",
+      "Airport": "06:27",
+      "Route 68": "08:58",
+      "Chiliad": "11:37",
+      "Off Tracks": "13:23",
+      "Observatory": "14:48",
+      "Zancudo Exit": "16:13",
+      "Finish": "17:29",
+      "Notes?": ""
+    },
+    {
+      "#": "41",
       "Car": "Sentinel",
       "Time": "17:30.788",
       "Player": "RBSReece",
@@ -10837,7 +10875,7 @@
       "Notes?": ""
     },
     {
-      "#": "40",
+      "#": "42",
       "Car": "Super Diamond",
       "Time": "17:48.748",
       "Player": "Rj_Igor",
@@ -10856,7 +10894,7 @@
       "Notes?": ""
     },
     {
-      "#": "41",
+      "#": "43",
       "Car": "Phoenix",
       "Time": "17:49.627",
       "Player": "Rj_Igor",
@@ -10875,7 +10913,7 @@
       "Notes?": ""
     },
     {
-      "#": "42",
+      "#": "44",
       "Car": "Fugitive",
       "Time": "17:49.826",
       "Player": "RBSReece",
@@ -10894,7 +10932,7 @@
       "Notes?": ""
     },
     {
-      "#": "43",
+      "#": "45",
       "Car": "Injection",
       "Time": "17:58.828",
       "Player": "Rj_Igor",
@@ -10913,7 +10951,7 @@
       "Notes?": ""
     },
     {
-      "#": "44",
+      "#": "46",
       "Car": "Vigero",
       "Time": "17:59.370",
       "Player": "Rj_Igor",
@@ -10929,44 +10967,6 @@
       "Observatory": "15:19",
       "Zancudo Exit": "16:44",
       "Finish": "17:59",
-      "Notes?": ""
-    },
-    {
-      "#": "45",
-      "Car": "Police Cruiser (Interceptor)",
-      "Time": "18:00.169",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "N/A",
-      "Wheelspin": "01:41",
-      "Quarry": "03:15",
-      "Hospital Line": "05:56",
-      "Airport": "07:00",
-      "Route 68": "09:24",
-      "Chiliad": "12:05",
-      "Off Tracks": "13:58",
-      "Observatory": "15:18",
-      "Zancudo Exit": "16:45",
-      "Finish": "18:00",
-      "Notes?": "Can do Hybrid"
-    },
-    {
-      "#": "46",
-      "Car": "Sheriff Cruiser",
-      "Time": "18:07.236",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "N/A",
-      "Wheelspin": "01:44",
-      "Quarry": "03:28",
-      "Hospital Line": "05:47",
-      "Airport": "06:46",
-      "Route 68": "09:21",
-      "Chiliad": "11:57",
-      "Off Tracks": "13:49",
-      "Observatory": "15:14",
-      "Zancudo Exit": "16:42",
-      "Finish": "18:07",
       "Notes?": ""
     },
     {
