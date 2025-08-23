@@ -13118,25 +13118,6 @@
     },
     {
       "#": "160",
-      "Car": "Tanker Trailer",
-      "Time": "41:21.255*",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:41",
-      "Wheelspin": "07:59",
-      "Quarry": "08:47",
-      "Hospital Line": "12:20",
-      "Airport": "15:34",
-      "Route 68": "20:41",
-      "Chiliad": "28:39",
-      "Off Tracks": "31:58",
-      "Observatory": "35:05",
-      "Zancudo Exit": "38:15",
-      "Finish": "41:21",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
-    },
-    {
-      "#": "161",
       "Car": "Surfer",
       "Time": "41:25.305",
       "Player": "SMGWolfmanz",
@@ -13155,7 +13136,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "162",
+      "#": "161",
       "Car": "Seashark",
       "Time": "44:05.773*",
       "Player": "Rj_Igor",
@@ -13174,7 +13155,7 @@
       "Notes?": ""
     },
     {
-      "#": "163",
+      "#": "162",
       "Car": "Feet (Open)",
       "Time": "44:42.804",
       "Player": "BloodySquirrels",
@@ -13193,7 +13174,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "164",
+      "#": "163",
       "Car": "Dinghy",
       "Time": "45:34.641*",
       "Player": "Rj_Igor",
@@ -13212,7 +13193,7 @@
       "Notes?": ""
     },
     {
-      "#": "165",
+      "#": "164",
       "Car": "Tropic",
       "Time": "46:27.848*",
       "Player": "Rj_Igor",
@@ -13231,7 +13212,7 @@
       "Notes?": ""
     },
     {
-      "#": "166",
+      "#": "165",
       "Car": "Squalo",
       "Time": "46:31.831*",
       "Player": "Rj_Igor",
@@ -13250,7 +13231,7 @@
       "Notes?": ""
     },
     {
-      "#": "167",
+      "#": "166",
       "Car": "Jetmax",
       "Time": "46:42.498*",
       "Player": "Rj_Igor",
@@ -13269,7 +13250,7 @@
       "Notes?": ""
     },
     {
-      "#": "168",
+      "#": "167",
       "Car": "Suntrap",
       "Time": "49:19.260*",
       "Player": "Rj_Igor",
@@ -13288,7 +13269,7 @@
       "Notes?": ""
     },
     {
-      "#": "169",
+      "#": "168",
       "Car": "Scorcher",
       "Time": "49:23.096",
       "Player": "Rj_Igor",
@@ -13307,7 +13288,7 @@
       "Notes?": ""
     },
     {
-      "#": "170",
+      "#": "169",
       "Car": "Police Predator",
       "Time": "52:23.553*",
       "Player": "Rj_Igor",
@@ -13326,7 +13307,7 @@
       "Notes?": ""
     },
     {
-      "#": "171",
+      "#": "170",
       "Car": "Fieldmaster",
       "Time": "52:43.930",
       "Player": "SMGWolfmanz",
@@ -13345,7 +13326,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "172",
+      "#": "171",
       "Car": "Logs Trailer",
       "Time": "52:50.711",
       "Player": "marcus_too",
@@ -13364,7 +13345,7 @@
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
     },
     {
-      "#": "173",
+      "#": "172",
       "Car": "BMX",
       "Time": "54:30.366",
       "Player": "Rj_Igor",
@@ -13383,7 +13364,7 @@
       "Notes?": ""
     },
     {
-      "#": "174",
+      "#": "173",
       "Car": "Cruiser (Bicycle)",
       "Time": "62:03.232",
       "Player": "SMGWolfmanz",
@@ -13402,7 +13383,7 @@
       "Notes?": ""
     },
     {
-      "#": "175",
+      "#": "174",
       "Car": "Taco Van",
       "Time": "70:08.438",
       "Player": "HeavyFlavor",
@@ -13421,7 +13402,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "176",
+      "#": "175",
       "Car": "Feet (Traditional)",
       "Time": "72:22.811",
       "Player": "BloodySquirrels",
@@ -13438,6 +13419,25 @@
       "Zancudo Exit": "N/A",
       "Finish": "72:22",
       "Notes?": ""
+    },
+    {
+      "#": "176",
+      "Car": "Tanker Trailer",
+      "Time": "l   102:57.812   l",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:41",
+      "Wheelspin": "08:04",
+      "Quarry": "09:15",
+      "Hospital Line": "12:48",
+      "Airport": "16:53",
+      "Route 68": "21:19",
+      "Chiliad": "82:55",
+      "Off Tracks": "94:08",
+      "Observatory": "97:22",
+      "Zancudo Exit": "100:33",
+      "Finish": "102:57",
+      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
     },
     {
       "#": "177",
