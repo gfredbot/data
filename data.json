@@ -10154,6 +10154,25 @@
     },
     {
       "#": "4",
+      "Car": "Infernus",
+      "Time": "15:52.054",
+      "Player": "Episky",
+      "Link": "Link",
+      "Highway": "02:40",
+      "Wheelspin": "02:54",
+      "Quarry": "03:58",
+      "Hospital Line": "05:41",
+      "Airport": "06:36",
+      "Route 68": "08:47",
+      "Chiliad": "10:54",
+      "Off Tracks": "12:25",
+      "Observatory": "13:35",
+      "Zancudo Exit": "14:49",
+      "Finish": "15:52",
+      "Notes?": "Hybrid"
+    },
+    {
+      "#": "5",
       "Car": "Surano",
       "Time": "16:00.771",
       "Player": "S1P4C",
@@ -10170,25 +10189,6 @@
       "Zancudo Exit": "14:55",
       "Finish": "16:00",
       "Notes?": "Elevator"
-    },
-    {
-      "#": "5",
-      "Car": "Infernus",
-      "Time": "16:02.026",
-      "Player": "S1P4C",
-      "Link": "Link",
-      "Highway": "02:40",
-      "Wheelspin": "02:50",
-      "Quarry": "03:51",
-      "Hospital Line": "05:33",
-      "Airport": "06:27",
-      "Route 68": "08:41",
-      "Chiliad": "10:51",
-      "Off Tracks": "12:31",
-      "Observatory": "13:42",
-      "Zancudo Exit": "14:58",
-      "Finish": "16:02",
-      "Notes?": "Hybrid"
     },
     {
       "#": "6",
@@ -12985,6 +12985,25 @@
     },
     {
       "#": "153",
+      "Car": "Caddy",
+      "Time": "35:01.426",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:41",
+      "Wheelspin": "05:03",
+      "Quarry": "06:50",
+      "Hospital Line": "09:38",
+      "Airport": "11:44",
+      "Route 68": "15:34",
+      "Chiliad": "25:15",
+      "Off Tracks": "28:12",
+      "Observatory": "31:03",
+      "Zancudo Exit": "33:00",
+      "Finish": "35:01",
+      "Notes?": "Route 68 = Quarry Underpass"
+    },
+    {
+      "#": "154",
       "Car": "Box Trailer",
       "Time": "36:16.825",
       "Player": "Rj_Igor",
@@ -13003,7 +13022,7 @@
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
     },
     {
-      "#": "154",
+      "#": "155",
       "Car": "Utility Truck (Cherry Picker)",
       "Time": "36:42.141",
       "Player": "Rj_Igor",
@@ -13019,25 +13038,6 @@
       "Observatory": "32:34",
       "Zancudo Exit": "34:37",
       "Finish": "36:42",
-      "Notes?": "Route 68 = Quarry Underpass"
-    },
-    {
-      "#": "155",
-      "Car": "Caddy",
-      "Time": "37:25.818",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:58",
-      "Wheelspin": "06:14",
-      "Quarry": "08:06",
-      "Hospital Line": "10:56",
-      "Airport": "12:59",
-      "Route 68": "16:40",
-      "Chiliad": "27:42",
-      "Off Tracks": "30:37",
-      "Observatory": "33:19",
-      "Zancudo Exit": "35:19",
-      "Finish": "37:25",
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
@@ -13175,6 +13175,25 @@
     },
     {
       "#": "163",
+      "Car": "Logs Trailer",
+      "Time": "45:06.585",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:43",
+      "Wheelspin": "03:57",
+      "Quarry": "05:51",
+      "Hospital Line": "09:13",
+      "Airport": "13:17",
+      "Route 68": "17:46",
+      "Chiliad": "31:03",
+      "Off Tracks": "36:58",
+      "Observatory": "39:48",
+      "Zancudo Exit": "42:45",
+      "Finish": "45:06",
+      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+    },
+    {
+      "#": "164",
       "Car": "Dinghy",
       "Time": "45:34.641*",
       "Player": "Rj_Igor",
@@ -13193,7 +13212,7 @@
       "Notes?": ""
     },
     {
-      "#": "164",
+      "#": "165",
       "Car": "Tropic",
       "Time": "46:27.848*",
       "Player": "Rj_Igor",
@@ -13212,7 +13231,7 @@
       "Notes?": ""
     },
     {
-      "#": "165",
+      "#": "166",
       "Car": "Squalo",
       "Time": "46:31.831*",
       "Player": "Rj_Igor",
@@ -13231,7 +13250,7 @@
       "Notes?": ""
     },
     {
-      "#": "166",
+      "#": "167",
       "Car": "Jetmax",
       "Time": "46:42.498*",
       "Player": "Rj_Igor",
@@ -13250,7 +13269,7 @@
       "Notes?": ""
     },
     {
-      "#": "167",
+      "#": "168",
       "Car": "Suntrap",
       "Time": "49:19.260*",
       "Player": "Rj_Igor",
@@ -13269,7 +13288,7 @@
       "Notes?": ""
     },
     {
-      "#": "168",
+      "#": "169",
       "Car": "Scorcher",
       "Time": "49:23.096",
       "Player": "Rj_Igor",
@@ -13288,7 +13307,7 @@
       "Notes?": ""
     },
     {
-      "#": "169",
+      "#": "170",
       "Car": "Police Predator",
       "Time": "52:23.553*",
       "Player": "Rj_Igor",
@@ -13307,7 +13326,7 @@
       "Notes?": ""
     },
     {
-      "#": "170",
+      "#": "171",
       "Car": "Fieldmaster",
       "Time": "52:43.930",
       "Player": "SMGWolfmanz",
@@ -13324,25 +13343,6 @@
       "Zancudo Exit": "49:46",
       "Finish": "52:43",
       "Notes?": "Route 68 = Quarry Underpass"
-    },
-    {
-      "#": "171",
-      "Car": "Logs Trailer",
-      "Time": "52:50.711",
-      "Player": "marcus_too",
-      "Link": "Link",
-      "Highway": "02:35",
-      "Wheelspin": "03:02",
-      "Quarry": "04:59",
-      "Hospital Line": "08:22",
-      "Airport": "12:13",
-      "Route 68": "17:13",
-      "Chiliad": "38:44",
-      "Off Tracks": "44:01",
-      "Observatory": "47:21",
-      "Zancudo Exit": "50:41",
-      "Finish": "52:50",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
     },
     {
       "#": "172",
