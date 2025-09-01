@@ -6998,6 +6998,25 @@
     },
     {
       "#": "15",
+      "Car": "Dominator",
+      "Time": "16:41.879",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:56",
+      "Wheelspin": "02:11",
+      "Observatory": "04:17",
+      "Route 68": "05:12",
+      "Chiliad": "07:36",
+      "Off Tracks": "09:18",
+      "Hospital Line": "10:53",
+      "Airport": "11:48",
+      "Quarry": "14:24",
+      "Lighthouse": "16:17",
+      "Finish": "16:41",
+      "Notes?": ""
+    },
+    {
+      "#": "16",
       "Car": "Carbonizzare",
       "Time": "16:42.131",
       "Player": "Rj_Igor",
@@ -7016,7 +7035,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "16",
+      "#": "17",
       "Car": "Buffalo",
       "Time": "16:44.735",
       "Player": "Rj_Igor",
@@ -7035,7 +7054,7 @@
       "Notes?": ""
     },
     {
-      "#": "17",
+      "#": "18",
       "Car": "Jackal",
       "Time": "16:45.625",
       "Player": "Rj_Igor",
@@ -7054,7 +7073,7 @@
       "Notes?": ""
     },
     {
-      "#": "18",
+      "#": "19",
       "Car": "Fusilade",
       "Time": "16:49.313",
       "Player": "Rj_Igor",
@@ -7073,7 +7092,7 @@
       "Notes?": ""
     },
     {
-      "#": "19",
+      "#": "20",
       "Car": "Sanchez",
       "Time": "16:50.393",
       "Player": "Rj_Igor",
@@ -7092,7 +7111,7 @@
       "Notes?": ""
     },
     {
-      "#": "20",
+      "#": "21",
       "Car": "Sultan",
       "Time": "16:52.081",
       "Player": "Rj_Igor",
@@ -7107,25 +7126,6 @@
       "Airport": "11:58",
       "Quarry": "14:44",
       "Lighthouse": "16:29",
-      "Finish": "16:52",
-      "Notes?": ""
-    },
-    {
-      "#": "21",
-      "Car": "Dominator",
-      "Time": "16:52.888",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:57",
-      "Wheelspin": "02:07",
-      "Observatory": "04:14",
-      "Route 68": "05:09",
-      "Chiliad": "07:34",
-      "Off Tracks": "09:15",
-      "Hospital Line": "10:51",
-      "Airport": "11:46",
-      "Quarry": "14:30",
-      "Lighthouse": "16:25",
       "Finish": "16:52",
       "Notes?": ""
     },
@@ -7721,20 +7721,20 @@
     {
       "#": "53",
       "Car": "Stanier",
-      "Time": "18:37.605",
+      "Time": "18:32.067",
       "Player": "Rj_Igor",
       "Link": "Link",
       "Highway": "01:57",
-      "Wheelspin": "02:16",
-      "Observatory": "04:34",
-      "Route 68": "05:31",
-      "Chiliad": "08:20",
-      "Off Tracks": "10:10",
-      "Hospital Line": "12:03",
-      "Airport": "13:06",
-      "Quarry": "16:08",
-      "Lighthouse": "18:11",
-      "Finish": "18:37",
+      "Wheelspin": "02:04",
+      "Observatory": "04:29",
+      "Route 68": "05:26",
+      "Chiliad": "08:13",
+      "Off Tracks": "10:04",
+      "Hospital Line": "11:57",
+      "Airport": "13:03",
+      "Quarry": "16:05",
+      "Lighthouse": "18:07",
+      "Finish": "18:32",
       "Notes?": ""
     },
     {
