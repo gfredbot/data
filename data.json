@@ -9278,6 +9278,25 @@
     },
     {
       "#": "135",
+      "Car": "Trashmaster",
+      "Time": "42:55.221",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:57",
+      "Wheelspin": "13:25",
+      "Observatory": "20:05",
+      "Route 68": "21:25",
+      "Chiliad": "28:11",
+      "Off Tracks": "31:27",
+      "Hospital Line": "33:53",
+      "Airport": "35:53",
+      "Quarry": "39:46",
+      "Lighthouse": "41:47",
+      "Finish": "42:55",
+      "Notes?": ""
+    },
+    {
+      "#": "136",
       "Car": "Faggio",
       "Time": "43:17.335",
       "Player": "HeavyFlavor",
@@ -9296,7 +9315,7 @@
       "Notes?": ""
     },
     {
-      "#": "136",
+      "#": "137",
       "Car": "Mule",
       "Time": "44:05.948",
       "Player": "HeavyFlavor",
@@ -9315,7 +9334,7 @@
       "Notes?": ""
     },
     {
-      "#": "137",
+      "#": "138",
       "Car": "Bus",
       "Time": "45:19.335",
       "Player": "HeavyFlavor",
@@ -9334,7 +9353,7 @@
       "Notes?": ""
     },
     {
-      "#": "138",
+      "#": "139",
       "Car": "Logs Trailer",
       "Time": "46:14.234",
       "Player": "Rj_Igor",
@@ -9353,7 +9372,7 @@
       "Notes?": "Can Wiggle Boost (gentle)"
     },
     {
-      "#": "139",
+      "#": "140",
       "Car": "Cruiser (Bicycle)",
       "Time": "46:54.597",
       "Player": "Squilliam",
@@ -9372,7 +9391,7 @@
       "Notes?": ""
     },
     {
-      "#": "140",
+      "#": "141",
       "Car": "Feet (Open)",
       "Time": "49:28.885",
       "Player": "BloodySquirrels",
@@ -9388,25 +9407,6 @@
       "Quarry": "43:43",
       "Lighthouse": "48:28",
       "Finish": "49:28",
-      "Notes?": ""
-    },
-    {
-      "#": "141",
-      "Car": "Trashmaster",
-      "Time": "51:18.486",
-      "Player": "HeavyFlavor",
-      "Link": "Link",
-      "Highway": "N/A",
-      "Wheelspin": "17:40",
-      "Observatory": "21:02",
-      "Route 68": "22:30",
-      "Chiliad": "35:38",
-      "Off Tracks": "38:41",
-      "Hospital Line": "41:15",
-      "Airport": "43:24",
-      "Quarry": "48:00",
-      "Lighthouse": "50:04",
-      "Finish": "51:18",
       "Notes?": ""
     },
     {
@@ -11636,6 +11636,44 @@
     },
     {
       "#": "82",
+      "Car": "Patriot",
+      "Time": "19:51.993",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:37",
+      "Wheelspin": "02:45",
+      "Quarry": "04:01",
+      "Hospital Line": "06:15",
+      "Airport": "07:21",
+      "Route 68": "10:13",
+      "Chiliad": "13:09",
+      "Off Tracks": "15:22",
+      "Observatory": "16:56",
+      "Zancudo Exit": "18:31",
+      "Finish": "19:51",
+      "Notes?": ""
+    },
+    {
+      "#": "83",
+      "Car": "Surge",
+      "Time": "19:55.802",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:42",
+      "Wheelspin": "02:50",
+      "Quarry": "04:05",
+      "Hospital Line": "06:17",
+      "Airport": "07:24",
+      "Route 68": "10:14",
+      "Chiliad": "13:23",
+      "Off Tracks": "15:21",
+      "Observatory": "17:02",
+      "Zancudo Exit": "18:33",
+      "Finish": "19:55",
+      "Notes?": ""
+    },
+    {
+      "#": "84",
       "Car": "Sandking XL",
       "Time": "19:56.382",
       "Player": "Rj_Igor",
@@ -11654,7 +11692,7 @@
       "Notes?": ""
     },
     {
-      "#": "83",
+      "#": "85",
       "Car": "Seminole",
       "Time": "19:59.222",
       "Player": "Rj_Igor",
@@ -11673,7 +11711,7 @@
       "Notes?": ""
     },
     {
-      "#": "84",
+      "#": "86",
       "Car": "Prairie",
       "Time": "20:03.437",
       "Player": "Rj_Igor",
@@ -11692,26 +11730,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "85",
-      "Car": "Patriot",
-      "Time": "20:09.338",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:41",
-      "Wheelspin": "02:48",
-      "Quarry": "04:07",
-      "Hospital Line": "06:20",
-      "Airport": "07:27",
-      "Route 68": "10:20",
-      "Chiliad": "13:36",
-      "Off Tracks": "15:39",
-      "Observatory": "17:12",
-      "Zancudo Exit": "18:47",
-      "Finish": "20:09",
-      "Notes?": ""
-    },
-    {
-      "#": "86",
+      "#": "87",
       "Car": "Mesa",
       "Time": "20:12.224",
       "Player": "Rj_Igor",
@@ -11727,25 +11746,6 @@
       "Observatory": "17:02",
       "Zancudo Exit": "18:44",
       "Finish": "20:12",
-      "Notes?": ""
-    },
-    {
-      "#": "87",
-      "Car": "Surge",
-      "Time": "20:15.816",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:40",
-      "Wheelspin": "02:55",
-      "Quarry": "04:11",
-      "Hospital Line": "06:23",
-      "Airport": "07:31",
-      "Route 68": "10:19",
-      "Chiliad": "13:32",
-      "Off Tracks": "15:43",
-      "Observatory": "17:21",
-      "Zancudo Exit": "18:54",
-      "Finish": "20:15",
       "Notes?": ""
     },
     {
@@ -12529,6 +12529,25 @@
     },
     {
       "#": "129",
+      "Car": "Massacro",
+      "Time": "27:51.186",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:44",
+      "Wheelspin": "13:21",
+      "Quarry": "15:47",
+      "Hospital Line": "17:28",
+      "Airport": "18:21",
+      "Route 68": "20:31",
+      "Chiliad": "22:44",
+      "Off Tracks": "24:20",
+      "Observatory": "25:28",
+      "Zancudo Exit": "26:45",
+      "Finish": "27:51",
+      "Notes?": ""
+    },
+    {
+      "#": "130",
       "Car": "Panto",
       "Time": "28:01.524",
       "Player": "Rj_Igor",
@@ -12547,7 +12566,7 @@
       "Notes?": ""
     },
     {
-      "#": "130",
+      "#": "131",
       "Car": "Glendale",
       "Time": "28:05.395",
       "Player": "Rj_Igor",
@@ -12566,7 +12585,7 @@
       "Notes?": ""
     },
     {
-      "#": "131",
+      "#": "132",
       "Car": "Utility Truck (Cargo Truck)",
       "Time": "28:09.083",
       "Player": "Rj_Igor",
@@ -12585,7 +12604,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "132",
+      "#": "133",
       "Car": "Warrener",
       "Time": "28:24.421",
       "Player": "Rj_Igor",
@@ -12601,25 +12620,6 @@
       "Observatory": "25:33",
       "Zancudo Exit": "27:05",
       "Finish": "28:24",
-      "Notes?": ""
-    },
-    {
-      "#": "133",
-      "Car": "Massacro",
-      "Time": "28:26.189",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:42",
-      "Wheelspin": "14:06",
-      "Quarry": "16:20",
-      "Hospital Line": "18:02",
-      "Airport": "18:56",
-      "Route 68": "21:06",
-      "Chiliad": "23:17",
-      "Off Tracks": "24:49",
-      "Observatory": "26:03",
-      "Zancudo Exit": "27:20",
-      "Finish": "28:26",
       "Notes?": ""
     },
     {
