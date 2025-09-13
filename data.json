@@ -22,20 +22,20 @@
     {
       "#": "2",
       "Car": "Police Maverick",
-      "Time": "10:38.437",
-      "Player": "SLIMYYY",
+      "Time": "10:20.198",
+      "Player": "SMGWolfmanz",
       "Link": "Link",
       "Highway": "N/A",
-      "Wheelspin": "2:09",
-      "Observatory": "3:40",
+      "Wheelspin": "01:46",
+      "Observatory": "03:20",
       "Route 68": "N/A",
-      "Chiliad": "5:15",
+      "Chiliad": "04:57",
       "Off Tracks": "N/A",
       "Hospital Line": "N/A",
-      "Airport": "7:32",
-      "Quarry": "9:33",
-      "Lighthouse": "10:26",
-      "Finish": "10:38",
+      "Airport": "07:12",
+      "Quarry": "09:12",
+      "Lighthouse": "10:11",
+      "Finish": "10:20",
       "Notes?": ""
     },
     {
@@ -3368,20 +3368,20 @@
     {
       "#": "1",
       "Car": "Police Maverick",
-      "Time": "10:35.817",
-      "Player": "SLIMYYY",
+      "Time": "10:26.240",
+      "Player": "SMGWolfmanz",
       "Link": "Link",
       "Highway": "N/A",
-      "Wheelspin": "1:56",
-      "Quarry": "3:14",
+      "Wheelspin": "01:44",
+      "Quarry": "03:01",
       "Hospital Line": "N/A",
-      "Airport": "5:15",
+      "Airport": "05:01",
       "Route 68": "N/A",
-      "Chiliad": "7:58",
+      "Chiliad": "07:43",
       "Off Tracks": "N/A",
-      "Observatory": "9:19",
+      "Observatory": "09:09",
       "Zancudo Exit": "N/A",
-      "Finish": "10:35",
+      "Finish": "10:26",
       "Notes?": ""
     },
     {
@@ -5153,6 +5153,25 @@
     },
     {
       "#": "95",
+      "Car": "FIB SUV",
+      "Time": "21:35.712",
+      "Player": "KDawgHonda777",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "03:07",
+      "Quarry": "06:37",
+      "Hospital Line": "08:41",
+      "Airport": "09:42",
+      "Route 68": "12:16",
+      "Chiliad": "15:03",
+      "Off Tracks": "17:08",
+      "Observatory": "18:46",
+      "Zancudo Exit": "20:14",
+      "Finish": "21:35",
+      "Notes?": ""
+    },
+    {
+      "#": "96",
       "Car": "Boat Trailer (No Boat)",
       "Time": "22:02.103",
       "Player": "frozenhunt",
@@ -5171,7 +5190,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "96",
+      "#": "97",
       "Car": "Blazer",
       "Time": "22:18.887",
       "Player": "frozenhunt",
@@ -5190,7 +5209,7 @@
       "Notes?": ""
     },
     {
-      "#": "97",
+      "#": "98",
       "Car": "Sheriff SUV",
       "Time": "22:31.464",
       "Player": "SLIMYYY",
@@ -5209,7 +5228,7 @@
       "Notes?": ""
     },
     {
-      "#": "98",
+      "#": "99",
       "Car": "Ingot",
       "Time": "22:40.842",
       "Player": "frozenhunt",
@@ -5228,7 +5247,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "99",
+      "#": "100",
       "Car": "Hexer",
       "Time": "22:47.048",
       "Player": "frozenhunt",
@@ -5247,7 +5266,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "100",
+      "#": "101",
       "Car": "Police Transporter",
       "Time": "22:47.770",
       "Player": "frozenhunt",
@@ -5266,7 +5285,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "101",
+      "#": "102",
       "Car": "Speedo",
       "Time": "22:48.784",
       "Player": "frozenhunt",
@@ -5285,7 +5304,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "102",
+      "#": "103",
       "Car": "Generator Trailer",
       "Time": "22:57.192",
       "Player": "frozenhunt",
@@ -5304,7 +5323,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "103",
+      "#": "104",
       "Car": "Emperor",
       "Time": "23:40.268",
       "Player": "frozenhunt",
@@ -5323,7 +5342,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "104",
+      "#": "105",
       "Car": "Rumpo",
       "Time": "23:45.073",
       "Player": "frozenhunt",
@@ -5342,7 +5361,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "105",
+      "#": "106",
       "Car": "Voodoo",
       "Time": "23:46.358",
       "Player": "frozenhunt",
@@ -5361,7 +5380,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "106",
+      "#": "107",
       "Car": "Phantom",
       "Time": "23:48.326",
       "Player": "frozenhunt",
@@ -5380,7 +5399,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "107",
+      "#": "108",
       "Car": "Flatbed",
       "Time": "23:51.779",
       "Player": "frozenhunt",
@@ -5399,7 +5418,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "108",
+      "#": "109",
       "Car": "Boat Trailer (Boat)",
       "Time": "24:00.154",
       "Player": "frozenhunt",
@@ -5418,7 +5437,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "109",
+      "#": "110",
       "Car": "Youga",
       "Time": "24:20.257",
       "Player": "frozenhunt",
@@ -5437,7 +5456,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "110",
+      "#": "111",
       "Car": "Pony",
       "Time": "24:29.650",
       "Player": "frozenhunt",
@@ -5456,7 +5475,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "111",
+      "#": "112",
       "Car": "Duneloader",
       "Time": "24:31.907",
       "Player": "frozenhunt",
@@ -5475,7 +5494,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "112",
+      "#": "113",
       "Car": "Burrito",
       "Time": "24:40.746",
       "Player": "frozenhunt",
@@ -5494,7 +5513,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "113",
+      "#": "114",
       "Car": "Regina",
       "Time": "25:51.065",
       "Player": "frozenhunt",
@@ -5513,7 +5532,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "114",
+      "#": "115",
       "Car": "Utility Trailer",
       "Time": "26:49.374",
       "Player": "frozenhunt",
@@ -5532,7 +5551,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "115",
+      "#": "116",
       "Car": "Utility Truck (Cargo Truck)",
       "Time": "27:01.453",
       "Player": "frozenhunt",
@@ -5551,7 +5570,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "116",
+      "#": "117",
       "Car": "Rubble",
       "Time": "27:04.472",
       "Player": "frozenhunt",
@@ -5570,7 +5589,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "117",
+      "#": "118",
       "Car": "Flatbed Trailer",
       "Time": "27:05.524",
       "Player": "frozenhunt",
@@ -5589,7 +5608,7 @@
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
     },
     {
-      "#": "118",
+      "#": "119",
       "Car": "Scrap Truck",
       "Time": "27:30.949",
       "Player": "frozenhunt",
@@ -5608,7 +5627,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "119",
+      "#": "120",
       "Car": "Mixer (8 wheels)",
       "Time": "27:53.254",
       "Player": "frozenhunt",
@@ -5627,7 +5646,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "120",
+      "#": "121",
       "Car": "Dukes",
       "Time": "27:54.655",
       "Player": "frozenhunt",
@@ -5646,7 +5665,7 @@
       "Notes?": ""
     },
     {
-      "#": "121",
+      "#": "122",
       "Car": "Alpha",
       "Time": "28:10.720",
       "Player": "frozenhunt",
@@ -5665,7 +5684,7 @@
       "Notes?": ""
     },
     {
-      "#": "122",
+      "#": "123",
       "Car": "Rhapsody",
       "Time": "28:14.024",
       "Player": "frozenhunt",
@@ -5684,7 +5703,7 @@
       "Notes?": ""
     },
     {
-      "#": "123",
+      "#": "124",
       "Car": "Utility Truck (Van)",
       "Time": "28:21.765",
       "Player": "frozenhunt",
@@ -5703,7 +5722,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "124",
+      "#": "125",
       "Car": "Pigalle",
       "Time": "28:32.493",
       "Player": "frozenhunt",
@@ -5722,7 +5741,7 @@
       "Notes?": ""
     },
     {
-      "#": "125",
+      "#": "126",
       "Car": "Jester",
       "Time": "28:38.850",
       "Player": "SLIMYYY",
@@ -5741,7 +5760,7 @@
       "Notes?": ""
     },
     {
-      "#": "126",
+      "#": "127",
       "Car": "Furore GT",
       "Time": "28:55.649",
       "Player": "frozenhunt",
@@ -5760,7 +5779,7 @@
       "Notes?": ""
     },
     {
-      "#": "127",
+      "#": "128",
       "Car": "Stallion",
       "Time": "28:57.952",
       "Player": "frozenhunt",
@@ -5779,7 +5798,7 @@
       "Notes?": ""
     },
     {
-      "#": "128",
+      "#": "129",
       "Car": "Faggio",
       "Time": "29:08.379",
       "Player": "frozenhunt",
@@ -5798,7 +5817,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "129",
+      "#": "130",
       "Car": "Hauler",
       "Time": "29:08.830",
       "Player": "frozenhunt",
@@ -5817,7 +5836,7 @@
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
     },
     {
-      "#": "130",
+      "#": "131",
       "Car": "Mixer (6 wheels)",
       "Time": "29:08.999",
       "Player": "Mygooos",
@@ -5836,7 +5855,7 @@
       "Notes?": ""
     },
     {
-      "#": "131",
+      "#": "132",
       "Car": "Glendale",
       "Time": "29:15.402",
       "Player": "frozenhunt",
@@ -5855,7 +5874,7 @@
       "Notes?": ""
     },
     {
-      "#": "132",
+      "#": "133",
       "Car": "Dock Trailer",
       "Time": "29:54.259",
       "Player": "frozenhunt",
@@ -5874,7 +5893,7 @@
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
     },
     {
-      "#": "133",
+      "#": "134",
       "Car": "Dashound",
       "Time": "29:54.309",
       "Player": "frozenhunt",
@@ -5893,7 +5912,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "134",
+      "#": "135",
       "Car": "Packer",
       "Time": "29:56.045",
       "Player": "frozenhunt",
@@ -5912,7 +5931,7 @@
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (aggressive)"
     },
     {
-      "#": "135",
+      "#": "136",
       "Car": "Crusader",
       "Time": "29:57.248",
       "Player": "frozenhunt",
@@ -5931,7 +5950,7 @@
       "Notes?": ""
     },
     {
-      "#": "136",
+      "#": "137",
       "Car": "Warrener",
       "Time": "29:58.063",
       "Player": "frozenhunt",
@@ -5950,7 +5969,7 @@
       "Notes?": ""
     },
     {
-      "#": "137",
+      "#": "138",
       "Car": "Police Riot",
       "Time": "30:04.650",
       "Player": "frozenhunt",
@@ -5969,7 +5988,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "138",
+      "#": "139",
       "Car": "Tipper (6 wheels)",
       "Time": "30:06.922",
       "Player": "frozenhunt",
@@ -5988,7 +6007,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "139",
+      "#": "140",
       "Car": "Panto",
       "Time": "30:07.955",
       "Player": "frozenhunt",
@@ -6007,7 +6026,7 @@
       "Notes?": ""
     },
     {
-      "#": "140",
+      "#": "141",
       "Car": "Pounder",
       "Time": "30:11.594*",
       "Player": "frozenhunt",
@@ -6026,7 +6045,7 @@
       "Notes?": ""
     },
     {
-      "#": "141",
+      "#": "142",
       "Car": "Box Trailer",
       "Time": "30:26.158*",
       "Player": "SLIMYYY",
@@ -6045,7 +6064,7 @@
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
     },
     {
-      "#": "142",
+      "#": "143",
       "Car": "Camper",
       "Time": "30:28.542",
       "Player": "frozenhunt",
@@ -6064,7 +6083,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "143",
+      "#": "144",
       "Car": "Journey",
       "Time": "30:59.791",
       "Player": "frozenhunt",
@@ -6083,7 +6102,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "144",
+      "#": "145",
       "Car": "Tipper (4 wheels)",
       "Time": "31:23.932",
       "Player": "frozenhunt",
@@ -6102,7 +6121,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "145",
+      "#": "146",
       "Car": "Blista Compact",
       "Time": "31:40.081",
       "Player": "frozenhunt",
@@ -6121,7 +6140,7 @@
       "Notes?": ""
     },
     {
-      "#": "146",
+      "#": "147",
       "Car": "Barracks Semi",
       "Time": "31:50.808",
       "Player": "frozenhunt",
@@ -6140,7 +6159,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "147",
+      "#": "148",
       "Car": "Hakuchou",
       "Time": "32:09.860",
       "Player": "frozenhunt",
@@ -6159,7 +6178,7 @@
       "Notes?": "Hybrid"
     },
     {
-      "#": "148",
+      "#": "149",
       "Car": "Container Trailer",
       "Time": "32:11.296*",
       "Player": "SLIMYYY",
@@ -6178,7 +6197,7 @@
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
     },
     {
-      "#": "149",
+      "#": "150",
       "Car": "Caddy",
       "Time": "32:22.974",
       "Player": "frozenhunt",
@@ -6197,7 +6216,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "150",
+      "#": "151",
       "Car": "Ramp Door Trailer",
       "Time": "33:02.664*",
       "Player": "SLIMYYY",
@@ -6216,7 +6235,7 @@
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
     },
     {
-      "#": "151",
+      "#": "152",
       "Car": "Biff",
       "Time": "36:11.735",
       "Player": "frozenhunt",
@@ -6233,25 +6252,6 @@
       "Zancudo Exit": "34:18",
       "Finish": "36:11",
       "Notes?": "Route 68 = Quarry Underpass"
-    },
-    {
-      "#": "152",
-      "Car": "FIB SUV",
-      "Time": "36:59.999",
-      "Player": "SLIMYYY",
-      "Link": "",
-      "Highway": "",
-      "Wheelspin": "",
-      "Quarry": "",
-      "Hospital Line": "",
-      "Airport": "",
-      "Route 68": "",
-      "Chiliad": "",
-      "Off Tracks": "",
-      "Observatory": "",
-      "Zancudo Exit": "",
-      "Finish": "",
-      "Notes?": ""
     },
     {
       "#": "153",
