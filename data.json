@@ -7112,6 +7112,25 @@
     },
     {
       "#": "21",
+      "Car": "Banshee",
+      "Time": "16:50.062",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:57",
+      "Wheelspin": "02:07",
+      "Observatory": "04:12",
+      "Route 68": "05:06",
+      "Chiliad": "07:31",
+      "Off Tracks": "09:10",
+      "Hospital Line": "10:48",
+      "Airport": "11:46",
+      "Quarry": "14:30",
+      "Lighthouse": "16:23",
+      "Finish": "16:50",
+      "Notes?": ""
+    },
+    {
+      "#": "22",
       "Car": "Sanchez",
       "Time": "16:50.393",
       "Player": "Rj_Igor",
@@ -7130,7 +7149,7 @@
       "Notes?": ""
     },
     {
-      "#": "22",
+      "#": "23",
       "Car": "Sultan",
       "Time": "16:52.081",
       "Player": "Rj_Igor",
@@ -7145,25 +7164,6 @@
       "Airport": "11:58",
       "Quarry": "14:44",
       "Lighthouse": "16:29",
-      "Finish": "16:52",
-      "Notes?": ""
-    },
-    {
-      "#": "23",
-      "Car": "Banshee",
-      "Time": "16:52.931",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:58",
-      "Wheelspin": "02:08",
-      "Observatory": "04:12",
-      "Route 68": "05:06",
-      "Chiliad": "07:27",
-      "Off Tracks": "09:12",
-      "Hospital Line": "10:48",
-      "Airport": "11:48",
-      "Quarry": "14:32",
-      "Lighthouse": "16:27",
       "Finish": "16:52",
       "Notes?": ""
     },
@@ -10971,6 +10971,25 @@
     },
     {
       "#": "47",
+      "Car": "Vader",
+      "Time": "18:05.423",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:40",
+      "Wheelspin": "02:46",
+      "Quarry": "03:51",
+      "Hospital Line": "05:47",
+      "Airport": "06:48",
+      "Route 68": "09:11",
+      "Chiliad": "11:50",
+      "Off Tracks": "13:37",
+      "Observatory": "15:00",
+      "Zancudo Exit": "16:25",
+      "Finish": "18:05",
+      "Notes?": "Hotlap"
+    },
+    {
+      "#": "48",
       "Car": "PCJ 600",
       "Time": "18:07.262",
       "Player": "SMGWolfmanz",
@@ -10986,10 +11005,10 @@
       "Observatory": "14:42",
       "Zancudo Exit": "16:04",
       "Finish": "18:07",
-      "Notes?": "Hybrid / Hotlap"
+      "Notes?": "Hotlap"
     },
     {
-      "#": "48",
+      "#": "49",
       "Car": "Asterope",
       "Time": "18:09.467",
       "Player": "RBSReece",
@@ -11008,7 +11027,7 @@
       "Notes?": ""
     },
     {
-      "#": "49",
+      "#": "50",
       "Car": "Nemesis",
       "Time": "18:10.014",
       "Player": "Rj_Igor",
@@ -11024,10 +11043,10 @@
       "Observatory": "15:07",
       "Zancudo Exit": "16:30",
       "Finish": "18:10",
-      "Notes?": "Hybrid"
+      "Notes?": "Hybrid / Hotlap"
     },
     {
-      "#": "50",
+      "#": "51",
       "Car": "Schafter",
       "Time": "18:10.061",
       "Player": "Rj_Igor",
@@ -11046,7 +11065,7 @@
       "Notes?": ""
     },
     {
-      "#": "51",
+      "#": "52",
       "Car": "Huntley S",
       "Time": "18:11.909",
       "Player": "Rj_Igor",
@@ -11065,7 +11084,7 @@
       "Notes?": ""
     },
     {
-      "#": "52",
+      "#": "53",
       "Car": "Daemon",
       "Time": "18:13.417",
       "Player": "SMGWolfmanz",
@@ -11084,7 +11103,7 @@
       "Notes?": "Hotlap / Elevator"
     },
     {
-      "#": "53",
+      "#": "54",
       "Car": "Penumbra",
       "Time": "18:15.709",
       "Player": "Rj_Igor",
@@ -11103,7 +11122,7 @@
       "Notes?": ""
     },
     {
-      "#": "54",
+      "#": "55",
       "Car": "Rebel",
       "Time": "18:18.830",
       "Player": "Rj_Igor",
@@ -11122,7 +11141,7 @@
       "Notes?": ""
     },
     {
-      "#": "55",
+      "#": "56",
       "Car": "Intruder",
       "Time": "18:19.435",
       "Player": "Rj_Igor",
@@ -11141,7 +11160,7 @@
       "Notes?": ""
     },
     {
-      "#": "56",
+      "#": "57",
       "Car": "Stanier",
       "Time": "18:24.489",
       "Player": "Rj_Igor",
@@ -11160,7 +11179,7 @@
       "Notes?": ""
     },
     {
-      "#": "57",
+      "#": "58",
       "Car": "Washington",
       "Time": "18:29.150",
       "Player": "Rj_Igor",
@@ -11176,25 +11195,6 @@
       "Observatory": "15:48",
       "Zancudo Exit": "17:13",
       "Finish": "18:29",
-      "Notes?": ""
-    },
-    {
-      "#": "58",
-      "Car": "Vader",
-      "Time": "18:30.060",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:42",
-      "Wheelspin": "02:48",
-      "Quarry": "03:53",
-      "Hospital Line": "05:49",
-      "Airport": "06:47",
-      "Route 68": "09:30",
-      "Chiliad": "12:11",
-      "Off Tracks": "14:03",
-      "Observatory": "15:23",
-      "Zancudo Exit": "16:49",
-      "Finish": "18:30",
       "Notes?": ""
     },
     {
@@ -13100,20 +13100,20 @@
     {
       "#": "159",
       "Car": "Mule",
-      "Time": "39:12.094",
-      "Player": "SMGWolfmanz",
+      "Time": "38:53.966",
+      "Player": "Rj_Igor",
       "Link": "Link",
-      "Highway": "02:39",
-      "Wheelspin": "02:48",
-      "Quarry": "04:39",
-      "Hospital Line": "07:42",
-      "Airport": "10:15",
-      "Route 68": "14:11",
-      "Chiliad": "26:48",
-      "Off Tracks": "30:37",
-      "Observatory": "34:29",
-      "Zancudo Exit": "37:00",
-      "Finish": "39:12",
+      "Highway": "02:43",
+      "Wheelspin": "02:52",
+      "Quarry": "04:40",
+      "Hospital Line": "07:45",
+      "Airport": "10:12",
+      "Route 68": "14:14",
+      "Chiliad": "27:43",
+      "Off Tracks": "30:58",
+      "Observatory": "34:24",
+      "Zancudo Exit": "36:44",
+      "Finish": "38:53",
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
