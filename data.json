@@ -6483,6 +6483,25 @@
     },
     {
       "#": "165",
+      "Car": "Taco Van",
+      "Time": "54:57.578",
+      "Player": "SMGWolfmanz",
+      "Link": "Link",
+      "Highway": "02:42",
+      "Wheelspin": "08:19",
+      "Quarry": "11:01",
+      "Hospital Line": "13:59",
+      "Airport": "16:02",
+      "Route 68": "19:57",
+      "Chiliad": "42:56",
+      "Off Tracks": "46:45",
+      "Observatory": "50:43",
+      "Zancudo Exit": "52:53",
+      "Finish": "54:57",
+      "Notes?": "Route 68 = Quarry Underpass"
+    },
+    {
+      "#": "166",
       "Car": "Seashark",
       "Time": "60:14.999*",
       "Player": "SLIMYYY",
@@ -6501,7 +6520,7 @@
       "Notes?": ""
     },
     {
-      "#": "166",
+      "#": "167",
       "Car": "Cruiser (Bicycle)",
       "Time": "60:29.576",
       "Player": "frozenhunt",
@@ -6520,7 +6539,7 @@
       "Notes?": ""
     },
     {
-      "#": "167",
+      "#": "168",
       "Car": "Pounder",
       "Time": "60:47.644",
       "Player": "SMGWolfmanz",
@@ -6539,7 +6558,7 @@
       "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
     },
     {
-      "#": "168",
+      "#": "169",
       "Car": "Feet (Traditional)",
       "Time": "76:30.779",
       "Player": "NuggetTrees",
@@ -6556,25 +6575,6 @@
       "Zancudo Exit": "71:35",
       "Finish": "76:30",
       "Notes?": ""
-    },
-    {
-      "#": "169",
-      "Car": "Taco Van",
-      "Time": "85:48.909",
-      "Player": "SMGWolfmanz",
-      "Link": "Link",
-      "Highway": "N/A",
-      "Wheelspin": "12:01",
-      "Quarry": "15:46",
-      "Hospital Line": "18:44",
-      "Airport": "20:47",
-      "Route 68": "24:39",
-      "Chiliad": "73:18",
-      "Off Tracks": "78:06",
-      "Observatory": "81:41",
-      "Zancudo Exit": "83:37",
-      "Finish": "85:48",
-      "Notes?": "Route 68 = Quarry Underpass"
     },
     {
       "#": "170",
@@ -10477,6 +10477,25 @@
     },
     {
       "#": "21",
+      "Car": "Fusilade",
+      "Time": "16:46.008",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:41",
+      "Wheelspin": "02:50",
+      "Quarry": "03:54",
+      "Hospital Line": "05:43",
+      "Airport": "06:40",
+      "Route 68": "08:56",
+      "Chiliad": "11:18",
+      "Off Tracks": "12:57",
+      "Observatory": "14:11",
+      "Zancudo Exit": "15:38",
+      "Finish": "16:46",
+      "Notes?": ""
+    },
+    {
+      "#": "22",
       "Car": "Double-T",
       "Time": "16:47.422",
       "Player": "SMGWolfmanz",
@@ -10493,25 +10512,6 @@
       "Zancudo Exit": "15:22",
       "Finish": "16:47",
       "Notes?": "Hybrid"
-    },
-    {
-      "#": "22",
-      "Car": "Fusilade",
-      "Time": "16:49.269",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:41",
-      "Wheelspin": "02:49",
-      "Quarry": "03:56",
-      "Hospital Line": "05:45",
-      "Airport": "06:41",
-      "Route 68": "09:01",
-      "Chiliad": "11:23",
-      "Off Tracks": "13:05",
-      "Observatory": "14:21",
-      "Zancudo Exit": "15:40",
-      "Finish": "16:49",
-      "Notes?": ""
     },
     {
       "#": "23",
