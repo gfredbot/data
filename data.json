@@ -8442,6 +8442,25 @@
     },
     {
       "#": "91",
+      "Car": "Burrito",
+      "Time": "22:40.984",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "02:43",
+      "Observatory": "05:23",
+      "Route 68": "06:27",
+      "Chiliad": "11:16",
+      "Off Tracks": "13:29",
+      "Hospital Line": "15:31",
+      "Airport": "16:39",
+      "Quarry": "20:01",
+      "Lighthouse": "22:15",
+      "Finish": "22:40",
+      "Notes?": ""
+    },
+    {
+      "#": "92",
       "Car": "Rumpo",
       "Time": "22:41.543",
       "Player": "Rj_Igor",
@@ -8460,7 +8479,7 @@
       "Notes?": ""
     },
     {
-      "#": "92",
+      "#": "93",
       "Car": "Dilettante",
       "Time": "22:45.793",
       "Player": "Rj_Igor",
@@ -8479,7 +8498,7 @@
       "Notes?": ""
     },
     {
-      "#": "93",
+      "#": "94",
       "Car": "Minivan",
       "Time": "22:47.125",
       "Player": "Rj_Igor",
@@ -8498,7 +8517,7 @@
       "Notes?": "reverse up elevator"
     },
     {
-      "#": "94",
+      "#": "95",
       "Car": "Boat Trailer (No Boat)",
       "Time": "22:53.847",
       "Player": "Rj_Igor",
@@ -8517,7 +8536,7 @@
       "Notes?": ""
     },
     {
-      "#": "95",
+      "#": "96",
       "Car": "Huntley S",
       "Time": "22:57.861",
       "Player": "Rj_Igor",
@@ -8536,7 +8555,7 @@
       "Notes?": ""
     },
     {
-      "#": "96",
+      "#": "97",
       "Car": "Pony",
       "Time": "23:05.748",
       "Player": "Rj_Igor",
@@ -8552,25 +8571,6 @@
       "Quarry": "20:21",
       "Lighthouse": "22:39",
       "Finish": "23:05",
-      "Notes?": ""
-    },
-    {
-      "#": "97",
-      "Car": "Burrito",
-      "Time": "23:15.071",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "N/A",
-      "Wheelspin": "02:39",
-      "Observatory": "05:21",
-      "Route 68": "06:25",
-      "Chiliad": "11:27",
-      "Off Tracks": "13:45",
-      "Hospital Line": "15:59",
-      "Airport": "17:08",
-      "Quarry": "20:32",
-      "Lighthouse": "22:50",
-      "Finish": "23:15",
       "Notes?": ""
     },
     {
@@ -11788,6 +11788,25 @@
     },
     {
       "#": "90",
+      "Car": "Blazer",
+      "Time": "20:46.476",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:41",
+      "Wheelspin": "04:25",
+      "Quarry": "05:40",
+      "Hospital Line": "07:41",
+      "Airport": "08:55",
+      "Route 68": "11:40",
+      "Chiliad": "14:14",
+      "Off Tracks": "16:19",
+      "Observatory": "17:48",
+      "Zancudo Exit": "19:16",
+      "Finish": "20:46",
+      "Notes?": ""
+    },
+    {
+      "#": "91",
       "Car": "Tornado",
       "Time": "21:19.895",
       "Player": "Rj_Igor",
@@ -11806,7 +11825,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "91",
+      "#": "92",
       "Car": "Minivan",
       "Time": "21:26.454",
       "Player": "Rj_Igor",
@@ -11825,7 +11844,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "92",
+      "#": "93",
       "Car": "Manana",
       "Time": "21:30.126",
       "Player": "Rj_Igor",
@@ -11842,25 +11861,6 @@
       "Zancudo Exit": "20:02",
       "Finish": "21:30",
       "Notes?": "Route 68 = Quarry Underpass"
-    },
-    {
-      "#": "93",
-      "Car": "Blazer",
-      "Time": "21:32.959",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:42",
-      "Wheelspin": "04:53",
-      "Quarry": "06:03",
-      "Hospital Line": "08:11",
-      "Airport": "09:17",
-      "Route 68": "12:09",
-      "Chiliad": "14:52",
-      "Off Tracks": "17:02",
-      "Observatory": "18:32",
-      "Zancudo Exit": "20:02",
-      "Finish": "21:32",
-      "Notes?": ""
     },
     {
       "#": "94",
@@ -12682,20 +12682,20 @@
     {
       "#": "137",
       "Car": "Hakuchou",
-      "Time": "29:01.983",
+      "Time": "28:51.540",
       "Player": "Rj_Igor",
       "Link": "Link",
       "Highway": "02:42",
-      "Wheelspin": "13:59",
-      "Quarry": "16:19",
-      "Hospital Line": "17:57",
-      "Airport": "18:50",
-      "Route 68": "21:06",
-      "Chiliad": "23:30",
-      "Off Tracks": "25:08",
-      "Observatory": "26:23",
-      "Zancudo Exit": "27:38",
-      "Finish": "29:01",
+      "Wheelspin": "14:01",
+      "Quarry": "16:21",
+      "Hospital Line": "18:00",
+      "Airport": "18:55",
+      "Route 68": "21:09",
+      "Chiliad": "23:24",
+      "Off Tracks": "25:00",
+      "Observatory": "26:09",
+      "Zancudo Exit": "27:23",
+      "Finish": "28:51",
       "Notes?": ""
     },
     {
