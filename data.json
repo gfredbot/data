@@ -5666,6 +5666,25 @@
     },
     {
       "#": "122",
+      "Car": "Furore GT",
+      "Time": "27:49.635",
+      "Player": "SMGWolfmanz",
+      "Link": "Link",
+      "Highway": "2:44",
+      "Wheelspin": "12:49",
+      "Quarry": "15:23",
+      "Hospital Line": "17:09",
+      "Airport": "18:06",
+      "Route 68": "20:22",
+      "Chiliad": "22:35",
+      "Off Tracks": "24:10",
+      "Observatory": "25:25",
+      "Zancudo Exit": "26:43",
+      "Finish": "27:49",
+      "Notes?": ""
+    },
+    {
+      "#": "123",
       "Car": "Mixer (8 wheels)",
       "Time": "27:53.254",
       "Player": "frozenhunt",
@@ -5684,7 +5703,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "123",
+      "#": "124",
       "Car": "Thrust",
       "Time": "27:53.922",
       "Player": "frozenhunt",
@@ -5703,7 +5722,7 @@
       "Notes?": "Hotlap"
     },
     {
-      "#": "124",
+      "#": "125",
       "Car": "Dukes",
       "Time": "27:54.655",
       "Player": "frozenhunt",
@@ -5722,7 +5741,7 @@
       "Notes?": ""
     },
     {
-      "#": "125",
+      "#": "126",
       "Car": "Rhapsody",
       "Time": "28:14.024",
       "Player": "frozenhunt",
@@ -5741,7 +5760,7 @@
       "Notes?": ""
     },
     {
-      "#": "126",
+      "#": "127",
       "Car": "Utility Truck (Van)",
       "Time": "28:21.765",
       "Player": "frozenhunt",
@@ -5760,7 +5779,7 @@
       "Notes?": "Route 68 = Quarry Underpass"
     },
     {
-      "#": "127",
+      "#": "128",
       "Car": "Pigalle",
       "Time": "28:32.493",
       "Player": "frozenhunt",
@@ -5779,7 +5798,7 @@
       "Notes?": ""
     },
     {
-      "#": "128",
+      "#": "129",
       "Car": "Jester",
       "Time": "28:38.850",
       "Player": "SLIMYYY",
@@ -5795,25 +5814,6 @@
       "Observatory": "26:01",
       "Zancudo Exit": "27:28",
       "Finish": "28:38",
-      "Notes?": ""
-    },
-    {
-      "#": "129",
-      "Car": "Furore GT",
-      "Time": "28:55.649",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:43",
-      "Wheelspin": "13:52",
-      "Quarry": "16:26",
-      "Hospital Line": "18:15",
-      "Airport": "19:09",
-      "Route 68": "21:32",
-      "Chiliad": "23:45",
-      "Off Tracks": "25:19",
-      "Observatory": "26:31",
-      "Zancudo Exit": "27:49",
-      "Finish": "28:55",
       "Notes?": ""
     },
     {
