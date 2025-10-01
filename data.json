@@ -6827,6 +6827,25 @@
     },
     {
       "#": "6",
+      "Car": "Rapid GT",
+      "Time": "16:02.652",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:58",
+      "Wheelspin": "02:08",
+      "Observatory": "04:10",
+      "Route 68": "05:02",
+      "Chiliad": "07:20",
+      "Off Tracks": "08:58",
+      "Hospital Line": "10:27",
+      "Airport": "11:21",
+      "Quarry": "13:48",
+      "Lighthouse": "15:37",
+      "Finish": "16:02",
+      "Notes?": "Elevator"
+    },
+    {
+      "#": "7",
       "Car": "Akuma",
       "Time": "16:11.225",
       "Player": "Rj_Igor",
@@ -6842,26 +6861,7 @@
       "Quarry": "13:49",
       "Lighthouse": "15:40",
       "Finish": "16:11",
-      "Notes?": ""
-    },
-    {
-      "#": "7",
-      "Car": "Rapid GT",
-      "Time": "16:11.729",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:58",
-      "Wheelspin": "02:09",
-      "Observatory": "04:07",
-      "Route 68": "04:59",
-      "Chiliad": "07:15",
-      "Off Tracks": "08:55",
-      "Hospital Line": "10:27",
-      "Airport": "11:22",
-      "Quarry": "13:54",
-      "Lighthouse": "15:43",
-      "Finish": "16:11",
-      "Notes?": ""
+      "Notes?": "Hybrid"
     },
     {
       "#": "8",
@@ -7241,7 +7241,7 @@
       "Quarry": "14:29",
       "Lighthouse": "16:23",
       "Finish": "17:09",
-      "Notes?": ""
+      "Notes?": "Hybrid"
     },
     {
       "#": "28",
