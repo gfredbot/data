@@ -1423,7 +1423,7 @@
       "Quarry": "16:56",
       "Lighthouse": "19:03",
       "Finish": "19:29",
-      "Notes?": ""
+      "Notes?": "reverse up elevator"
     },
     {
       "#": "76",
@@ -1556,7 +1556,7 @@
       "Quarry": "17:26",
       "Lighthouse": "19:35",
       "Finish": "19:57",
-      "Notes?": ""
+      "Notes?": "reverse up elevator"
     },
     {
       "#": "83",
@@ -2164,7 +2164,7 @@
       "Quarry": "21:53",
       "Lighthouse": "23:44",
       "Finish": "24:46",
-      "Notes?": "can do 2nd entry elevator"
+      "Notes?": "Can do 2nd entry Elevator"
     },
     {
       "#": "115",
@@ -2259,7 +2259,7 @@
       "Quarry": "22:55",
       "Lighthouse": "24:48",
       "Finish": "25:51",
-      "Notes?": "Can Wiggle Boost (aggressive)"
+      "Notes?": "Can WB (aggressive)"
     },
     {
       "#": "120",
@@ -2354,7 +2354,7 @@
       "Quarry": "23:43",
       "Lighthouse": "25:44",
       "Finish": "26:50",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "125",
@@ -2430,7 +2430,7 @@
       "Quarry": "24:28",
       "Lighthouse": "26:29",
       "Finish": "27:32",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "129",
@@ -2449,7 +2449,7 @@
       "Quarry": "24:15",
       "Lighthouse": "26:30",
       "Finish": "27:41",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "130",
@@ -3133,7 +3133,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "166",
@@ -3152,7 +3152,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "167",
@@ -3171,7 +3171,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "168",
@@ -3190,7 +3190,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "169",
@@ -3342,7 +3342,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "177",
@@ -4750,7 +4750,7 @@
       "Observatory": "16:31",
       "Zancudo Exit": "17:59",
       "Finish": "19:17",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "74",
@@ -4845,7 +4845,7 @@
       "Observatory": "16:36",
       "Zancudo Exit": "18:07",
       "Finish": "19:28",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "79",
@@ -4921,7 +4921,7 @@
       "Observatory": "16:58",
       "Zancudo Exit": "18:30",
       "Finish": "19:46",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "83",
@@ -4940,7 +4940,7 @@
       "Observatory": "16:53",
       "Zancudo Exit": "18:28",
       "Finish": "19:49",
-      "Notes?": "Elevator / Og Chiliad"
+      "Notes?": "Elevator"
     },
     {
       "#": "84",
@@ -5054,7 +5054,7 @@
       "Observatory": "17:41",
       "Zancudo Exit": "19:19",
       "Finish": "20:38",
-      "Notes?": "Route 68 = Quarry Underpass    AKA Poopoo XL"
+      "Notes?": "R68 = Quarry Underpass / AKA Poopoo XL"
     },
     {
       "#": "90",
@@ -5073,7 +5073,7 @@
       "Observatory": "18:13",
       "Zancudo Exit": "19:43",
       "Finish": "21:04",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "91",
@@ -5092,7 +5092,7 @@
       "Observatory": "18:24",
       "Zancudo Exit": "19:57",
       "Finish": "21:18",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "92",
@@ -5111,7 +5111,7 @@
       "Observatory": "18:24",
       "Zancudo Exit": "19:58",
       "Finish": "21:18",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "93",
@@ -5130,7 +5130,7 @@
       "Observatory": "18:29",
       "Zancudo Exit": "20:06",
       "Finish": "21:33",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "94",
@@ -5149,7 +5149,7 @@
       "Observatory": "18:40",
       "Zancudo Exit": "20:17",
       "Finish": "21:35",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "95",
@@ -5187,7 +5187,7 @@
       "Observatory": "18:56",
       "Zancudo Exit": "20:36",
       "Finish": "22:02",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "97",
@@ -5244,7 +5244,7 @@
       "Observatory": "19:40",
       "Zancudo Exit": "21:16",
       "Finish": "22:40",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "100",
@@ -5282,7 +5282,7 @@
       "Observatory": "19:45",
       "Zancudo Exit": "21:23",
       "Finish": "22:47",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "102",
@@ -5301,7 +5301,7 @@
       "Observatory": "19:59",
       "Zancudo Exit": "21:30",
       "Finish": "22:48",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "103",
@@ -5320,7 +5320,7 @@
       "Observatory": "18:53",
       "Zancudo Exit": "21:27",
       "Finish": "22:57",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "104",
@@ -5339,7 +5339,7 @@
       "Observatory": "20:34",
       "Zancudo Exit": "22:11",
       "Finish": "23:40",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "105",
@@ -5358,7 +5358,7 @@
       "Observatory": "20:50",
       "Zancudo Exit": "22:23",
       "Finish": "23:45",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "106",
@@ -5377,7 +5377,7 @@
       "Observatory": "20:46",
       "Zancudo Exit": "22:21",
       "Finish": "23:46",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "107",
@@ -5396,7 +5396,7 @@
       "Observatory": "20:13",
       "Zancudo Exit": "21:58",
       "Finish": "23:48",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "108",
@@ -5415,7 +5415,7 @@
       "Observatory": "20:24",
       "Zancudo Exit": "22:08",
       "Finish": "23:51",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "109",
@@ -5434,7 +5434,7 @@
       "Observatory": "20:17",
       "Zancudo Exit": "22:25",
       "Finish": "24:00",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "110",
@@ -5453,7 +5453,7 @@
       "Observatory": "21:02",
       "Zancudo Exit": "22:44",
       "Finish": "24:20",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "111",
@@ -5472,7 +5472,7 @@
       "Observatory": "21:12",
       "Zancudo Exit": "22:57",
       "Finish": "24:29",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "112",
@@ -5491,7 +5491,7 @@
       "Observatory": "21:10",
       "Zancudo Exit": "22:54",
       "Finish": "24:31",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "113",
@@ -5510,7 +5510,7 @@
       "Observatory": "21:40",
       "Zancudo Exit": "23:17",
       "Finish": "24:40",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "114",
@@ -5529,7 +5529,7 @@
       "Observatory": "22:19",
       "Zancudo Exit": "24:06",
       "Finish": "25:51",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "115",
@@ -5548,7 +5548,7 @@
       "Observatory": "20:48",
       "Zancudo Exit": "24:49",
       "Finish": "26:49",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "116",
@@ -5567,7 +5567,7 @@
       "Observatory": "23:21",
       "Zancudo Exit": "25:12",
       "Finish": "27:01",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "117",
@@ -5586,7 +5586,7 @@
       "Observatory": "23:26",
       "Zancudo Exit": "25:10",
       "Finish": "27:04",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "118",
@@ -5605,7 +5605,7 @@
       "Observatory": "23:04",
       "Zancudo Exit": "25:07",
       "Finish": "27:05",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "119",
@@ -5624,7 +5624,7 @@
       "Observatory": "23:28",
       "Zancudo Exit": "25:18",
       "Finish": "27:14",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "120",
@@ -5643,7 +5643,7 @@
       "Observatory": "23:18",
       "Zancudo Exit": "25:39",
       "Finish": "27:30",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "121",
@@ -5700,7 +5700,7 @@
       "Observatory": "23:47",
       "Zancudo Exit": "25:54",
       "Finish": "27:53",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "124",
@@ -5776,7 +5776,7 @@
       "Observatory": "24:32",
       "Zancudo Exit": "26:27",
       "Finish": "28:21",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "128",
@@ -5871,7 +5871,7 @@
       "Observatory": "25:19",
       "Zancudo Exit": "27:27",
       "Finish": "29:08",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "133",
@@ -5890,7 +5890,7 @@
       "Observatory": "25:14",
       "Zancudo Exit": "27:21",
       "Finish": "29:08",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "134",
@@ -5928,7 +5928,7 @@
       "Observatory": "25:36",
       "Zancudo Exit": "27:29",
       "Finish": "29:24",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "136",
@@ -5947,7 +5947,7 @@
       "Observatory": "25:34",
       "Zancudo Exit": "27:38",
       "Finish": "29:35",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "137",
@@ -5966,7 +5966,7 @@
       "Observatory": "26:01",
       "Zancudo Exit": "28:00",
       "Finish": "29:54",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "138",
@@ -5985,7 +5985,7 @@
       "Observatory": "26:02",
       "Zancudo Exit": "27:55",
       "Finish": "29:56",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (aggressive)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Aggressive)"
     },
     {
       "#": "139",
@@ -6042,7 +6042,7 @@
       "Observatory": "26:12",
       "Zancudo Exit": "28:12",
       "Finish": "30:04",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "142",
@@ -6080,7 +6080,7 @@
       "Observatory": "25:58",
       "Zancudo Exit": "28:23",
       "Finish": "30:26",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "144",
@@ -6099,7 +6099,7 @@
       "Observatory": "26:41",
       "Zancudo Exit": "28:35",
       "Finish": "30:28",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "145",
@@ -6118,7 +6118,7 @@
       "Observatory": "26:56",
       "Zancudo Exit": "29:06",
       "Finish": "30:59",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "146",
@@ -6137,7 +6137,7 @@
       "Observatory": "27:32",
       "Zancudo Exit": "29:25",
       "Finish": "31:23",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "147",
@@ -6156,7 +6156,7 @@
       "Observatory": "27:59",
       "Zancudo Exit": "30:00",
       "Finish": "31:50",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "148",
@@ -6194,7 +6194,7 @@
       "Observatory": "27:41",
       "Zancudo Exit": "30:10",
       "Finish": "32:11",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "150",
@@ -6213,7 +6213,7 @@
       "Observatory": "28:25",
       "Zancudo Exit": "30:31",
       "Finish": "32:22",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "151",
@@ -6232,7 +6232,7 @@
       "Observatory": "28:22",
       "Zancudo Exit": "30:57",
       "Finish": "33:02",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "152",
@@ -6251,7 +6251,7 @@
       "Observatory": "32:29",
       "Zancudo Exit": "34:18",
       "Finish": "36:11",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "153",
@@ -6270,7 +6270,7 @@
       "Observatory": "33:31",
       "Zancudo Exit": "35:17",
       "Finish": "37:08",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "154",
@@ -6289,7 +6289,7 @@
       "Observatory": "33:20",
       "Zancudo Exit": "35:24",
       "Finish": "37:10",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "155",
@@ -6308,7 +6308,7 @@
       "Observatory": "33:57",
       "Zancudo Exit": "36:02",
       "Finish": "37:53",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "156",
@@ -6327,7 +6327,7 @@
       "Observatory": "34:37",
       "Zancudo Exit": "36:46",
       "Finish": "38:51",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "157",
@@ -6346,7 +6346,7 @@
       "Observatory": "35:04",
       "Zancudo Exit": "37:14",
       "Finish": "39:17",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "158",
@@ -6365,7 +6365,7 @@
       "Observatory": "35:36",
       "Zancudo Exit": "37:39",
       "Finish": "39:37",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "159",
@@ -6384,7 +6384,7 @@
       "Observatory": "36:07",
       "Zancudo Exit": "38:18",
       "Finish": "40:26",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "160",
@@ -6422,7 +6422,7 @@
       "Observatory": "36:49",
       "Zancudo Exit": "39:04",
       "Finish": "41:06",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "162",
@@ -6460,7 +6460,7 @@
       "Observatory": "38:42",
       "Zancudo Exit": "N/A",
       "Finish": "44:56",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "164",
@@ -6479,7 +6479,7 @@
       "Observatory": "45:03",
       "Zancudo Exit": "48:31",
       "Finish": "51:38",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "165",
@@ -6555,7 +6555,7 @@
       "Observatory": "50:43",
       "Zancudo Exit": "52:53",
       "Finish": "54:57",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "169",
@@ -6593,7 +6593,7 @@
       "Observatory": "46:28",
       "Zancudo Exit": "48:32",
       "Finish": "60:47",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "171",
@@ -8058,7 +8058,7 @@
       "Quarry": "16:57",
       "Lighthouse": "19:05",
       "Finish": "19:30",
-      "Notes?": ""
+      "Notes?": "reverse up elevator"
     },
     {
       "#": "71",
@@ -8343,7 +8343,7 @@
       "Quarry": "18:45",
       "Lighthouse": "21:00",
       "Finish": "21:24",
-      "Notes?": ""
+      "Notes?": "reverse up elevator"
     },
     {
       "#": "86",
@@ -8727,6 +8727,25 @@
     },
     {
       "#": "106",
+      "Car": "Blista Compact",
+      "Time": "25:08.988",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:57",
+      "Wheelspin": "08:23",
+      "Observatory": "10:23",
+      "Route 68": "11:34",
+      "Chiliad": "14:53",
+      "Off Tracks": "16:42",
+      "Hospital Line": "18:31",
+      "Airport": "19:34",
+      "Quarry": "22:33",
+      "Lighthouse": "24:43",
+      "Finish": "25:08",
+      "Notes?": ""
+    },
+    {
+      "#": "107",
       "Car": "Youga",
       "Time": "25:09.121",
       "Player": "Rj_Igor",
@@ -8745,7 +8764,7 @@
       "Notes?": ""
     },
     {
-      "#": "107",
+      "#": "108",
       "Car": "Utility Trailer",
       "Time": "25:12.891",
       "Player": "Rj_Igor",
@@ -8764,7 +8783,7 @@
       "Notes?": ""
     },
     {
-      "#": "108",
+      "#": "109",
       "Car": "Generator Trailer",
       "Time": "25:17.858",
       "Player": "Rj_Igor",
@@ -8783,7 +8802,7 @@
       "Notes?": ""
     },
     {
-      "#": "109",
+      "#": "110",
       "Car": "Emperor",
       "Time": "25:24.508",
       "Player": "Rj_Igor",
@@ -8802,7 +8821,7 @@
       "Notes?": ""
     },
     {
-      "#": "110",
+      "#": "111",
       "Car": "Phantom",
       "Time": "25:52.027",
       "Player": "Rj_Igor",
@@ -8821,7 +8840,7 @@
       "Notes?": "can do 2nd entry elevator"
     },
     {
-      "#": "111",
+      "#": "112",
       "Car": "Panto",
       "Time": "25:58.266",
       "Player": "Rj_Igor",
@@ -8840,7 +8859,7 @@
       "Notes?": ""
     },
     {
-      "#": "112",
+      "#": "113",
       "Car": "Flatbed",
       "Time": "25:58.429",
       "Player": "Rj_Igor",
@@ -8859,7 +8878,7 @@
       "Notes?": ""
     },
     {
-      "#": "113",
+      "#": "114",
       "Car": "Pigalle",
       "Time": "26:34.744",
       "Player": "Rj_Igor",
@@ -8878,7 +8897,7 @@
       "Notes?": ""
     },
     {
-      "#": "114",
+      "#": "115",
       "Car": "Barracks Semi",
       "Time": "26:55.768",
       "Player": "Rj_Igor",
@@ -8897,7 +8916,7 @@
       "Notes?": ""
     },
     {
-      "#": "115",
+      "#": "116",
       "Car": "Thrust",
       "Time": "26:56.100",
       "Player": "Rj_Igor",
@@ -8913,25 +8932,6 @@
       "Quarry": "24:37",
       "Lighthouse": "26:30",
       "Finish": "26:56",
-      "Notes?": ""
-    },
-    {
-      "#": "116",
-      "Car": "Blista Compact",
-      "Time": "27:54.456",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:00",
-      "Wheelspin": "11:20",
-      "Observatory": "13:10",
-      "Route 68": "14:09",
-      "Chiliad": "17:36",
-      "Off Tracks": "19:30",
-      "Hospital Line": "21:20",
-      "Airport": "22:22",
-      "Quarry": "25:23",
-      "Lighthouse": "27:29",
-      "Finish": "27:54",
       "Notes?": ""
     },
     {
@@ -9008,7 +9008,7 @@
       "Quarry": "25:20",
       "Lighthouse": "27:17",
       "Finish": "28:28",
-      "Notes?": "Can Wiggle Boost (aggressive)"
+      "Notes?": "Can WB (aggressive)"
     },
     {
       "#": "121",
@@ -9179,7 +9179,7 @@
       "Quarry": "29:05",
       "Lighthouse": "31:12",
       "Finish": "32:23",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "130",
@@ -9293,7 +9293,7 @@
       "Quarry": "30:39",
       "Lighthouse": "38:14",
       "Finish": "39:28",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "136",
@@ -9331,7 +9331,7 @@
       "Quarry": "26:34",
       "Lighthouse": "40:46",
       "Finish": "41:52",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "138",
@@ -9426,7 +9426,7 @@
       "Quarry": "42:25",
       "Lighthouse": "45:00",
       "Finish": "46:14",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "143",
@@ -9844,7 +9844,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "165",
@@ -9863,7 +9863,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "166",
@@ -9901,7 +9901,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "168",
@@ -10034,7 +10034,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": "Can Wiggle Boost (gentle)"
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "175",
@@ -11537,7 +11537,7 @@
       "Observatory": "16:40",
       "Zancudo Exit": "18:08",
       "Finish": "19:32",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "77",
@@ -11594,7 +11594,7 @@
       "Observatory": "16:53",
       "Zancudo Exit": "18:19",
       "Finish": "19:38",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "80",
@@ -11727,7 +11727,7 @@
       "Observatory": "17:14",
       "Zancudo Exit": "18:46",
       "Finish": "20:03",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "87",
@@ -11784,7 +11784,7 @@
       "Observatory": "17:43",
       "Zancudo Exit": "19:18",
       "Finish": "20:45",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "90",
@@ -11822,7 +11822,7 @@
       "Observatory": "18:24",
       "Zancudo Exit": "19:56",
       "Finish": "21:19",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "92",
@@ -11841,7 +11841,7 @@
       "Observatory": "18:22",
       "Zancudo Exit": "19:54",
       "Finish": "21:26",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "93",
@@ -11860,7 +11860,7 @@
       "Observatory": "18:24",
       "Zancudo Exit": "20:02",
       "Finish": "21:30",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "94",
@@ -11879,7 +11879,7 @@
       "Observatory": "18:46",
       "Zancudo Exit": "20:22",
       "Finish": "21:54",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "95",
@@ -11898,7 +11898,7 @@
       "Observatory": "18:58",
       "Zancudo Exit": "20:33",
       "Finish": "22:04",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "96",
@@ -11955,7 +11955,7 @@
       "Observatory": "20:03",
       "Zancudo Exit": "21:37",
       "Finish": "23:06",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "99",
@@ -11974,7 +11974,7 @@
       "Observatory": "20:10",
       "Zancudo Exit": "21:42",
       "Finish": "23:10",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "100",
@@ -11993,7 +11993,7 @@
       "Observatory": "19:40",
       "Zancudo Exit": "21:46",
       "Finish": "23:21",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "101",
@@ -12012,7 +12012,7 @@
       "Observatory": "19:56",
       "Zancudo Exit": "21:37",
       "Finish": "23:27",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "102",
@@ -12031,7 +12031,7 @@
       "Observatory": "20:30",
       "Zancudo Exit": "22:03",
       "Finish": "23:33",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "103",
@@ -12050,7 +12050,7 @@
       "Observatory": "20:30",
       "Zancudo Exit": "22:07",
       "Finish": "23:33",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "104",
@@ -12069,7 +12069,7 @@
       "Observatory": "20:24",
       "Zancudo Exit": "22:05",
       "Finish": "23:36",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "105",
@@ -12088,7 +12088,7 @@
       "Observatory": "20:32",
       "Zancudo Exit": "22:07",
       "Finish": "23:39",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "106",
@@ -12107,7 +12107,7 @@
       "Observatory": "20:59",
       "Zancudo Exit": "22:35",
       "Finish": "24:00",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "107",
@@ -12126,7 +12126,7 @@
       "Observatory": "20:58",
       "Zancudo Exit": "22:42",
       "Finish": "24:13",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "108",
@@ -12145,7 +12145,7 @@
       "Observatory": "20:35",
       "Zancudo Exit": "22:26",
       "Finish": "24:30",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "109",
@@ -12164,7 +12164,7 @@
       "Observatory": "20:41",
       "Zancudo Exit": "22:48",
       "Finish": "24:33",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "110",
@@ -12183,7 +12183,7 @@
       "Observatory": "20:41",
       "Zancudo Exit": "22:29",
       "Finish": "24:35",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "111",
@@ -12202,7 +12202,7 @@
       "Observatory": "19:54",
       "Zancudo Exit": "22:37",
       "Finish": "24:38",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "112",
@@ -12221,7 +12221,7 @@
       "Observatory": "21:00",
       "Zancudo Exit": "23:02",
       "Finish": "25:07",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "113",
@@ -12259,7 +12259,7 @@
       "Observatory": "22:12",
       "Zancudo Exit": "24:02",
       "Finish": "25:54",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "115",
@@ -12297,7 +12297,7 @@
       "Observatory": "21:51",
       "Zancudo Exit": "24:09",
       "Finish": "26:09",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "117",
@@ -12316,7 +12316,7 @@
       "Observatory": "22:35",
       "Zancudo Exit": "24:23",
       "Finish": "26:14",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "118",
@@ -12354,7 +12354,7 @@
       "Observatory": "22:52",
       "Zancudo Exit": "24:56",
       "Finish": "27:00",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "120",
@@ -12430,7 +12430,7 @@
       "Observatory": "23:03",
       "Zancudo Exit": "25:13",
       "Finish": "27:14",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "124",
@@ -12449,7 +12449,7 @@
       "Observatory": "23:14",
       "Zancudo Exit": "25:15",
       "Finish": "27:20",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "125",
@@ -12468,7 +12468,7 @@
       "Observatory": "23:47",
       "Zancudo Exit": "25:34",
       "Finish": "27:34",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "126",
@@ -12487,7 +12487,7 @@
       "Observatory": "23:24",
       "Zancudo Exit": "25:42",
       "Finish": "27:42",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "127",
@@ -12601,7 +12601,7 @@
       "Observatory": "24:19",
       "Zancudo Exit": "26:10",
       "Finish": "28:09",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "133",
@@ -12677,7 +12677,7 @@
       "Observatory": "24:32",
       "Zancudo Exit": "26:32",
       "Finish": "28:44",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "137",
@@ -12734,7 +12734,7 @@
       "Observatory": "25:12",
       "Zancudo Exit": "27:19",
       "Finish": "29:29",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "140",
@@ -12753,7 +12753,7 @@
       "Observatory": "26:16",
       "Zancudo Exit": "27:58",
       "Finish": "30:06",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (aggressive)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Aggressive)"
     },
     {
       "#": "141",
@@ -12772,7 +12772,7 @@
       "Observatory": "26:00",
       "Zancudo Exit": "28:08",
       "Finish": "30:09",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "142",
@@ -12791,7 +12791,7 @@
       "Observatory": "26:44",
       "Zancudo Exit": "28:37",
       "Finish": "30:35",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "143",
@@ -12810,7 +12810,7 @@
       "Observatory": "26:56",
       "Zancudo Exit": "28:51",
       "Finish": "31:02",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "144",
@@ -12829,7 +12829,7 @@
       "Observatory": "27:14",
       "Zancudo Exit": "29:04",
       "Finish": "31:09",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "145",
@@ -12848,7 +12848,7 @@
       "Observatory": "27:07",
       "Zancudo Exit": "29:04",
       "Finish": "31:12",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "146",
@@ -12867,7 +12867,7 @@
       "Observatory": "27:15",
       "Zancudo Exit": "29:07",
       "Finish": "31:14",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "147",
@@ -12886,7 +12886,7 @@
       "Observatory": "26:25",
       "Zancudo Exit": "29:17",
       "Finish": "31:24",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "148",
@@ -12905,7 +12905,7 @@
       "Observatory": "27:01",
       "Zancudo Exit": "29:16",
       "Finish": "31:27",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "149",
@@ -12924,7 +12924,7 @@
       "Observatory": "27:42",
       "Zancudo Exit": "29:39",
       "Finish": "31:45",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "150",
@@ -12962,7 +12962,7 @@
       "Observatory": "28:37",
       "Zancudo Exit": "31:53",
       "Finish": "34:05",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "152",
@@ -12981,7 +12981,7 @@
       "Observatory": "30:24",
       "Zancudo Exit": "32:40",
       "Finish": "34:52",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "153",
@@ -13000,7 +13000,7 @@
       "Observatory": "30:00",
       "Zancudo Exit": "32:08",
       "Finish": "35:01",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "154",
@@ -13019,7 +13019,7 @@
       "Observatory": "31:03",
       "Zancudo Exit": "33:00",
       "Finish": "35:01",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "155",
@@ -13038,7 +13038,7 @@
       "Observatory": "31:34",
       "Zancudo Exit": "33:38",
       "Finish": "35:41",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "156",
@@ -13057,7 +13057,7 @@
       "Observatory": "31:16",
       "Zancudo Exit": "34:06",
       "Finish": "36:16",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "157",
@@ -13076,7 +13076,7 @@
       "Observatory": "32:34",
       "Zancudo Exit": "34:37",
       "Finish": "36:42",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "158",
@@ -13095,7 +13095,7 @@
       "Observatory": "34:20",
       "Zancudo Exit": "36:26",
       "Finish": "38:23",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "159",
@@ -13114,7 +13114,7 @@
       "Observatory": "34:24",
       "Zancudo Exit": "36:44",
       "Finish": "38:53",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "160",
@@ -13133,7 +13133,7 @@
       "Observatory": "36:55",
       "Zancudo Exit": "39:05",
       "Finish": "41:25",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "161",
@@ -13171,7 +13171,7 @@
       "Observatory": "39:19",
       "Zancudo Exit": "N/A",
       "Finish": "44:42",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "163",
@@ -13190,7 +13190,7 @@
       "Observatory": "39:48",
       "Zancudo Exit": "42:45",
       "Finish": "45:06",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "164",
@@ -13342,7 +13342,7 @@
       "Observatory": "46:24",
       "Zancudo Exit": "49:46",
       "Finish": "52:43",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "172",
@@ -13399,7 +13399,7 @@
       "Observatory": "64:51",
       "Zancudo Exit": "67:52",
       "Finish": "70:08",
-      "Notes?": "Route 68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "175",
@@ -13437,7 +13437,7 @@
       "Observatory": "97:22",
       "Zancudo Exit": "100:33",
       "Finish": "102:57",
-      "Notes?": "Route 68 = Quarry Underpass / Can Wiggle Boost (gentle)"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "177",
