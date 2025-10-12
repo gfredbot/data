@@ -13080,6 +13080,25 @@
     },
     {
       "#": "158",
+      "Car": "Logs Trailer",
+      "Time": "37:23.562",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:41",
+      "Wheelspin": "05:02",
+      "Quarry": "06:22",
+      "Hospital Line": "09:38",
+      "Airport": "12:57",
+      "Route 68": "17:25",
+      "Chiliad": "26:09",
+      "Off Tracks": "29:54",
+      "Observatory": "32:41",
+      "Zancudo Exit": "35:11",
+      "Finish": "37:23",
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
+    },
+    {
+      "#": "159",
       "Car": "Trashmaster",
       "Time": "38:23.265",
       "Player": "Rj_Igor",
@@ -13098,7 +13117,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "159",
+      "#": "160",
       "Car": "Mule",
       "Time": "38:53.966",
       "Player": "Rj_Igor",
@@ -13117,7 +13136,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "160",
+      "#": "161",
       "Car": "Surfer",
       "Time": "41:25.305",
       "Player": "SMGWolfmanz",
@@ -13136,7 +13155,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "161",
+      "#": "162",
       "Car": "Seashark",
       "Time": "44:05.773*",
       "Player": "Rj_Igor",
@@ -13155,7 +13174,7 @@
       "Notes?": ""
     },
     {
-      "#": "162",
+      "#": "163",
       "Car": "Feet (Open)",
       "Time": "44:20.698",
       "Player": "BloodySquirrels",
@@ -13172,25 +13191,6 @@
       "Zancudo Exit": "N/A",
       "Finish": "44:20",
       "Notes?": "R68 = Quarry Underpass"
-    },
-    {
-      "#": "163",
-      "Car": "Logs Trailer",
-      "Time": "45:06.585",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:43",
-      "Wheelspin": "03:57",
-      "Quarry": "05:51",
-      "Hospital Line": "09:13",
-      "Airport": "13:17",
-      "Route 68": "17:46",
-      "Chiliad": "31:03",
-      "Off Tracks": "36:58",
-      "Observatory": "39:48",
-      "Zancudo Exit": "42:45",
-      "Finish": "45:06",
-      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "164",
