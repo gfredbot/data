@@ -3000,7 +3000,7 @@
       "Quarry": "45:48",
       "Lighthouse": "50:00",
       "Finish": "51:02",
-      "Notes?": ""
+      "Notes?": "Run Fast allowed"
     },
     {
       "#": "159",
@@ -6460,7 +6460,7 @@
       "Observatory": "38:42",
       "Zancudo Exit": "N/A",
       "Finish": "44:56",
-      "Notes?": "R68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass / Run Fast allowed"
     },
     {
       "#": "164",
@@ -9450,21 +9450,21 @@
     {
       "#": "144",
       "Car": "Feet (Open)",
-      "Time": "49:28.885",
+      "Time": "48:49.327",
       "Player": "BloodySquirrels",
       "Link": "Link",
       "Highway": "01:59",
       "Wheelspin": "N/A",
-      "Observatory": "11:07",
-      "Route 68": "15:50",
-      "Chiliad": "25:03",
+      "Observatory": "10:33",
+      "Route 68": "14:34",
+      "Chiliad": "23:21",
       "Off Tracks": "N/A",
       "Hospital Line": "N/A",
-      "Airport": "34:51",
-      "Quarry": "43:43",
-      "Lighthouse": "48:28",
-      "Finish": "49:28",
-      "Notes?": ""
+      "Airport": "33:48",
+      "Quarry": "43:21",
+      "Lighthouse": "47:49",
+      "Finish": "48:49",
+      "Notes?": "Run Fast allowed"
     },
     {
       "#": "145",
@@ -13190,7 +13190,7 @@
       "Observatory": "37:29",
       "Zancudo Exit": "N/A",
       "Finish": "44:20",
-      "Notes?": "R68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass / Run Fast allowed"
     },
     {
       "#": "164",
