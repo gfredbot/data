@@ -10211,6 +10211,25 @@
     },
     {
       "#": "7",
+      "Car": "Rapid GT",
+      "Time": "15:59.196",
+      "Player": "S1P4C",
+      "Link": "Link",
+      "Highway": "02:36",
+      "Wheelspin": "02:43",
+      "Quarry": "03:47",
+      "Hospital Line": "05:29",
+      "Airport": "06:21",
+      "Route 68": "08:31",
+      "Chiliad": "10:46",
+      "Off Tracks": "12:24",
+      "Observatory": "13:38",
+      "Zancudo Exit": "14:55",
+      "Finish": "15:59",
+      "Notes?": "Hybrid / Elevator"
+    },
+    {
+      "#": "8",
       "Car": "Surano",
       "Time": "16:00.771",
       "Player": "S1P4C",
@@ -10229,7 +10248,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "8",
+      "#": "9",
       "Car": "Bati 801",
       "Time": "16:09.316",
       "Player": "Rj_Igor",
@@ -10248,7 +10267,7 @@
       "Notes?": "Hybrid"
     },
     {
-      "#": "9",
+      "#": "10",
       "Car": "Carbonizzare",
       "Time": "16:11.998",
       "Player": "S1P4C",
@@ -10267,7 +10286,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "10",
+      "#": "11",
       "Car": "Akuma",
       "Time": "16:12.620",
       "Player": "SMGWolfmanz",
@@ -10286,7 +10305,7 @@
       "Notes?": "Hybrid"
     },
     {
-      "#": "11",
+      "#": "12",
       "Car": "Exemplar",
       "Time": "16:14.219",
       "Player": "S1P4C",
@@ -10305,7 +10324,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "12",
+      "#": "13",
       "Car": "Dominator",
       "Time": "16:14.694",
       "Player": "S1P4C",
@@ -10322,25 +10341,6 @@
       "Zancudo Exit": "15:09",
       "Finish": "16:14",
       "Notes?": ""
-    },
-    {
-      "#": "13",
-      "Car": "Rapid GT",
-      "Time": "16:16.130",
-      "Player": "S1P4C",
-      "Link": "Link",
-      "Highway": "02:43",
-      "Wheelspin": "02:50",
-      "Quarry": "03:52",
-      "Hospital Line": "05:35",
-      "Airport": "06:29",
-      "Route 68": "08:38",
-      "Chiliad": "10:56",
-      "Off Tracks": "12:35",
-      "Observatory": "13:47",
-      "Zancudo Exit": "15:04",
-      "Finish": "16:16",
-      "Notes?": "Hybrid / Elevator"
     },
     {
       "#": "14",
