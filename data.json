@@ -610,6 +610,25 @@
     },
     {
       "#": "33",
+      "Car": "Ruiner",
+      "Time": "17:06.340",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "1:56",
+      "Wheelspin": "2:02",
+      "Observatory": "4:10",
+      "Route 68": "5:03",
+      "Chiliad": "7:35",
+      "Off Tracks": "9:25",
+      "Hospital Line": "11:00",
+      "Airport": "11:55",
+      "Quarry": "14:48",
+      "Lighthouse": "16:43",
+      "Finish": "17:06",
+      "Notes?": ""
+    },
+    {
+      "#": "34",
       "Car": "Vader",
       "Time": "17:07.792",
       "Player": "frozenhunt",
@@ -625,25 +644,6 @@
       "Quarry": "14:49",
       "Lighthouse": "16:41",
       "Finish": "17:07",
-      "Notes?": ""
-    },
-    {
-      "#": "34",
-      "Car": "Ruiner",
-      "Time": "17:14.699",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "1:59",
-      "Wheelspin": "2:05",
-      "Observatory": "4:15",
-      "Route 68": "5:10",
-      "Chiliad": "7:44",
-      "Off Tracks": "9:34",
-      "Hospital Line": "11:10",
-      "Airport": "12:13",
-      "Quarry": "14:57",
-      "Lighthouse": "16:51",
-      "Finish": "17:14",
       "Notes?": ""
     },
     {
@@ -1180,6 +1180,25 @@
     },
     {
       "#": "63",
+      "Car": "Habanero",
+      "Time": "18:43.236",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "1:58",
+      "Wheelspin": "2:07",
+      "Observatory": "4:33",
+      "Route 68": "5:36",
+      "Chiliad": "8:23",
+      "Off Tracks": "10:31",
+      "Hospital Line": "12:20",
+      "Airport": "13:20",
+      "Quarry": "16:17",
+      "Lighthouse": "18:20",
+      "Finish": "18:43",
+      "Notes?": ""
+    },
+    {
+      "#": "64",
       "Car": "Baller (Old)",
       "Time": "18:45.805",
       "Player": "frozenhunt",
@@ -1198,7 +1217,7 @@
       "Notes?": ""
     },
     {
-      "#": "64",
+      "#": "65",
       "Car": "Serrano",
       "Time": "18:48.425",
       "Player": "frozenhunt",
@@ -1217,7 +1236,7 @@
       "Notes?": ""
     },
     {
-      "#": "65",
+      "#": "66",
       "Car": "Blista",
       "Time": "18:55.666",
       "Player": "frozenhunt",
@@ -1236,7 +1255,7 @@
       "Notes?": ""
     },
     {
-      "#": "66",
+      "#": "67",
       "Car": "Landstalker",
       "Time": "19:00.503",
       "Player": "frozenhunt",
@@ -1255,7 +1274,7 @@
       "Notes?": ""
     },
     {
-      "#": "67",
+      "#": "68",
       "Car": "Picador",
       "Time": "19:00.654",
       "Player": "frozenhunt",
@@ -1274,7 +1293,7 @@
       "Notes?": ""
     },
     {
-      "#": "68",
+      "#": "69",
       "Car": "Sadler",
       "Time": "19:07.310",
       "Player": "frozenhunt",
@@ -1293,7 +1312,7 @@
       "Notes?": ""
     },
     {
-      "#": "69",
+      "#": "70",
       "Car": "Cavalcade",
       "Time": "19:13.673",
       "Player": "frozenhunt",
@@ -1312,7 +1331,7 @@
       "Notes?": ""
     },
     {
-      "#": "70",
+      "#": "71",
       "Car": "Dubsta",
       "Time": "19:14.977",
       "Player": "frozenhunt",
@@ -1331,7 +1350,7 @@
       "Notes?": ""
     },
     {
-      "#": "71",
+      "#": "72",
       "Car": "BeeJay XL",
       "Time": "19:15.335",
       "Player": "frozenhunt",
@@ -1347,25 +1366,6 @@
       "Quarry": "16:35",
       "Lighthouse": "18:54",
       "Finish": "19:15",
-      "Notes?": ""
-    },
-    {
-      "#": "72",
-      "Car": "Habanero",
-      "Time": "19:22.026",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "1:58",
-      "Wheelspin": "2:09",
-      "Observatory": "4:39",
-      "Route 68": "5:41",
-      "Chiliad": "8:50",
-      "Off Tracks": "10:52",
-      "Hospital Line": "12:53",
-      "Airport": "13:56",
-      "Quarry": "16:54",
-      "Lighthouse": "18:57",
-      "Finish": "19:22",
       "Notes?": ""
     },
     {
@@ -1389,6 +1389,25 @@
     },
     {
       "#": "74",
+      "Car": "Surge",
+      "Time": "19:27.464",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "1:56",
+      "Wheelspin": "2:02",
+      "Observatory": "4:24",
+      "Route 68": "5:28",
+      "Chiliad": "8:40",
+      "Off Tracks": "10:39",
+      "Hospital Line": "12:35",
+      "Airport": "13:43",
+      "Quarry": "16:57",
+      "Lighthouse": "19:05",
+      "Finish": "19:27",
+      "Notes?": ""
+    },
+    {
+      "#": "75",
       "Car": "Rancher XL",
       "Time": "19:28.432",
       "Player": "frozenhunt",
@@ -1407,7 +1426,7 @@
       "Notes?": ""
     },
     {
-      "#": "75",
+      "#": "76",
       "Car": "Premier",
       "Time": "19:29.065",
       "Player": "frozenhunt",
@@ -1424,25 +1443,6 @@
       "Lighthouse": "19:03",
       "Finish": "19:29",
       "Notes?": "reverse up elevator"
-    },
-    {
-      "#": "76",
-      "Car": "Surge",
-      "Time": "19:34.271",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "1:58",
-      "Wheelspin": "2:04",
-      "Observatory": "4:28",
-      "Route 68": "5:32",
-      "Chiliad": "8:46",
-      "Off Tracks": "10:45",
-      "Hospital Line": "12:42",
-      "Airport": "13:50",
-      "Quarry": "17:08",
-      "Lighthouse": "19:12",
-      "Finish": "19:34",
-      "Notes?": ""
     },
     {
       "#": "77",
@@ -1750,6 +1750,25 @@
     },
     {
       "#": "93",
+      "Car": "Pigalle",
+      "Time": "22:21.788",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "1:56",
+      "Wheelspin": "7:59",
+      "Observatory": "9:48",
+      "Route 68": "10:42",
+      "Chiliad": "13:17",
+      "Off Tracks": "15:03",
+      "Hospital Line": "16:36",
+      "Airport": "17:31",
+      "Quarry": "20:09",
+      "Lighthouse": "21:58",
+      "Finish": "22:21",
+      "Notes?": ""
+    },
+    {
+      "#": "94",
       "Car": "Police Cruiser (Interceptor)",
       "Time": "22:23.940",
       "Player": "frozenhunt",
@@ -1768,7 +1787,7 @@
       "Notes?": ""
     },
     {
-      "#": "94",
+      "#": "95",
       "Car": "Manana",
       "Time": "22:25.877",
       "Player": "frozenhunt",
@@ -1787,7 +1806,7 @@
       "Notes?": ""
     },
     {
-      "#": "95",
+      "#": "96",
       "Car": "Rumpo",
       "Time": "22:40.039",
       "Player": "frozenhunt",
@@ -1806,7 +1825,7 @@
       "Notes?": ""
     },
     {
-      "#": "96",
+      "#": "97",
       "Car": "Blazer",
       "Time": "22:50.417",
       "Player": "frozenhunt",
@@ -1825,7 +1844,7 @@
       "Notes?": ""
     },
     {
-      "#": "97",
+      "#": "98",
       "Car": "Burrito",
       "Time": "22:55.924",
       "Player": "frozenhunt",
@@ -1844,7 +1863,7 @@
       "Notes?": ""
     },
     {
-      "#": "98",
+      "#": "99",
       "Car": "Pony",
       "Time": "22:57.057",
       "Player": "frozenhunt",
@@ -1863,7 +1882,7 @@
       "Notes?": ""
     },
     {
-      "#": "99",
+      "#": "100",
       "Car": "Peyote",
       "Time": "22:58.825",
       "Player": "frozenhunt",
@@ -1882,7 +1901,7 @@
       "Notes?": ""
     },
     {
-      "#": "100",
+      "#": "101",
       "Car": "Utility Trailer",
       "Time": "23:12.222",
       "Player": "frozenhunt",
@@ -1901,7 +1920,7 @@
       "Notes?": ""
     },
     {
-      "#": "101",
+      "#": "102",
       "Car": "Boat Trailer (No Boat)",
       "Time": "23:21.097",
       "Player": "frozenhunt",
@@ -1920,7 +1939,7 @@
       "Notes?": ""
     },
     {
-      "#": "102",
+      "#": "103",
       "Car": "Sheriff SUV",
       "Time": "23:22.933",
       "Player": "SLIMYYY",
@@ -1939,7 +1958,7 @@
       "Notes?": ""
     },
     {
-      "#": "103",
+      "#": "104",
       "Car": "Huntley S",
       "Time": "23:29.372",
       "Player": "frozenhunt",
@@ -1958,7 +1977,7 @@
       "Notes?": ""
     },
     {
-      "#": "104",
+      "#": "105",
       "Car": "Stallion",
       "Time": "23:29.490",
       "Player": "frozenhunt",
@@ -1977,7 +1996,7 @@
       "Notes?": ""
     },
     {
-      "#": "105",
+      "#": "106",
       "Car": "Generator Trailer",
       "Time": "23:30.206",
       "Player": "frozenhunt",
@@ -1996,7 +2015,7 @@
       "Notes?": ""
     },
     {
-      "#": "106",
+      "#": "107",
       "Car": "Hakuchou",
       "Time": "23:34.278",
       "Player": "frozenhunt",
@@ -2012,25 +2031,6 @@
       "Quarry": "21:23",
       "Lighthouse": "23:10",
       "Finish": "23:34",
-      "Notes?": ""
-    },
-    {
-      "#": "107",
-      "Car": "Pigalle",
-      "Time": "23:44.038",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:02",
-      "Wheelspin": "8:48",
-      "Observatory": "10:36",
-      "Route 68": "11:33",
-      "Chiliad": "14:19",
-      "Off Tracks": "16:05",
-      "Hospital Line": "17:40",
-      "Airport": "18:40",
-      "Quarry": "21:17",
-      "Lighthouse": "23:20",
-      "Finish": "23:44",
       "Notes?": ""
     },
     {
@@ -2928,6 +2928,25 @@
     },
     {
       "#": "155",
+      "Car": "Trashmaster",
+      "Time": "41:18.191",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "1:58",
+      "Wheelspin": "15:04",
+      "Observatory": "18:27",
+      "Route 68": "19:41",
+      "Chiliad": "26:32",
+      "Off Tracks": "29:28",
+      "Hospital Line": "31:52",
+      "Airport": "34:11",
+      "Quarry": "38:11",
+      "Lighthouse": "40:14",
+      "Finish": "41:18",
+      "Notes?": ""
+    },
+    {
+      "#": "156",
       "Car": "Mule",
       "Time": "42:33.315",
       "Player": "frozenhunt",
@@ -2946,7 +2965,7 @@
       "Notes?": ""
     },
     {
-      "#": "156",
+      "#": "157",
       "Car": "Cruiser (Bicycle)",
       "Time": "46:33.305",
       "Player": "Squilliam",
@@ -2962,25 +2981,6 @@
       "Quarry": "41:15",
       "Lighthouse": "45:25",
       "Finish": "46:33",
-      "Notes?": ""
-    },
-    {
-      "#": "157",
-      "Car": "Trashmaster",
-      "Time": "50:17.564",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:03",
-      "Wheelspin": "21:43",
-      "Observatory": "25:34",
-      "Route 68": "26:44",
-      "Chiliad": "35:00",
-      "Off Tracks": "39:01",
-      "Hospital Line": "41:19",
-      "Airport": "43:17",
-      "Quarry": "47:13",
-      "Lighthouse": "49:14",
-      "Finish": "50:17",
       "Notes?": ""
     },
     {
@@ -6865,6 +6865,25 @@
     },
     {
       "#": "8",
+      "Car": "Bullet",
+      "Time": "16:09.106",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:58",
+      "Wheelspin": "02:06",
+      "Observatory": "04:05",
+      "Route 68": "04:58",
+      "Chiliad": "07:15",
+      "Off Tracks": "08:50",
+      "Hospital Line": "10:24",
+      "Airport": "11:16",
+      "Quarry": "13:50",
+      "Lighthouse": "15:42",
+      "Finish": "16:09",
+      "Notes?": "Elevator"
+    },
+    {
+      "#": "9",
       "Car": "Comet",
       "Time": "16:09.233",
       "Player": "Rj_Igor",
@@ -6883,7 +6902,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "9",
+      "#": "10",
       "Car": "Akuma",
       "Time": "16:11.225",
       "Player": "Rj_Igor",
@@ -6900,25 +6919,6 @@
       "Lighthouse": "15:40",
       "Finish": "16:11",
       "Notes?": "Hybrid"
-    },
-    {
-      "#": "10",
-      "Car": "Bullet",
-      "Time": "16:14.944",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:59",
-      "Wheelspin": "02:09",
-      "Observatory": "04:10",
-      "Route 68": "05:01",
-      "Chiliad": "07:19",
-      "Off Tracks": "08:54",
-      "Hospital Line": "10:28",
-      "Airport": "11:22",
-      "Quarry": "13:56",
-      "Lighthouse": "15:48",
-      "Finish": "16:14",
-      "Notes?": "Elevator"
     },
     {
       "#": "11",
@@ -8537,6 +8537,25 @@
     },
     {
       "#": "96",
+      "Car": "Pony",
+      "Time": "22:56.134",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "02:41",
+      "Observatory": "05:22",
+      "Route 68": "06:28",
+      "Chiliad": "11:34",
+      "Off Tracks": "13:38",
+      "Hospital Line": "15:43",
+      "Airport": "16:50",
+      "Quarry": "20:14",
+      "Lighthouse": "22:30",
+      "Finish": "22:56",
+      "Notes?": ""
+    },
+    {
+      "#": "97",
       "Car": "Huntley S",
       "Time": "22:57.861",
       "Player": "Rj_Igor",
@@ -8552,25 +8571,6 @@
       "Quarry": "20:31",
       "Lighthouse": "22:33",
       "Finish": "22:57",
-      "Notes?": ""
-    },
-    {
-      "#": "97",
-      "Car": "Pony",
-      "Time": "23:05.748",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "N/A",
-      "Wheelspin": "02:40",
-      "Observatory": "05:24",
-      "Route 68": "06:28",
-      "Chiliad": "11:32",
-      "Off Tracks": "13:42",
-      "Hospital Line": "15:49",
-      "Airport": "16:57",
-      "Quarry": "20:21",
-      "Lighthouse": "22:39",
-      "Finish": "23:05",
       "Notes?": ""
     },
     {
@@ -9050,6 +9050,25 @@
     },
     {
       "#": "123",
+      "Car": "Warrener",
+      "Time": "30:36.192",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "13:42",
+      "Observatory": "16:15",
+      "Route 68": "17:14",
+      "Chiliad": "19:59",
+      "Off Tracks": "21:54",
+      "Hospital Line": "23:49",
+      "Airport": "24:54",
+      "Quarry": "28:05",
+      "Lighthouse": "30:10",
+      "Finish": "30:36",
+      "Notes?": ""
+    },
+    {
+      "#": "124",
       "Car": "Scrap Truck",
       "Time": "30:51.141",
       "Player": "HeavyFlavor",
@@ -9068,7 +9087,7 @@
       "Notes?": ""
     },
     {
-      "#": "124",
+      "#": "125",
       "Car": "Camper",
       "Time": "31:16.345",
       "Player": "Rj_Igor",
@@ -9087,7 +9106,7 @@
       "Notes?": ""
     },
     {
-      "#": "125",
+      "#": "126",
       "Car": "Voodoo",
       "Time": "31:34.245",
       "Player": "HeavyFlavor",
@@ -9106,7 +9125,7 @@
       "Notes?": ""
     },
     {
-      "#": "126",
+      "#": "127",
       "Car": "Dashound",
       "Time": "32:16.918",
       "Player": "HeavyFlavor",
@@ -9125,7 +9144,7 @@
       "Notes?": ""
     },
     {
-      "#": "127",
+      "#": "128",
       "Car": "Utility Truck (Cargo Truck)",
       "Time": "32:19.581",
       "Player": "HeavyFlavor",
@@ -9144,7 +9163,7 @@
       "Notes?": ""
     },
     {
-      "#": "128",
+      "#": "129",
       "Car": "Flatbed Trailer",
       "Time": "32:23.809",
       "Player": "frozenhunt",
@@ -9163,7 +9182,7 @@
       "Notes?": "Can WB (gentle)"
     },
     {
-      "#": "129",
+      "#": "130",
       "Car": "Tipper (6 wheels)",
       "Time": "32:48.881",
       "Player": "HeavyFlavor",
@@ -9182,7 +9201,7 @@
       "Notes?": ""
     },
     {
-      "#": "130",
+      "#": "131",
       "Car": "Biff",
       "Time": "32:51.290",
       "Player": "Rj_Igor",
@@ -9201,7 +9220,7 @@
       "Notes?": ""
     },
     {
-      "#": "131",
+      "#": "132",
       "Car": "Sheriff SUV",
       "Time": "33:59.489",
       "Player": "HeavyFlavor",
@@ -9220,7 +9239,7 @@
       "Notes?": ""
     },
     {
-      "#": "132",
+      "#": "133",
       "Car": "Tipper (4 wheels)",
       "Time": "34:11.104",
       "Player": "HeavyFlavor",
@@ -9239,7 +9258,7 @@
       "Notes?": ""
     },
     {
-      "#": "133",
+      "#": "134",
       "Car": "Barracks",
       "Time": "34:20.169",
       "Player": "HeavyFlavor",
@@ -9258,7 +9277,7 @@
       "Notes?": ""
     },
     {
-      "#": "134",
+      "#": "135",
       "Car": "Tanker Trailer",
       "Time": "39:28.146*",
       "Player": "Rj_Igor",
@@ -9277,7 +9296,7 @@
       "Notes?": "Can WB (gentle)"
     },
     {
-      "#": "135",
+      "#": "136",
       "Car": "Caddy",
       "Time": "41:45.697",
       "Player": "HeavyFlavor",
@@ -9296,7 +9315,7 @@
       "Notes?": ""
     },
     {
-      "#": "136",
+      "#": "137",
       "Car": "Hauler",
       "Time": "41:52.457",
       "Player": "HeavyFlavor",
@@ -9315,7 +9334,7 @@
       "Notes?": "Can WB (gentle)"
     },
     {
-      "#": "137",
+      "#": "138",
       "Car": "Trashmaster",
       "Time": "42:55.221",
       "Player": "Rj_Igor",
@@ -9334,7 +9353,7 @@
       "Notes?": ""
     },
     {
-      "#": "138",
+      "#": "139",
       "Car": "Faggio",
       "Time": "43:17.335",
       "Player": "HeavyFlavor",
@@ -9353,7 +9372,7 @@
       "Notes?": ""
     },
     {
-      "#": "139",
+      "#": "140",
       "Car": "Mule",
       "Time": "44:05.948",
       "Player": "HeavyFlavor",
@@ -9372,7 +9391,7 @@
       "Notes?": ""
     },
     {
-      "#": "140",
+      "#": "141",
       "Car": "Bus",
       "Time": "45:19.335",
       "Player": "HeavyFlavor",
@@ -9391,7 +9410,7 @@
       "Notes?": ""
     },
     {
-      "#": "141",
+      "#": "142",
       "Car": "Logs Trailer",
       "Time": "46:14.234",
       "Player": "Rj_Igor",
@@ -9410,7 +9429,7 @@
       "Notes?": "Can WB (gentle)"
     },
     {
-      "#": "142",
+      "#": "143",
       "Car": "Cruiser (Bicycle)",
       "Time": "46:54.597",
       "Player": "Squilliam",
@@ -9429,7 +9448,7 @@
       "Notes?": ""
     },
     {
-      "#": "143",
+      "#": "144",
       "Car": "Feet (Open)",
       "Time": "48:49.327",
       "Player": "BloodySquirrels",
@@ -9448,7 +9467,7 @@
       "Notes?": "Run Fast allowed"
     },
     {
-      "#": "144",
+      "#": "145",
       "Car": "Surfer",
       "Time": "53:38.128",
       "Player": "HeavyFlavor",
@@ -9467,7 +9486,7 @@
       "Notes?": ""
     },
     {
-      "#": "145",
+      "#": "146",
       "Car": "Pounder",
       "Time": "60:58.607*",
       "Player": "HeavyFlavor",
@@ -9486,7 +9505,7 @@
       "Notes?": ""
     },
     {
-      "#": "146",
+      "#": "147",
       "Car": "Journey",
       "Time": "71:17.690",
       "Player": "HeavyFlavor",
@@ -9505,7 +9524,7 @@
       "Notes?": ""
     },
     {
-      "#": "147",
+      "#": "148",
       "Car": "Feet (Traditional)",
       "Time": "",
       "Player": "",
@@ -9524,7 +9543,7 @@
       "Notes?": ""
     },
     {
-      "#": "148",
+      "#": "149",
       "Car": "Feet (Walking)",
       "Time": "",
       "Player": "",
@@ -9543,7 +9562,7 @@
       "Notes?": ""
     },
     {
-      "#": "149",
+      "#": "150",
       "Car": "Tropic",
       "Time": "",
       "Player": "",
@@ -9562,7 +9581,7 @@
       "Notes?": ""
     },
     {
-      "#": "150",
+      "#": "151",
       "Car": "Suntrap",
       "Time": "",
       "Player": "",
@@ -9581,7 +9600,7 @@
       "Notes?": ""
     },
     {
-      "#": "151",
+      "#": "152",
       "Car": "Squalo",
       "Time": "",
       "Player": "",
@@ -9600,7 +9619,7 @@
       "Notes?": ""
     },
     {
-      "#": "152",
+      "#": "153",
       "Car": "Seashark",
       "Time": "",
       "Player": "",
@@ -9619,7 +9638,7 @@
       "Notes?": ""
     },
     {
-      "#": "153",
+      "#": "154",
       "Car": "Police Predator",
       "Time": "",
       "Player": "",
@@ -9638,7 +9657,7 @@
       "Notes?": ""
     },
     {
-      "#": "154",
+      "#": "155",
       "Car": "Jetmax",
       "Time": "",
       "Player": "",
@@ -9657,7 +9676,7 @@
       "Notes?": ""
     },
     {
-      "#": "155",
+      "#": "156",
       "Car": "PCJ 600",
       "Time": "",
       "Player": "",
@@ -9676,7 +9695,7 @@
       "Notes?": ""
     },
     {
-      "#": "156",
+      "#": "157",
       "Car": "Blazer",
       "Time": "",
       "Player": "",
@@ -9695,7 +9714,7 @@
       "Notes?": ""
     },
     {
-      "#": "157",
+      "#": "158",
       "Car": "Crusader",
       "Time": "",
       "Player": "",
@@ -9714,7 +9733,7 @@
       "Notes?": ""
     },
     {
-      "#": "158",
+      "#": "159",
       "Car": "Police Cruiser (Interceptor)",
       "Time": "",
       "Player": "",
@@ -9733,7 +9752,7 @@
       "Notes?": ""
     },
     {
-      "#": "159",
+      "#": "160",
       "Car": "Glendale",
       "Time": "",
       "Player": "",
@@ -9752,27 +9771,8 @@
       "Notes?": ""
     },
     {
-      "#": "160",
-      "Car": "Stallion",
-      "Time": "",
-      "Player": "",
-      "Link": "",
-      "Highway": "",
-      "Wheelspin": "",
-      "Observatory": "",
-      "Route 68": "",
-      "Chiliad": "",
-      "Off Tracks": "",
-      "Hospital Line": "",
-      "Airport": "",
-      "Quarry": "",
-      "Lighthouse": "",
-      "Finish": "",
-      "Notes?": ""
-    },
-    {
       "#": "161",
-      "Car": "Warrener",
+      "Car": "Stallion",
       "Time": "",
       "Player": "",
       "Link": "",
