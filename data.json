@@ -6790,20 +6790,20 @@
     {
       "#": "4",
       "Car": "9f",
-      "Time": "15:45.878",
+      "Time": "15:42.746",
       "Player": "Rj_Igor",
       "Link": "Link",
-      "Highway": "01:56",
-      "Wheelspin": "02:03",
-      "Observatory": "04:09",
-      "Route 68": "05:02",
-      "Chiliad": "07:14",
-      "Off Tracks": "08:50",
-      "Hospital Line": "10:21",
-      "Airport": "11:15",
-      "Quarry": "13:44",
-      "Lighthouse": "15:23",
-      "Finish": "15:45",
+      "Highway": "01:59",
+      "Wheelspin": "02:14",
+      "Observatory": "04:08",
+      "Route 68": "05:01",
+      "Chiliad": "07:11",
+      "Off Tracks": "08:44",
+      "Hospital Line": "10:14",
+      "Airport": "11:08",
+      "Quarry": "13:38",
+      "Lighthouse": "15:17",
+      "Finish": "15:42",
       "Notes?": "Hybrid"
     },
     {
@@ -7891,6 +7891,25 @@
     },
     {
       "#": "62",
+      "Car": "FQ 2",
+      "Time": "18:59.628",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:58",
+      "Wheelspin": "02:10",
+      "Observatory": "04:38",
+      "Route 68": "05:41",
+      "Chiliad": "08:30",
+      "Off Tracks": "10:32",
+      "Hospital Line": "12:23",
+      "Airport": "13:25",
+      "Quarry": "16:26",
+      "Lighthouse": "18:34",
+      "Finish": "18:59",
+      "Notes?": ""
+    },
+    {
+      "#": "63",
       "Car": "Baller (Old)",
       "Time": "19:02.921",
       "Player": "Rj_Igor",
@@ -7909,7 +7928,7 @@
       "Notes?": ""
     },
     {
-      "#": "63",
+      "#": "64",
       "Car": "Habanero",
       "Time": "19:09.984",
       "Player": "Rj_Igor",
@@ -7928,7 +7947,26 @@
       "Notes?": ""
     },
     {
-      "#": "64",
+      "#": "65",
+      "Car": "Picador",
+      "Time": "19:10.984",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:57",
+      "Wheelspin": "02:07",
+      "Observatory": "04:37",
+      "Route 68": "05:39",
+      "Chiliad": "08:29",
+      "Off Tracks": "10:35",
+      "Hospital Line": "12:29",
+      "Airport": "13:33",
+      "Quarry": "16:39",
+      "Lighthouse": "18:45",
+      "Finish": "19:10",
+      "Notes?": ""
+    },
+    {
+      "#": "66",
       "Car": "Sadler",
       "Time": "19:11.509",
       "Player": "Rj_Igor",
@@ -7947,7 +7985,7 @@
       "Notes?": ""
     },
     {
-      "#": "65",
+      "#": "67",
       "Car": "Bison",
       "Time": "19:14.500",
       "Player": "Rj_Igor",
@@ -7966,7 +8004,7 @@
       "Notes?": ""
     },
     {
-      "#": "66",
+      "#": "68",
       "Car": "Cavalcade",
       "Time": "19:15.535",
       "Player": "Rj_Igor",
@@ -7985,7 +8023,7 @@
       "Notes?": ""
     },
     {
-      "#": "67",
+      "#": "69",
       "Car": "Blista",
       "Time": "19:17.774",
       "Player": "Rj_Igor",
@@ -8004,7 +8042,7 @@
       "Notes?": ""
     },
     {
-      "#": "68",
+      "#": "70",
       "Car": "Dubsta",
       "Time": "19:23.247",
       "Player": "Rj_Igor",
@@ -8023,7 +8061,7 @@
       "Notes?": ""
     },
     {
-      "#": "69",
+      "#": "71",
       "Car": "Landstalker",
       "Time": "19:24.999",
       "Player": "Rj_Igor",
@@ -8042,7 +8080,7 @@
       "Notes?": ""
     },
     {
-      "#": "70",
+      "#": "72",
       "Car": "Premier",
       "Time": "19:30.108",
       "Player": "Rj_Igor",
@@ -8061,26 +8099,7 @@
       "Notes?": "reverse up elevator"
     },
     {
-      "#": "71",
-      "Car": "FQ 2",
-      "Time": "19:32.589",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:56",
-      "Wheelspin": "02:15",
-      "Observatory": "04:45",
-      "Route 68": "05:46",
-      "Chiliad": "08:39",
-      "Off Tracks": "10:53",
-      "Hospital Line": "12:43",
-      "Airport": "13:44",
-      "Quarry": "16:51",
-      "Lighthouse": "19:06",
-      "Finish": "19:32",
-      "Notes?": ""
-    },
-    {
-      "#": "72",
+      "#": "73",
       "Car": "Gresley",
       "Time": "19:40.938",
       "Player": "Rj_Igor",
@@ -8099,7 +8118,7 @@
       "Notes?": ""
     },
     {
-      "#": "73",
+      "#": "74",
       "Car": "Sheriff Cruiser",
       "Time": "19:42.285",
       "Player": "Rj_Igor",
@@ -8115,25 +8134,6 @@
       "Quarry": "17:16",
       "Lighthouse": "19:16",
       "Finish": "19:42",
-      "Notes?": ""
-    },
-    {
-      "#": "74",
-      "Car": "Picador",
-      "Time": "19:43.155",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:57",
-      "Wheelspin": "02:06",
-      "Observatory": "04:38",
-      "Route 68": "05:41",
-      "Chiliad": "08:35",
-      "Off Tracks": "10:54",
-      "Hospital Line": "12:50",
-      "Airport": "13:55",
-      "Quarry": "17:05",
-      "Lighthouse": "19:16",
-      "Finish": "19:43",
       "Notes?": ""
     },
     {
