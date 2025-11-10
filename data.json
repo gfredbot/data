@@ -9449,25 +9449,6 @@
     },
     {
       "#": "144",
-      "Car": "Cruiser (Bicycle)",
-      "Time": "46:54.597",
-      "Player": "Squilliam",
-      "Link": "Link",
-      "Highway": "02:04",
-      "Wheelspin": "N/A",
-      "Observatory": "12:36",
-      "Route 68": "14:58",
-      "Chiliad": "23:19",
-      "Off Tracks": "N/A",
-      "Hospital Line": "29:35",
-      "Airport": "33:13",
-      "Quarry": "41:45",
-      "Lighthouse": "45:52",
-      "Finish": "46:54",
-      "Notes?": ""
-    },
-    {
-      "#": "145",
       "Car": "Feet (Open)",
       "Time": "47:58.609",
       "Player": "BloodySquirrels",
@@ -9486,7 +9467,7 @@
       "Notes?": "Run Fast allowed"
     },
     {
-      "#": "146",
+      "#": "145",
       "Car": "Surfer",
       "Time": "53:38.128",
       "Player": "HeavyFlavor",
@@ -9502,6 +9483,25 @@
       "Quarry": "49:44",
       "Lighthouse": "52:30",
       "Finish": "53:38",
+      "Notes?": ""
+    },
+    {
+      "#": "146",
+      "Car": "Cruiser (Bicycle)",
+      "Time": "57:29.472",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:57",
+      "Wheelspin": "13:21",
+      "Observatory": "18:32",
+      "Route 68": "20:49",
+      "Chiliad": "29:39",
+      "Off Tracks": "34:40",
+      "Hospital Line": "39:59",
+      "Airport": "43:40",
+      "Quarry": "52:17",
+      "Lighthouse": "56:25",
+      "Finish": "57:29",
       "Notes?": ""
     },
     {
