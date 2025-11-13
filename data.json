@@ -4868,6 +4868,25 @@
     },
     {
       "#": "80",
+      "Car": "Sheriff SUV",
+      "Time": "19:40.778",
+      "Player": "SMGWolfmanz",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "2:27",
+      "Quarry": "5:02",
+      "Hospital Line": "7:02",
+      "Airport": "8:08",
+      "Route 68": "10:46",
+      "Chiliad": "13:26",
+      "Off Tracks": "15:23",
+      "Observatory": "16:53",
+      "Zancudo Exit": "18:27",
+      "Finish": "19:40",
+      "Notes?": ""
+    },
+    {
+      "#": "81",
       "Car": "Bagger",
       "Time": "19:42.147",
       "Player": "frozenhunt",
@@ -4886,7 +4905,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "81",
+      "#": "82",
       "Car": "Sandking SWB",
       "Time": "19:45.471",
       "Player": "frozenhunt",
@@ -4905,7 +4924,7 @@
       "Notes?": ""
     },
     {
-      "#": "82",
+      "#": "83",
       "Car": "Prairie",
       "Time": "19:46.769",
       "Player": "frozenhunt",
@@ -4924,7 +4943,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "83",
+      "#": "84",
       "Car": "Patriot",
       "Time": "19:49.721",
       "Player": "frozenhunt",
@@ -4943,7 +4962,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "84",
+      "#": "85",
       "Car": "Seminole",
       "Time": "19:52.624",
       "Player": "frozenhunt",
@@ -4962,7 +4981,7 @@
       "Notes?": ""
     },
     {
-      "#": "85",
+      "#": "86",
       "Car": "Sandking XL",
       "Time": "19:55.507",
       "Player": "frozenhunt",
@@ -4981,7 +5000,7 @@
       "Notes?": ""
     },
     {
-      "#": "86",
+      "#": "87",
       "Car": "Gresley",
       "Time": "19:56.002",
       "Player": "frozenhunt",
@@ -5000,7 +5019,7 @@
       "Notes?": ""
     },
     {
-      "#": "87",
+      "#": "88",
       "Car": "Surge",
       "Time": "19:56.144",
       "Player": "frozenhunt",
@@ -5019,7 +5038,7 @@
       "Notes?": ""
     },
     {
-      "#": "88",
+      "#": "89",
       "Car": "Mesa",
       "Time": "20:34.149",
       "Player": "frozenhunt",
@@ -5038,7 +5057,7 @@
       "Notes?": ""
     },
     {
-      "#": "89",
+      "#": "90",
       "Car": "Bobcat XL",
       "Time": "20:38.436",
       "Player": "frozenhunt",
@@ -5057,7 +5076,7 @@
       "Notes?": "R68 = Quarry Underpass / AKA Poopoo XL"
     },
     {
-      "#": "90",
+      "#": "91",
       "Car": "Manana",
       "Time": "20:39.354",
       "Player": "frozenhunt",
@@ -5076,7 +5095,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "91",
+      "#": "92",
       "Car": "Minivan",
       "Time": "21:03.513",
       "Player": "frozenhunt",
@@ -5095,7 +5114,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "92",
+      "#": "93",
       "Car": "Tornado",
       "Time": "21:04.011",
       "Player": "frozenhunt",
@@ -5114,7 +5133,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "93",
+      "#": "94",
       "Car": "Dilettante",
       "Time": "21:33.292",
       "Player": "frozenhunt",
@@ -5133,7 +5152,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "94",
+      "#": "95",
       "Car": "Peyote",
       "Time": "21:35.324",
       "Player": "frozenhunt",
@@ -5152,7 +5171,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "95",
+      "#": "96",
       "Car": "FIB SUV",
       "Time": "21:35.712",
       "Player": "KDawgHonda777",
@@ -5171,7 +5190,7 @@
       "Notes?": ""
     },
     {
-      "#": "96",
+      "#": "97",
       "Car": "Boat Trailer (No Boat)",
       "Time": "22:02.103",
       "Player": "frozenhunt",
@@ -5190,7 +5209,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "97",
+      "#": "98",
       "Car": "Blazer",
       "Time": "22:18.887",
       "Player": "frozenhunt",
@@ -5206,25 +5225,6 @@
       "Observatory": "19:23",
       "Zancudo Exit": "20:52",
       "Finish": "22:18",
-      "Notes?": ""
-    },
-    {
-      "#": "98",
-      "Car": "Sheriff SUV",
-      "Time": "22:31.464",
-      "Player": "SLIMYYY",
-      "Link": "Link",
-      "Highway": "N/A",
-      "Wheelspin": "4:23",
-      "Quarry": "6:26",
-      "Hospital Line": "8:31",
-      "Airport": "9:33",
-      "Route 68": "12:15",
-      "Chiliad": "15:09",
-      "Off Tracks": "17:29",
-      "Observatory": "19:01",
-      "Zancudo Exit": "20:46",
-      "Finish": "22:31",
       "Notes?": ""
     },
     {
