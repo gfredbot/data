@@ -6770,6 +6770,25 @@
     },
     {
       "#": "3",
+      "Car": "9f",
+      "Time": "15:30.070",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:00",
+      "Wheelspin": "02:07",
+      "Observatory": "04:01",
+      "Route 68": "04:52",
+      "Chiliad": "07:03",
+      "Off Tracks": "08:33",
+      "Hospital Line": "10:02",
+      "Airport": "10:56",
+      "Quarry": "13:24",
+      "Lighthouse": "15:07",
+      "Finish": "15:30",
+      "Notes?": "Hybrid"
+    },
+    {
+      "#": "4",
       "Car": "Infernus",
       "Time": "15:32.903",
       "Player": "RBSReece",
@@ -6785,25 +6804,6 @@
       "Quarry": "13:31",
       "Lighthouse": "15:11",
       "Finish": "15:32",
-      "Notes?": "Hybrid"
-    },
-    {
-      "#": "4",
-      "Car": "9f",
-      "Time": "15:42.746",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:59",
-      "Wheelspin": "02:14",
-      "Observatory": "04:08",
-      "Route 68": "05:01",
-      "Chiliad": "07:11",
-      "Off Tracks": "08:44",
-      "Hospital Line": "10:14",
-      "Airport": "11:08",
-      "Quarry": "13:38",
-      "Lighthouse": "15:17",
-      "Finish": "15:42",
       "Notes?": "Hybrid"
     },
     {
@@ -12092,6 +12092,25 @@
     },
     {
       "#": "106",
+      "Car": "Utility Trailer",
+      "Time": "23:58.063",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:42",
+      "Wheelspin": "02:52",
+      "Quarry": "04:21",
+      "Hospital Line": "06:44",
+      "Airport": "08:51",
+      "Route 68": "11:57",
+      "Chiliad": "15:32",
+      "Off Tracks": "18:15",
+      "Observatory": "19:58",
+      "Zancudo Exit": "22:00",
+      "Finish": "23:58",
+      "Notes?": "R68 = Quarry Underpass"
+    },
+    {
+      "#": "107",
       "Car": "Pony",
       "Time": "24:00.262",
       "Player": "Rj_Igor",
@@ -12110,7 +12129,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "107",
+      "#": "108",
       "Car": "Youga",
       "Time": "24:13.467",
       "Player": "Rj_Igor",
@@ -12129,7 +12148,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "108",
+      "#": "109",
       "Car": "Flatbed",
       "Time": "24:30.117",
       "Player": "Rj_Igor",
@@ -12148,7 +12167,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "109",
+      "#": "110",
       "Car": "Boat Trailer (Boat)",
       "Time": "24:33.306",
       "Player": "Rj_Igor",
@@ -12167,7 +12186,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "110",
+      "#": "111",
       "Car": "Duneloader",
       "Time": "24:35.472",
       "Player": "Rj_Igor",
@@ -12186,7 +12205,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "111",
+      "#": "112",
       "Car": "Generator Trailer",
       "Time": "24:38.370",
       "Player": "Rj_Igor",
@@ -12205,7 +12224,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "112",
+      "#": "113",
       "Car": "Thrust",
       "Time": "24:58.474",
       "Player": "Rj_Igor",
@@ -12224,7 +12243,7 @@
       "Notes?": "Hotlap"
     },
     {
-      "#": "113",
+      "#": "114",
       "Car": "Phantom",
       "Time": "25:07.341",
       "Player": "Rj_Igor",
@@ -12243,7 +12262,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "114",
+      "#": "115",
       "Car": "FIB SUV",
       "Time": "25:28.897",
       "Player": "HeavyFlavor",
@@ -12262,7 +12281,7 @@
       "Notes?": ""
     },
     {
-      "#": "115",
+      "#": "116",
       "Car": "Rubble",
       "Time": "25:54.220",
       "Player": "Rj_Igor",
@@ -12281,7 +12300,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "116",
+      "#": "117",
       "Car": "Alpha",
       "Time": "26:02.932",
       "Player": "Rj_Igor",
@@ -12298,25 +12317,6 @@
       "Zancudo Exit": "24:55",
       "Finish": "26:02",
       "Notes?": ""
-    },
-    {
-      "#": "117",
-      "Car": "Utility Trailer",
-      "Time": "26:09.038",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:42",
-      "Wheelspin": "02:49",
-      "Quarry": "04:17",
-      "Hospital Line": "06:41",
-      "Airport": "07:52",
-      "Route 68": "12:44",
-      "Chiliad": "16:47",
-      "Off Tracks": "19:55",
-      "Observatory": "21:51",
-      "Zancudo Exit": "24:09",
-      "Finish": "26:09",
-      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "118",
