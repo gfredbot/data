@@ -359,7 +359,7 @@
       "Quarry": "14:27",
       "Lighthouse": "16:04",
       "Finish": "16:27",
-      "Notes?": ""
+      "Notes?": "Hybrid"
     },
     {
       "#": "20",
@@ -2966,6 +2966,25 @@
     },
     {
       "#": "157",
+      "Car": "Logs Trailer",
+      "Time": "44:56.175",
+      "Player": "SMGWolfmanz",
+      "Link": "Link",
+      "Highway": "2:10",
+      "Wheelspin": "4:07",
+      "Observatory": "7:40",
+      "Route 68": "9:13",
+      "Chiliad": "27:06",
+      "Off Tracks": "30:30",
+      "Hospital Line": "33:29",
+      "Airport": "36:28",
+      "Quarry": "41:27",
+      "Lighthouse": "43:45",
+      "Finish": "44:56",
+      "Notes?": "Can WB (gentle)"
+    },
+    {
+      "#": "158",
       "Car": "Cruiser (Bicycle)",
       "Time": "46:33.305",
       "Player": "Squilliam",
@@ -2984,7 +3003,7 @@
       "Notes?": ""
     },
     {
-      "#": "158",
+      "#": "159",
       "Car": "Feet (Open)",
       "Time": "49:41.193",
       "Player": "BloodySquirrels",
@@ -3003,7 +3022,7 @@
       "Notes?": "Run Fast allowed"
     },
     {
-      "#": "159",
+      "#": "160",
       "Car": "Fieldmaster",
       "Time": "59:22.373",
       "Player": "frozenhunt",
@@ -3022,7 +3041,7 @@
       "Notes?": ""
     },
     {
-      "#": "160",
+      "#": "161",
       "Car": "Feet (Traditional)",
       "Time": "81:31.405",
       "Player": "Raytheon",
@@ -3041,7 +3060,7 @@
       "Notes?": ""
     },
     {
-      "#": "161",
+      "#": "162",
       "Car": "Feet (Walking)",
       "Time": "l   270:39.975*   l",
       "Player": "Jakeyy9741",
@@ -3060,7 +3079,7 @@
       "Notes?": ""
     },
     {
-      "#": "162",
+      "#": "163",
       "Car": "Tropic",
       "Time": "",
       "Player": "",
@@ -3079,7 +3098,7 @@
       "Notes?": ""
     },
     {
-      "#": "163",
+      "#": "164",
       "Car": "Suntrap",
       "Time": "",
       "Player": "",
@@ -3098,7 +3117,7 @@
       "Notes?": ""
     },
     {
-      "#": "164",
+      "#": "165",
       "Car": "Squalo",
       "Time": "",
       "Player": "",
@@ -3117,7 +3136,7 @@
       "Notes?": ""
     },
     {
-      "#": "165",
+      "#": "166",
       "Car": "Box Trailer",
       "Time": "",
       "Player": "",
@@ -3136,7 +3155,7 @@
       "Notes?": ""
     },
     {
-      "#": "166",
+      "#": "167",
       "Car": "Dock Trailer",
       "Time": "",
       "Player": "",
@@ -3153,25 +3172,6 @@
       "Lighthouse": "",
       "Finish": "",
       "Notes?": ""
-    },
-    {
-      "#": "167",
-      "Car": "Logs Trailer",
-      "Time": "",
-      "Player": "",
-      "Link": "",
-      "Highway": "",
-      "Wheelspin": "",
-      "Observatory": "",
-      "Route 68": "",
-      "Chiliad": "",
-      "Off Tracks": "",
-      "Hospital Line": "",
-      "Airport": "",
-      "Quarry": "",
-      "Lighthouse": "",
-      "Finish": "",
-      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "168",
@@ -3876,7 +3876,7 @@
       "Observatory": "14:10",
       "Zancudo Exit": "15:26",
       "Finish": "16:57",
-      "Notes?": "Hybrid"
+      "Notes?": "Hybrid / Hotlap"
     },
     {
       "#": "28",
@@ -6975,7 +6975,7 @@
       "Quarry": "14:19",
       "Lighthouse": "16:12",
       "Finish": "16:37",
-      "Notes?": ""
+      "Notes?": "Elevator"
     },
     {
       "#": "14",
@@ -7184,7 +7184,7 @@
       "Quarry": "14:36",
       "Lighthouse": "16:25",
       "Finish": "16:50",
-      "Notes?": ""
+      "Notes?": "Hybrid"
     },
     {
       "#": "25",
@@ -7222,7 +7222,7 @@
       "Quarry": "14:32",
       "Lighthouse": "16:24",
       "Finish": "17:01",
-      "Notes?": ""
+      "Notes?": "Hybrid"
     },
     {
       "#": "27",
@@ -7260,7 +7260,7 @@
       "Quarry": "14:51",
       "Lighthouse": "16:49",
       "Finish": "17:16",
-      "Notes?": ""
+      "Notes?": "Hybrid / Hotlap"
     },
     {
       "#": "29",
@@ -7336,7 +7336,7 @@
       "Quarry": "14:56",
       "Lighthouse": "16:48",
       "Finish": "17:19",
-      "Notes?": ""
+      "Notes?": "Hybrid"
     },
     {
       "#": "33",
@@ -7469,7 +7469,7 @@
       "Quarry": "15:16",
       "Lighthouse": "17:14",
       "Finish": "17:40",
-      "Notes?": ""
+      "Notes?": "Hybrid / Hotlap"
     },
     {
       "#": "40",
@@ -7583,7 +7583,7 @@
       "Quarry": "15:29",
       "Lighthouse": "17:28",
       "Finish": "17:58",
-      "Notes?": ""
+      "Notes?": "Hybrid / Hotlap"
     },
     {
       "#": "46",
@@ -7887,7 +7887,7 @@
       "Quarry": "16:24",
       "Lighthouse": "18:25",
       "Finish": "18:50",
-      "Notes?": "Hotlap / Elevator"
+      "Notes?": "Hotlap"
     },
     {
       "#": "62",
@@ -8077,7 +8077,7 @@
       "Quarry": "16:46",
       "Lighthouse": "18:57",
       "Finish": "19:23",
-      "Notes?": ""
+      "Notes?": "Can WB (aggressive)"
     },
     {
       "#": "72",
@@ -8248,7 +8248,7 @@
       "Quarry": "17:25",
       "Lighthouse": "19:41",
       "Finish": "20:07",
-      "Notes?": ""
+      "Notes?": "Can WB (aggressive)"
     },
     {
       "#": "81",
@@ -8894,7 +8894,7 @@
       "Quarry": "22:54",
       "Lighthouse": "24:51",
       "Finish": "25:58",
-      "Notes?": ""
+      "Notes?": "Can WB (gentle)"
     },
     {
       "#": "115",
@@ -8951,7 +8951,7 @@
       "Quarry": "23:55",
       "Lighthouse": "25:47",
       "Finish": "26:55",
-      "Notes?": ""
+      "Notes?": "Can WB (Gentle)"
     },
     {
       "#": "118",
@@ -9027,7 +9027,7 @@
       "Quarry": "24:58",
       "Lighthouse": "27:08",
       "Finish": "28:18",
-      "Notes?": ""
+      "Notes?": "Can WB (aggressive)"
     },
     {
       "#": "122",
@@ -9084,7 +9084,7 @@
       "Quarry": "26:03",
       "Lighthouse": "28:08",
       "Finish": "29:14",
-      "Notes?": ""
+      "Notes?": "Can WB (Gentle)"
     },
     {
       "#": "125",
@@ -9103,7 +9103,7 @@
       "Quarry": "26:12",
       "Lighthouse": "28:13",
       "Finish": "29:22",
-      "Notes?": ""
+      "Notes?": "Can WB (aggressive)"
     },
     {
       "#": "126",
@@ -9236,7 +9236,7 @@
       "Quarry": "29:01",
       "Lighthouse": "31:10",
       "Finish": "32:19",
-      "Notes?": ""
+      "Notes?": "Can WB (Gentle)"
     },
     {
       "#": "133",
@@ -9274,7 +9274,7 @@
       "Quarry": "29:51",
       "Lighthouse": "31:45",
       "Finish": "32:51",
-      "Notes?": ""
+      "Notes?": "Can WB (Gentle)"
     },
     {
       "#": "135",
@@ -9331,7 +9331,7 @@
       "Quarry": "31:16",
       "Lighthouse": "33:15",
       "Finish": "34:20",
-      "Notes?": ""
+      "Notes?": "Can WB (aggressive)"
     },
     {
       "#": "138",
@@ -9350,7 +9350,7 @@
       "Quarry": "30:39",
       "Lighthouse": "38:14",
       "Finish": "39:28",
-      "Notes?": "Can WB (gentle)"
+      "Notes?": ""
     },
     {
       "#": "139",
@@ -9445,7 +9445,7 @@
       "Quarry": "40:31",
       "Lighthouse": "42:51",
       "Finish": "44:05",
-      "Notes?": ""
+      "Notes?": "Can WB (Gentle)"
     },
     {
       "#": "144",
@@ -9559,7 +9559,7 @@
       "Quarry": "55:21",
       "Lighthouse": "59:46",
       "Finish": "60:58",
-      "Notes?": ""
+      "Notes?": "Can WB (aggressive)"
     },
     {
       "#": "150",
@@ -9578,7 +9578,7 @@
       "Quarry": "67:43",
       "Lighthouse": "70:11",
       "Finish": "71:17",
-      "Notes?": ""
+      "Notes?": "Can WB (Gentle)"
     },
     {
       "#": "151",
@@ -9749,7 +9749,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": ""
+      "Notes?": "Can WB (Aggressive + Lean Forward)"
     },
     {
       "#": "160",
@@ -9844,7 +9844,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": "Can WB (gentle)"
+      "Notes?": ""
     },
     {
       "#": "165",
@@ -9863,7 +9863,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": "Can WB (gentle)"
+      "Notes?": ""
     },
     {
       "#": "166",
@@ -9901,7 +9901,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": "Can WB (gentle)"
+      "Notes?": ""
     },
     {
       "#": "168",
@@ -9977,7 +9977,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": ""
+      "Notes?": "Can WB (Gentle)"
     },
     {
       "#": "172",
@@ -10015,7 +10015,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": ""
+      "Notes?": "Hybrid"
     },
     {
       "#": "174",
@@ -10034,7 +10034,7 @@
       "Quarry": "",
       "Lighthouse": "",
       "Finish": "",
-      "Notes?": "Can WB (gentle)"
+      "Notes?": ""
     },
     {
       "#": "175",
@@ -10131,7 +10131,7 @@
       "Observatory": "13:12",
       "Zancudo Exit": "14:25",
       "Finish": "15:28",
-      "Notes?": "Hybrid / Elevator"
+      "Notes?": "Elevator"
     },
     {
       "#": "3",
@@ -10188,7 +10188,7 @@
       "Observatory": "13:32",
       "Zancudo Exit": "14:50",
       "Finish": "15:52",
-      "Notes?": "Hybrid / Elevator"
+      "Notes?": "Elevator"
     },
     {
       "#": "6",
@@ -10226,7 +10226,7 @@
       "Observatory": "13:38",
       "Zancudo Exit": "14:55",
       "Finish": "15:59",
-      "Notes?": "Hybrid / Elevator"
+      "Notes?": "Elevator"
     },
     {
       "#": "8",
@@ -10644,7 +10644,7 @@
       "Observatory": "14:13",
       "Zancudo Exit": "15:33",
       "Finish": "16:56",
-      "Notes?": ""
+      "Notes?": "Hybrid"
     },
     {
       "#": "30",
@@ -11100,7 +11100,7 @@
       "Observatory": "15:31",
       "Zancudo Exit": "16:54",
       "Finish": "18:13",
-      "Notes?": "Hotlap / Elevator"
+      "Notes?": "Hotlap"
     },
     {
       "#": "54",
@@ -11347,7 +11347,7 @@
       "Observatory": "15:49",
       "Zancudo Exit": "17:19",
       "Finish": "18:42",
-      "Notes?": ""
+      "Notes?": "Can WB (Aggressive)"
     },
     {
       "#": "67",
@@ -11404,7 +11404,7 @@
       "Observatory": "16:04",
       "Zancudo Exit": "17:35",
       "Finish": "18:55",
-      "Notes?": ""
+      "Notes?": "Can WB (Gentle)"
     },
     {
       "#": "70",
@@ -11651,7 +11651,7 @@
       "Observatory": "16:56",
       "Zancudo Exit": "18:31",
       "Finish": "19:51",
-      "Notes?": ""
+      "Notes?": "Can WB (Aggressive)"
     },
     {
       "#": "83",
@@ -11803,7 +11803,7 @@
       "Observatory": "17:48",
       "Zancudo Exit": "19:16",
       "Finish": "20:46",
-      "Notes?": ""
+      "Notes?": "Can WB (Aggressive + Lean Forward)"
     },
     {
       "#": "91",
@@ -12164,7 +12164,7 @@
       "Observatory": "20:35",
       "Zancudo Exit": "22:26",
       "Finish": "24:30",
-      "Notes?": "R68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "110",
@@ -12259,7 +12259,7 @@
       "Observatory": "21:15",
       "Zancudo Exit": "23:03",
       "Finish": "25:01",
-      "Notes?": "R68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Aggressive)"
     },
     {
       "#": "115",
@@ -12316,7 +12316,7 @@
       "Observatory": "23:38",
       "Zancudo Exit": "24:55",
       "Finish": "26:02",
-      "Notes?": ""
+      "Notes?": "Elevator"
     },
     {
       "#": "118",
@@ -12373,7 +12373,7 @@
       "Observatory": "22:52",
       "Zancudo Exit": "24:56",
       "Finish": "27:00",
-      "Notes?": "R68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "121",
@@ -12411,7 +12411,7 @@
       "Observatory": "24:43",
       "Zancudo Exit": "26:02",
       "Finish": "27:10",
-      "Notes?": ""
+      "Notes?": "Elevator"
     },
     {
       "#": "123",
@@ -12468,7 +12468,7 @@
       "Observatory": "23:47",
       "Zancudo Exit": "25:34",
       "Finish": "27:34",
-      "Notes?": "R68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Aggressive)"
     },
     {
       "#": "126",
@@ -12506,7 +12506,7 @@
       "Observatory": "25:18",
       "Zancudo Exit": "26:37",
       "Finish": "27:43",
-      "Notes?": ""
+      "Notes?": "Elevator"
     },
     {
       "#": "128",
@@ -12544,7 +12544,7 @@
       "Observatory": "25:28",
       "Zancudo Exit": "26:45",
       "Finish": "27:51",
-      "Notes?": ""
+      "Notes?": "Elevator"
     },
     {
       "#": "130",
@@ -12601,7 +12601,7 @@
       "Observatory": "24:19",
       "Zancudo Exit": "26:10",
       "Finish": "28:09",
-      "Notes?": "R68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "133",
@@ -12696,7 +12696,7 @@
       "Observatory": "26:09",
       "Zancudo Exit": "27:23",
       "Finish": "28:51",
-      "Notes?": ""
+      "Notes?": "Hybrid"
     },
     {
       "#": "138",
@@ -12734,7 +12734,7 @@
       "Observatory": "25:12",
       "Zancudo Exit": "27:19",
       "Finish": "29:29",
-      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "140",
@@ -12810,7 +12810,7 @@
       "Observatory": "26:56",
       "Zancudo Exit": "28:51",
       "Finish": "31:02",
-      "Notes?": "R68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "144",
@@ -12829,7 +12829,7 @@
       "Observatory": "27:14",
       "Zancudo Exit": "29:04",
       "Finish": "31:09",
-      "Notes?": "R68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "145",
@@ -12905,7 +12905,7 @@
       "Observatory": "27:01",
       "Zancudo Exit": "29:16",
       "Finish": "31:27",
-      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "149",
@@ -12943,7 +12943,7 @@
       "Observatory": "26:44",
       "Zancudo Exit": "29:47",
       "Finish": "32:16",
-      "Notes?": ""
+      "Notes?": "Can WB (Aggressive)"
     },
     {
       "#": "151",
@@ -12962,7 +12962,7 @@
       "Observatory": "28:37",
       "Zancudo Exit": "31:53",
       "Finish": "34:05",
-      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "152",
@@ -13000,7 +13000,7 @@
       "Observatory": "30:00",
       "Zancudo Exit": "32:08",
       "Finish": "35:01",
-      "Notes?": "R68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "154",
@@ -13038,7 +13038,7 @@
       "Observatory": "31:34",
       "Zancudo Exit": "33:38",
       "Finish": "35:41",
-      "Notes?": "R68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Aggressive)"
     },
     {
       "#": "156",
@@ -13057,7 +13057,7 @@
       "Observatory": "31:16",
       "Zancudo Exit": "34:06",
       "Finish": "36:16",
-      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "157",
@@ -13133,7 +13133,7 @@
       "Observatory": "34:24",
       "Zancudo Exit": "36:44",
       "Finish": "38:53",
-      "Notes?": "R68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "161",
@@ -13399,7 +13399,7 @@
       "Observatory": "64:51",
       "Zancudo Exit": "67:52",
       "Finish": "70:08",
-      "Notes?": "R68 = Quarry Underpass"
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "175",
@@ -13437,7 +13437,7 @@
       "Observatory": "97:22",
       "Zancudo Exit": "100:33",
       "Finish": "102:57",
-      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "177",
