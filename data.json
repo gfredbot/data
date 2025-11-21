@@ -9145,6 +9145,25 @@
     },
     {
       "#": "128",
+      "Car": "Tipper (6 wheels)",
+      "Time": "30:56.197",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:57",
+      "Wheelspin": "02:12",
+      "Observatory": "06:04",
+      "Route 68": "07:28",
+      "Chiliad": "15:39",
+      "Off Tracks": "18:50",
+      "Hospital Line": "21:21",
+      "Airport": "23:25",
+      "Quarry": "27:41",
+      "Lighthouse": "29:52",
+      "Finish": "30:56",
+      "Notes?": ""
+    },
+    {
+      "#": "129",
       "Car": "Camper",
       "Time": "31:16.345",
       "Player": "Rj_Igor",
@@ -9163,7 +9182,7 @@
       "Notes?": ""
     },
     {
-      "#": "129",
+      "#": "130",
       "Car": "Rhapsody",
       "Time": "31:24.415",
       "Player": "Rj_Igor",
@@ -9182,7 +9201,7 @@
       "Notes?": ""
     },
     {
-      "#": "130",
+      "#": "131",
       "Car": "Voodoo",
       "Time": "31:34.245",
       "Player": "HeavyFlavor",
@@ -9201,7 +9220,7 @@
       "Notes?": ""
     },
     {
-      "#": "131",
+      "#": "132",
       "Car": "Dashound",
       "Time": "32:16.918",
       "Player": "HeavyFlavor",
@@ -9220,7 +9239,7 @@
       "Notes?": ""
     },
     {
-      "#": "132",
+      "#": "133",
       "Car": "Utility Truck (Cargo Truck)",
       "Time": "32:19.581",
       "Player": "HeavyFlavor",
@@ -9237,25 +9256,6 @@
       "Lighthouse": "31:10",
       "Finish": "32:19",
       "Notes?": "Can WB (Gentle)"
-    },
-    {
-      "#": "133",
-      "Car": "Tipper (6 wheels)",
-      "Time": "32:48.881",
-      "Player": "HeavyFlavor",
-      "Link": "Link",
-      "Highway": "01:59",
-      "Wheelspin": "02:12",
-      "Observatory": "06:03",
-      "Route 68": "07:25",
-      "Chiliad": "16:01",
-      "Off Tracks": "19:14",
-      "Hospital Line": "21:50",
-      "Airport": "24:18",
-      "Quarry": "28:56",
-      "Lighthouse": "31:38",
-      "Finish": "32:48",
-      "Notes?": ""
     },
     {
       "#": "134",
