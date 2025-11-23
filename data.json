@@ -173,6 +173,25 @@
     },
     {
       "#": "10",
+      "Car": "Surano",
+      "Time": "15:52.649",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "1:56",
+      "Wheelspin": "2:06",
+      "Observatory": "4:03",
+      "Route 68": "4:53",
+      "Chiliad": "7:05",
+      "Off Tracks": "8:38",
+      "Hospital Line": "10:13",
+      "Airport": "11:10",
+      "Quarry": "13:43",
+      "Lighthouse": "15:30",
+      "Finish": "15:52",
+      "Notes?": "Elevator"
+    },
+    {
+      "#": "11",
       "Car": "Double-T",
       "Time": "15:58.521",
       "Player": "frozenhunt",
@@ -189,25 +208,6 @@
       "Lighthouse": "15:31",
       "Finish": "15:58",
       "Notes?": "Hybrid"
-    },
-    {
-      "#": "11",
-      "Car": "Surano",
-      "Time": "16:01.959",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "1:54",
-      "Wheelspin": "2:02",
-      "Observatory": "4:04",
-      "Route 68": "4:56",
-      "Chiliad": "7:19",
-      "Off Tracks": "8:55",
-      "Hospital Line": "10:30",
-      "Airport": "11:23",
-      "Quarry": "13:57",
-      "Lighthouse": "15:40",
-      "Finish": "16:01",
-      "Notes?": "Elevator"
     },
     {
       "#": "12",
@@ -363,6 +363,25 @@
     },
     {
       "#": "20",
+      "Car": "F620",
+      "Time": "16:27.569",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "1:56",
+      "Wheelspin": "2:02",
+      "Observatory": "4:05",
+      "Route 68": "4:57",
+      "Chiliad": "7:23",
+      "Off Tracks": "9:05",
+      "Hospital Line": "10:38",
+      "Airport": "11:32",
+      "Quarry": "14:06",
+      "Lighthouse": "16:03",
+      "Finish": "16:27",
+      "Notes?": ""
+    },
+    {
+      "#": "21",
       "Car": "Zion",
       "Time": "16:32.139",
       "Player": "frozenhunt",
@@ -381,7 +400,7 @@
       "Notes?": ""
     },
     {
-      "#": "21",
+      "#": "22",
       "Car": "Coquette",
       "Time": "16:33.774",
       "Player": "frozenhunt",
@@ -400,7 +419,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "22",
+      "#": "23",
       "Car": "Nemesis",
       "Time": "16:33.841",
       "Player": "frozenhunt",
@@ -419,7 +438,7 @@
       "Notes?": "Hybrid / Hotlap"
     },
     {
-      "#": "23",
+      "#": "24",
       "Car": "Fusilade",
       "Time": "16:36.142",
       "Player": "frozenhunt",
@@ -438,7 +457,7 @@
       "Notes?": ""
     },
     {
-      "#": "24",
+      "#": "25",
       "Car": "Sultan",
       "Time": "16:39.080",
       "Player": "frozenhunt",
@@ -457,7 +476,7 @@
       "Notes?": ""
     },
     {
-      "#": "25",
+      "#": "26",
       "Car": "Banshee",
       "Time": "16:40.565",
       "Player": "frozenhunt",
@@ -476,7 +495,7 @@
       "Notes?": ""
     },
     {
-      "#": "26",
+      "#": "27",
       "Car": "Oracle",
       "Time": "16:45.135",
       "Player": "frozenhunt",
@@ -492,25 +511,6 @@
       "Quarry": "14:26",
       "Lighthouse": "16:22",
       "Finish": "16:45",
-      "Notes?": ""
-    },
-    {
-      "#": "27",
-      "Car": "F620",
-      "Time": "16:47.004",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "1:57",
-      "Wheelspin": "2:06",
-      "Observatory": "4:17",
-      "Route 68": "5:10",
-      "Chiliad": "7:37",
-      "Off Tracks": "9:19",
-      "Hospital Line": "10:55",
-      "Airport": "11:52",
-      "Quarry": "14:29",
-      "Lighthouse": "16:23",
-      "Finish": "16:47",
       "Notes?": ""
     },
     {
@@ -591,6 +591,44 @@
     },
     {
       "#": "32",
+      "Car": "Ruiner",
+      "Time": "16:58.466",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "1:57",
+      "Wheelspin": "2:02",
+      "Observatory": "4:09",
+      "Route 68": "5:02",
+      "Chiliad": "7:33",
+      "Off Tracks": "9:18",
+      "Hospital Line": "10:55",
+      "Airport": "11:51",
+      "Quarry": "14:34",
+      "Lighthouse": "16:36",
+      "Finish": "16:58",
+      "Notes?": ""
+    },
+    {
+      "#": "33",
+      "Car": "Sabre Turbo",
+      "Time": "17:02.252",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "1:56",
+      "Wheelspin": "2:03",
+      "Observatory": "4:10",
+      "Route 68": "5:03",
+      "Chiliad": "7:32",
+      "Off Tracks": "9:16",
+      "Hospital Line": "10:56",
+      "Airport": "11:54",
+      "Quarry": "14:44",
+      "Lighthouse": "16:39",
+      "Finish": "17:02",
+      "Notes?": ""
+    },
+    {
+      "#": "34",
       "Car": "Oracle XS",
       "Time": "17:02.320",
       "Player": "frozenhunt",
@@ -609,26 +647,7 @@
       "Notes?": ""
     },
     {
-      "#": "33",
-      "Car": "Ruiner",
-      "Time": "17:06.340",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "1:56",
-      "Wheelspin": "2:02",
-      "Observatory": "4:10",
-      "Route 68": "5:03",
-      "Chiliad": "7:35",
-      "Off Tracks": "9:25",
-      "Hospital Line": "11:00",
-      "Airport": "11:55",
-      "Quarry": "14:48",
-      "Lighthouse": "16:43",
-      "Finish": "17:06",
-      "Notes?": ""
-    },
-    {
-      "#": "34",
+      "#": "35",
       "Car": "Vader",
       "Time": "17:07.792",
       "Player": "frozenhunt",
@@ -647,7 +666,7 @@
       "Notes?": "Hybrid / Hotlap"
     },
     {
-      "#": "35",
+      "#": "36",
       "Car": "Baller (New)",
       "Time": "17:15.751",
       "Player": "frozenhunt",
@@ -666,7 +685,7 @@
       "Notes?": ""
     },
     {
-      "#": "36",
+      "#": "37",
       "Car": "Schwartzer",
       "Time": "17:17.884",
       "Player": "frozenhunt",
@@ -685,7 +704,7 @@
       "Notes?": ""
     },
     {
-      "#": "37",
+      "#": "38",
       "Car": "PCJ 600",
       "Time": "17:18.169",
       "Player": "frozenhunt",
@@ -704,7 +723,7 @@
       "Notes?": "Hybrid / Hotlap"
     },
     {
-      "#": "38",
+      "#": "39",
       "Car": "Sentinel XS",
       "Time": "17:18.385",
       "Player": "frozenhunt",
@@ -723,7 +742,7 @@
       "Notes?": ""
     },
     {
-      "#": "39",
+      "#": "40",
       "Car": "Super Diamond",
       "Time": "17:19.570",
       "Player": "frozenhunt",
@@ -742,7 +761,7 @@
       "Notes?": ""
     },
     {
-      "#": "40",
+      "#": "41",
       "Car": "Sentinel",
       "Time": "17:22.890",
       "Player": "frozenhunt",
@@ -761,7 +780,7 @@
       "Notes?": ""
     },
     {
-      "#": "41",
+      "#": "42",
       "Car": "Buccaneer",
       "Time": "17:24.541",
       "Player": "frozenhunt",
@@ -780,7 +799,7 @@
       "Notes?": ""
     },
     {
-      "#": "42",
+      "#": "43",
       "Car": "Vigero",
       "Time": "17:27.077",
       "Player": "frozenhunt",
@@ -799,7 +818,7 @@
       "Notes?": ""
     },
     {
-      "#": "43",
+      "#": "44",
       "Car": "Futo",
       "Time": "17:28.412",
       "Player": "frozenhunt",
@@ -818,7 +837,7 @@
       "Notes?": ""
     },
     {
-      "#": "44",
+      "#": "45",
       "Car": "Phoenix",
       "Time": "17:40.627",
       "Player": "frozenhunt",
@@ -837,7 +856,7 @@
       "Notes?": ""
     },
     {
-      "#": "45",
+      "#": "46",
       "Car": "Daemon",
       "Time": "17:43.076",
       "Player": "frozenhunt",
@@ -853,25 +872,6 @@
       "Quarry": "15:22",
       "Lighthouse": "17:20",
       "Finish": "17:43",
-      "Notes?": ""
-    },
-    {
-      "#": "46",
-      "Car": "Sabre Turbo",
-      "Time": "17:44.378",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "1:59",
-      "Wheelspin": "2:06",
-      "Observatory": "4:22",
-      "Route 68": "5:16",
-      "Chiliad": "7:50",
-      "Off Tracks": "9:54",
-      "Hospital Line": "11:35",
-      "Airport": "12:33",
-      "Quarry": "15:21",
-      "Lighthouse": "17:19",
-      "Finish": "17:44",
       "Notes?": ""
     },
     {
@@ -1618,20 +1618,20 @@
     {
       "#": "86",
       "Car": "Bobcat XL",
-      "Time": "21:37.912",
+      "Time": "21:15.708",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "1:58",
-      "Wheelspin": "2:09",
-      "Observatory": "4:51",
-      "Route 68": "5:52",
-      "Chiliad": "10:23",
-      "Off Tracks": "12:23",
-      "Hospital Line": "14:24",
-      "Airport": "15:36",
-      "Quarry": "18:59",
-      "Lighthouse": "21:16",
-      "Finish": "21:37",
+      "Highway": "1:55",
+      "Wheelspin": "2:02",
+      "Observatory": "4:41",
+      "Route 68": "5:42",
+      "Chiliad": "10:08",
+      "Off Tracks": "12:08",
+      "Hospital Line": "14:10",
+      "Airport": "15:16",
+      "Quarry": "18:34",
+      "Lighthouse": "20:54",
+      "Finish": "21:15",
       "Notes?": ""
     },
     {
@@ -2111,6 +2111,25 @@
     },
     {
       "#": "112",
+      "Car": "Thrust",
+      "Time": "24:33.036",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "9:38",
+      "Observatory": "11:16",
+      "Route 68": "12:08",
+      "Chiliad": "14:40",
+      "Off Tracks": "16:31",
+      "Hospital Line": "18:05",
+      "Airport": "19:25",
+      "Quarry": "22:00",
+      "Lighthouse": "23:50",
+      "Finish": "24:33",
+      "Notes?": "Hotlap"
+    },
+    {
+      "#": "113",
       "Car": "Furore GT",
       "Time": "24:34.070",
       "Player": "frozenhunt",
@@ -2129,7 +2148,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "113",
+      "#": "114",
       "Car": "Youga",
       "Time": "24:37.708",
       "Player": "frozenhunt",
@@ -2148,7 +2167,26 @@
       "Notes?": ""
     },
     {
-      "#": "114",
+      "#": "115",
+      "Car": "Packer",
+      "Time": "24:45.354",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "1:57",
+      "Wheelspin": "2:07",
+      "Observatory": "5:03",
+      "Route 68": "6:16",
+      "Chiliad": "10:50",
+      "Off Tracks": "14:20",
+      "Hospital Line": "16:32",
+      "Airport": "17:55",
+      "Quarry": "21:47",
+      "Lighthouse": "23:36",
+      "Finish": "24:45",
+      "Notes?": "Can WB (aggressive)"
+    },
+    {
+      "#": "116",
       "Car": "Phantom",
       "Time": "24:46.432",
       "Player": "frozenhunt",
@@ -2167,7 +2205,26 @@
       "Notes?": "Can do 2nd entry Elevator"
     },
     {
-      "#": "115",
+      "#": "117",
+      "Car": "Blista Compact",
+      "Time": "24:47.202",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "8:24",
+      "Observatory": "10:27",
+      "Route 68": "11:24",
+      "Chiliad": "14:33",
+      "Off Tracks": "16:29",
+      "Hospital Line": "18:17",
+      "Airport": "19:20",
+      "Quarry": "22:18",
+      "Lighthouse": "24:25",
+      "Finish": "24:47",
+      "Notes?": ""
+    },
+    {
+      "#": "118",
       "Car": "Panto",
       "Time": "24:52.338",
       "Player": "frozenhunt",
@@ -2186,7 +2243,7 @@
       "Notes?": ""
     },
     {
-      "#": "116",
+      "#": "119",
       "Car": "Duneloader",
       "Time": "25:16.179",
       "Player": "frozenhunt",
@@ -2205,7 +2262,7 @@
       "Notes?": ""
     },
     {
-      "#": "117",
+      "#": "120",
       "Car": "Alpha",
       "Time": "25:24.987",
       "Player": "frozenhunt",
@@ -2224,7 +2281,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "118",
+      "#": "121",
       "Car": "Flatbed",
       "Time": "25:51.431",
       "Player": "frozenhunt",
@@ -2243,26 +2300,7 @@
       "Notes?": "Can WB (Gentle)"
     },
     {
-      "#": "119",
-      "Car": "Packer",
-      "Time": "25:51.949",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "1:58",
-      "Wheelspin": "2:14",
-      "Observatory": "5:03",
-      "Route 68": "6:18",
-      "Chiliad": "11:04",
-      "Off Tracks": "13:50",
-      "Hospital Line": "15:56",
-      "Airport": "19:17",
-      "Quarry": "22:55",
-      "Lighthouse": "24:48",
-      "Finish": "25:51",
-      "Notes?": "Can WB (aggressive)"
-    },
-    {
-      "#": "120",
+      "#": "122",
       "Car": "Barracks Semi",
       "Time": "26:06.079",
       "Player": "frozenhunt",
@@ -2281,7 +2319,7 @@
       "Notes?": "Can WB (Gentle)"
     },
     {
-      "#": "121",
+      "#": "123",
       "Car": "Boat Trailer (Boat)",
       "Time": "26:06.596",
       "Player": "frozenhunt",
@@ -2300,7 +2338,26 @@
       "Notes?": ""
     },
     {
-      "#": "122",
+      "#": "124",
+      "Car": "Rubble",
+      "Time": "26:06.830",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "1:57",
+      "Wheelspin": "2:07",
+      "Observatory": "5:24",
+      "Route 68": "6:38",
+      "Chiliad": "12:55",
+      "Off Tracks": "15:47",
+      "Hospital Line": "18:01",
+      "Airport": "19:28",
+      "Quarry": "23:07",
+      "Lighthouse": "25:01",
+      "Finish": "26:06",
+      "Notes?": "Can WB (Aggressive)"
+    },
+    {
+      "#": "125",
       "Car": "Jester",
       "Time": "26:27.450",
       "Player": "frozenhunt",
@@ -2319,26 +2376,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "123",
-      "Car": "Thrust",
-      "Time": "26:35.008",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "N/A",
-      "Wheelspin": "12:22",
-      "Observatory": "14:03",
-      "Route 68": "14:56",
-      "Chiliad": "17:27",
-      "Off Tracks": "19:15",
-      "Hospital Line": "20:50",
-      "Airport": "21:46",
-      "Quarry": "24:23",
-      "Lighthouse": "26:14",
-      "Finish": "26:35",
-      "Notes?": "Hotlap"
-    },
-    {
-      "#": "124",
+      "#": "126",
       "Car": "Hauler",
       "Time": "26:50.023",
       "Player": "frozenhunt",
@@ -2357,26 +2395,7 @@
       "Notes?": "Can WB (gentle)"
     },
     {
-      "#": "125",
-      "Car": "Blista Compact",
-      "Time": "26:59.100",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "N/A",
-      "Wheelspin": "9:20",
-      "Observatory": "11:22",
-      "Route 68": "12:22",
-      "Chiliad": "15:41",
-      "Off Tracks": "17:35",
-      "Hospital Line": "19:25",
-      "Airport": "20:28",
-      "Quarry": "23:30",
-      "Lighthouse": "26:27",
-      "Finish": "26:59",
-      "Notes?": ""
-    },
-    {
-      "#": "126",
+      "#": "127",
       "Car": "Regina",
       "Time": "27:15.415",
       "Player": "frozenhunt",
@@ -2395,7 +2414,7 @@
       "Notes?": ""
     },
     {
-      "#": "127",
+      "#": "128",
       "Car": "Mixer (6 wheels)",
       "Time": "27:30.713",
       "Player": "frozenhunt",
@@ -2414,7 +2433,7 @@
       "Notes?": "Can WB (Gentle)"
     },
     {
-      "#": "128",
+      "#": "129",
       "Car": "Flatbed Trailer",
       "Time": "27:32.399",
       "Player": "frozenhunt",
@@ -2433,7 +2452,7 @@
       "Notes?": "Can WB (gentle)"
     },
     {
-      "#": "129",
+      "#": "130",
       "Car": "Container Trailer",
       "Time": "27:41.458",
       "Player": "frozenhunt",
@@ -2452,7 +2471,7 @@
       "Notes?": ""
     },
     {
-      "#": "130",
+      "#": "131",
       "Car": "Scrap Truck",
       "Time": "27:44.460",
       "Player": "frozenhunt",
@@ -2471,7 +2490,7 @@
       "Notes?": ""
     },
     {
-      "#": "131",
+      "#": "132",
       "Car": "Mixer (8 wheels)",
       "Time": "27:49.017",
       "Player": "frozenhunt",
@@ -2490,7 +2509,7 @@
       "Notes?": "Can WB (Aggressive)"
     },
     {
-      "#": "132",
+      "#": "133",
       "Car": "Dukes",
       "Time": "27:49.049",
       "Player": "frozenhunt",
@@ -2509,7 +2528,7 @@
       "Notes?": ""
     },
     {
-      "#": "133",
+      "#": "134",
       "Car": "Utility Truck (Cargo Truck)",
       "Time": "27:59.034",
       "Player": "frozenhunt",
@@ -2528,7 +2547,7 @@
       "Notes?": "Can WB (Gentle)"
     },
     {
-      "#": "134",
+      "#": "135",
       "Car": "FIB SUV",
       "Time": "28:06.616",
       "Player": "SLIMYYY",
@@ -2547,7 +2566,7 @@
       "Notes?": ""
     },
     {
-      "#": "135",
+      "#": "136",
       "Car": "Faggio",
       "Time": "28:24.035",
       "Player": "frozenhunt",
@@ -2564,25 +2583,6 @@
       "Lighthouse": "27:22",
       "Finish": "28:24",
       "Notes?": ""
-    },
-    {
-      "#": "136",
-      "Car": "Rubble",
-      "Time": "28:36.862",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "1:58",
-      "Wheelspin": "2:11",
-      "Observatory": "5:37",
-      "Route 68": "6:59",
-      "Chiliad": "13:39",
-      "Off Tracks": "16:35",
-      "Hospital Line": "18:47",
-      "Airport": "21:19",
-      "Quarry": "25:02",
-      "Lighthouse": "27:28",
-      "Finish": "28:36",
-      "Notes?": "Can WB (Aggressive)"
     },
     {
       "#": "137",
@@ -3386,6 +3386,25 @@
     },
     {
       "#": "2",
+      "Car": "Bati 801",
+      "Time": "15:20.502",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:41",
+      "Wheelspin": "2:46",
+      "Quarry": "3:43",
+      "Hospital Line": "5:19",
+      "Airport": "6:05",
+      "Route 68": "8:12",
+      "Chiliad": "10:18",
+      "Off Tracks": "11:49",
+      "Observatory": "12:52",
+      "Zancudo Exit": "14:04",
+      "Finish": "15:20",
+      "Notes?": "Hybrid"
+    },
+    {
+      "#": "3",
       "Car": "Akuma",
       "Time": "15:35.468",
       "Player": "frozenhunt",
@@ -3404,7 +3423,7 @@
       "Notes?": "Hybrid"
     },
     {
-      "#": "3",
+      "#": "4",
       "Car": "P-996 LAZER",
       "Time": "15:43.058",
       "Player": "frozenhunt",
@@ -3421,25 +3440,6 @@
       "Zancudo Exit": "N/A",
       "Finish": "15:43",
       "Notes?": ""
-    },
-    {
-      "#": "4",
-      "Car": "Bati 801",
-      "Time": "15:44.025",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:40",
-      "Wheelspin": "2:54",
-      "Quarry": "3:49",
-      "Hospital Line": "5:25",
-      "Airport": "6:10",
-      "Route 68": "8:27",
-      "Chiliad": "10:39",
-      "Off Tracks": "12:10",
-      "Observatory": "13:20",
-      "Zancudo Exit": "14:32",
-      "Finish": "15:44",
-      "Notes?": "Hybrid"
     },
     {
       "#": "5",
@@ -3500,6 +3500,25 @@
     },
     {
       "#": "8",
+      "Car": "Infernus",
+      "Time": "15:58.739",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:41",
+      "Wheelspin": "2:52",
+      "Quarry": "3:54",
+      "Hospital Line": "5:38",
+      "Airport": "6:31",
+      "Route 68": "8:46",
+      "Chiliad": "10:57",
+      "Off Tracks": "12:30",
+      "Observatory": "13:41",
+      "Zancudo Exit": "14:54",
+      "Finish": "15:58",
+      "Notes?": "Hybrid"
+    },
+    {
+      "#": "9",
       "Car": "Comet",
       "Time": "16:00.392",
       "Player": "frozenhunt",
@@ -3518,7 +3537,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "9",
+      "#": "10",
       "Car": "Bullet",
       "Time": "16:01.259",
       "Player": "frozenhunt",
@@ -3535,25 +3554,6 @@
       "Zancudo Exit": "14:55",
       "Finish": "16:01",
       "Notes?": "Elevator"
-    },
-    {
-      "#": "10",
-      "Car": "Infernus",
-      "Time": "16:01.860",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:40",
-      "Wheelspin": "2:49",
-      "Quarry": "3:51",
-      "Hospital Line": "5:36",
-      "Airport": "6:31",
-      "Route 68": "8:47",
-      "Chiliad": "10:58",
-      "Off Tracks": "12:31",
-      "Observatory": "13:41",
-      "Zancudo Exit": "14:56",
-      "Finish": "16:01",
-      "Notes?": "Hybrid"
     },
     {
       "#": "11",
@@ -3709,6 +3709,44 @@
     },
     {
       "#": "19",
+      "Car": "Zion",
+      "Time": "16:34.409",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:40",
+      "Wheelspin": "2:48",
+      "Quarry": "3:55",
+      "Hospital Line": "5:43",
+      "Airport": "6:33",
+      "Route 68": "8:50",
+      "Chiliad": "11:11",
+      "Off Tracks": "12:51",
+      "Observatory": "14:09",
+      "Zancudo Exit": "15:26",
+      "Finish": "16:34",
+      "Notes?": ""
+    },
+    {
+      "#": "20",
+      "Car": "Jackal",
+      "Time": "16:37.763",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:39",
+      "Wheelspin": "2:46",
+      "Quarry": "3:53",
+      "Hospital Line": "5:44",
+      "Airport": "6:35",
+      "Route 68": "8:52",
+      "Chiliad": "11:16",
+      "Off Tracks": "12:54",
+      "Observatory": "14:12",
+      "Zancudo Exit": "15:30",
+      "Finish": "16:37",
+      "Notes?": ""
+    },
+    {
+      "#": "21",
       "Car": "Fusilade",
       "Time": "16:37.764",
       "Player": "frozenhunt",
@@ -3727,26 +3765,7 @@
       "Notes?": ""
     },
     {
-      "#": "20",
-      "Car": "Jackal",
-      "Time": "16:41.656",
-      "Player": "RBSReece",
-      "Link": "Link",
-      "Highway": "2:43",
-      "Wheelspin": "2:54",
-      "Quarry": "4:00",
-      "Hospital Line": "5:48",
-      "Airport": "6:40",
-      "Route 68": "8:56",
-      "Chiliad": "11:19",
-      "Off Tracks": "12:57",
-      "Observatory": "14:16",
-      "Zancudo Exit": "15:34",
-      "Finish": "16:41",
-      "Notes?": ""
-    },
-    {
-      "#": "21",
+      "#": "22",
       "Car": "Oracle",
       "Time": "16:42.885",
       "Player": "frozenhunt",
@@ -3763,25 +3782,6 @@
       "Zancudo Exit": "15:37",
       "Finish": "16:42",
       "Notes?": "Rd. jump - NO"
-    },
-    {
-      "#": "22",
-      "Car": "Zion",
-      "Time": "16:43.986",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:42",
-      "Wheelspin": "2:50",
-      "Quarry": "3:56",
-      "Hospital Line": "5:43",
-      "Airport": "6:36",
-      "Route 68": "8:51",
-      "Chiliad": "11:17",
-      "Off Tracks": "12:57",
-      "Observatory": "14:15",
-      "Zancudo Exit": "15:38",
-      "Finish": "16:43",
-      "Notes?": ""
     },
     {
       "#": "23",
@@ -3975,6 +3975,25 @@
     },
     {
       "#": "33",
+      "Car": "Oracle XS",
+      "Time": "17:07.659",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:41",
+      "Wheelspin": "2:47",
+      "Quarry": "3:57",
+      "Hospital Line": "5:49",
+      "Airport": "6:43",
+      "Route 68": "9:05",
+      "Chiliad": "11:33",
+      "Off Tracks": "13:16",
+      "Observatory": "14:40",
+      "Zancudo Exit": "16:01",
+      "Finish": "17:07",
+      "Notes?": "Rd. jump - NO"
+    },
+    {
+      "#": "34",
       "Car": "Ruiner",
       "Time": "17:07.909",
       "Player": "frozenhunt",
@@ -3993,26 +4012,26 @@
       "Notes?": "Rd. jump - NO"
     },
     {
-      "#": "34",
-      "Car": "Oracle XS",
-      "Time": "17:12.514",
+      "#": "35",
+      "Car": "Schwartzer",
+      "Time": "17:09.677",
       "Player": "frozenhunt",
       "Link": "Link",
-      "Highway": "2:40",
-      "Wheelspin": "2:48",
-      "Quarry": "3:56",
-      "Hospital Line": "5:50",
-      "Airport": "6:47",
-      "Route 68": "9:11",
-      "Chiliad": "11:42",
-      "Off Tracks": "13:24",
-      "Observatory": "14:44",
-      "Zancudo Exit": "16:05",
-      "Finish": "17:12",
+      "Highway": "2:39",
+      "Wheelspin": "2:46",
+      "Quarry": "3:52",
+      "Hospital Line": "5:44",
+      "Airport": "6:40",
+      "Route 68": "9:02",
+      "Chiliad": "11:30",
+      "Off Tracks": "13:14",
+      "Observatory": "14:35",
+      "Zancudo Exit": "16:01",
+      "Finish": "17:09",
       "Notes?": "Rd. jump - NO"
     },
     {
-      "#": "35",
+      "#": "36",
       "Car": "Vader",
       "Time": "17:12.864",
       "Player": "frozenhunt",
@@ -4031,7 +4050,7 @@
       "Notes?": "Hybrid / Hotlap"
     },
     {
-      "#": "36",
+      "#": "37",
       "Car": "Police Cruiser (Interceptor)",
       "Time": "17:15.734",
       "Player": "frozenhunt",
@@ -4050,7 +4069,7 @@
       "Notes?": "Can do Hybrid"
     },
     {
-      "#": "37",
+      "#": "38",
       "Car": "Baller (New)",
       "Time": "17:18.653",
       "Player": "frozenhunt",
@@ -4069,7 +4088,7 @@
       "Notes?": ""
     },
     {
-      "#": "38",
+      "#": "39",
       "Car": "Buccaneer",
       "Time": "17:23.859",
       "Player": "frozenhunt",
@@ -4088,7 +4107,7 @@
       "Notes?": ""
     },
     {
-      "#": "39",
+      "#": "40",
       "Car": "Sentinel XS",
       "Time": "17:27.563",
       "Player": "frozenhunt",
@@ -4107,7 +4126,7 @@
       "Notes?": ""
     },
     {
-      "#": "40",
+      "#": "41",
       "Car": "Sabre Turbo",
       "Time": "17:30.832",
       "Player": "frozenhunt",
@@ -4123,25 +4142,6 @@
       "Observatory": "14:55",
       "Zancudo Exit": "16:16",
       "Finish": "17:30",
-      "Notes?": "Rd. jump - NO"
-    },
-    {
-      "#": "41",
-      "Car": "Schwartzer",
-      "Time": "17:35.471",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:39",
-      "Wheelspin": "2:50",
-      "Quarry": "3:57",
-      "Hospital Line": "5:50",
-      "Airport": "6:47",
-      "Route 68": "9:10",
-      "Chiliad": "11:36",
-      "Off Tracks": "13:21",
-      "Observatory": "14:46",
-      "Zancudo Exit": "16:26",
-      "Finish": "17:35",
       "Notes?": "Rd. jump - NO"
     },
     {
@@ -4288,7 +4288,7 @@
       "Quarry": "4:17",
       "Hospital Line": "6:15",
       "Airport": "7:15",
-      "Route 68": "09:50",
+      "Route 68": "9:50",
       "Chiliad": "12:12",
       "Off Tracks": "13:56",
       "Observatory": "15:18",
@@ -4317,6 +4317,25 @@
     },
     {
       "#": "51",
+      "Car": "Intruder",
+      "Time": "17:58.861",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:39",
+      "Wheelspin": "2:46",
+      "Quarry": "3:59",
+      "Hospital Line": "6:00",
+      "Airport": "6:54",
+      "Route 68": "9:27",
+      "Chiliad": "12:09",
+      "Off Tracks": "13:56",
+      "Observatory": "15:23",
+      "Zancudo Exit": "16:44",
+      "Finish": "17:58",
+      "Notes?": ""
+    },
+    {
+      "#": "52",
       "Car": "Fugitive",
       "Time": "17:59.762",
       "Player": "frozenhunt",
@@ -4335,7 +4354,7 @@
       "Notes?": ""
     },
     {
-      "#": "52",
+      "#": "53",
       "Car": "Asterope",
       "Time": "18:06.352",
       "Player": "frozenhunt",
@@ -4351,25 +4370,6 @@
       "Observatory": "15:29",
       "Zancudo Exit": "16:53",
       "Finish": "18:06",
-      "Notes?": ""
-    },
-    {
-      "#": "53",
-      "Car": "Intruder",
-      "Time": "18:10.923",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:39",
-      "Wheelspin": "2:48",
-      "Quarry": "4:02",
-      "Hospital Line": "6:01",
-      "Airport": "6:57",
-      "Route 68": "9:35",
-      "Chiliad": "12:17",
-      "Off Tracks": "14:04",
-      "Observatory": "15:31",
-      "Zancudo Exit": "16:55",
-      "Finish": "18:10",
       "Notes?": ""
     },
     {
@@ -4402,7 +4402,7 @@
       "Quarry": "4:00",
       "Hospital Line": "5:59",
       "Airport": "7:01",
-      "Route 68": "09:37",
+      "Route 68": "9:37",
       "Chiliad": "12:24",
       "Off Tracks": "14:13",
       "Observatory": "15:40",
@@ -4545,6 +4545,25 @@
     },
     {
       "#": "63",
+      "Car": "Habanero",
+      "Time": "18:34.179",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:38",
+      "Wheelspin": "2:45",
+      "Quarry": "4:00",
+      "Hospital Line": "6:03",
+      "Airport": "7:03",
+      "Route 68": "9:40",
+      "Chiliad": "12:22",
+      "Off Tracks": "14:24",
+      "Observatory": "15:54",
+      "Zancudo Exit": "17:17",
+      "Finish": "18:34",
+      "Notes?": ""
+    },
+    {
+      "#": "64",
       "Car": "Granger",
       "Time": "18:38.433",
       "Player": "frozenhunt",
@@ -4563,7 +4582,7 @@
       "Notes?": ""
     },
     {
-      "#": "64",
+      "#": "65",
       "Car": "FQ 2",
       "Time": "18:42.520",
       "Player": "frozenhunt",
@@ -4582,7 +4601,7 @@
       "Notes?": ""
     },
     {
-      "#": "65",
+      "#": "66",
       "Car": "Baller (Old)",
       "Time": "18:48.694",
       "Player": "frozenhunt",
@@ -4601,7 +4620,7 @@
       "Notes?": "Can WB (Gentle)"
     },
     {
-      "#": "66",
+      "#": "67",
       "Car": "Blista",
       "Time": "18:49.927",
       "Player": "frozenhunt",
@@ -4620,7 +4639,7 @@
       "Notes?": ""
     },
     {
-      "#": "67",
+      "#": "68",
       "Car": "Serrano",
       "Time": "18:50.512",
       "Player": "frozenhunt",
@@ -4639,7 +4658,7 @@
       "Notes?": ""
     },
     {
-      "#": "68",
+      "#": "69",
       "Car": "Issi",
       "Time": "18:51.898",
       "Player": "frozenhunt",
@@ -4655,25 +4674,6 @@
       "Observatory": "16:06",
       "Zancudo Exit": "17:35",
       "Finish": "18:51",
-      "Notes?": ""
-    },
-    {
-      "#": "69",
-      "Car": "Habanero",
-      "Time": "18:52.746",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:39",
-      "Wheelspin": "2:47",
-      "Quarry": "4:04",
-      "Hospital Line": "6:05",
-      "Airport": "7:06",
-      "Route 68": "9:48",
-      "Chiliad": "12:35",
-      "Off Tracks": "14:40",
-      "Observatory": "16:11",
-      "Zancudo Exit": "17:42",
-      "Finish": "18:52",
       "Notes?": ""
     },
     {
@@ -4697,6 +4697,25 @@
     },
     {
       "#": "71",
+      "Car": "Picador",
+      "Time": "19:00.105",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:41",
+      "Wheelspin": "2:48",
+      "Quarry": "4:04",
+      "Hospital Line": "6:11",
+      "Airport": "7:14",
+      "Route 68": "9:59",
+      "Chiliad": "12:45",
+      "Off Tracks": "14:43",
+      "Observatory": "16:13",
+      "Zancudo Exit": "17:41",
+      "Finish": "19:00",
+      "Notes?": ""
+    },
+    {
+      "#": "72",
       "Car": "Premier",
       "Time": "19:04.826",
       "Player": "frozenhunt",
@@ -4715,7 +4734,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "72",
+      "#": "73",
       "Car": "Cavalcade",
       "Time": "19:10.466",
       "Player": "frozenhunt",
@@ -4731,25 +4750,6 @@
       "Observatory": "16:24",
       "Zancudo Exit": "17:55",
       "Finish": "19:10",
-      "Notes?": ""
-    },
-    {
-      "#": "73",
-      "Car": "Picador",
-      "Time": "19:12.250",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:42",
-      "Wheelspin": "2:50",
-      "Quarry": "4:10",
-      "Hospital Line": "6:16",
-      "Airport": "7:19",
-      "Route 68": "10:06",
-      "Chiliad": "12:52",
-      "Off Tracks": "14:53",
-      "Observatory": "16:23",
-      "Zancudo Exit": "17:53",
-      "Finish": "19:12",
       "Notes?": ""
     },
     {
@@ -5324,6 +5324,25 @@
     },
     {
       "#": "104",
+      "Car": "Flatbed",
+      "Time": "23:15.561",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:40",
+      "Wheelspin": "2:49",
+      "Quarry": "4:20",
+      "Hospital Line": "6:46",
+      "Airport": "8:04",
+      "Route 68": "11:18",
+      "Chiliad": "15:03",
+      "Off Tracks": "17:37",
+      "Observatory": "19:36",
+      "Zancudo Exit": "21:28",
+      "Finish": "23:15",
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
+    },
+    {
+      "#": "105",
       "Car": "Emperor",
       "Time": "23:40.268",
       "Player": "frozenhunt",
@@ -5342,7 +5361,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "105",
+      "#": "106",
       "Car": "Rumpo",
       "Time": "23:45.073",
       "Player": "frozenhunt",
@@ -5361,7 +5380,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "106",
+      "#": "107",
       "Car": "Voodoo",
       "Time": "23:46.358",
       "Player": "frozenhunt",
@@ -5380,7 +5399,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "107",
+      "#": "108",
       "Car": "Phantom",
       "Time": "23:48.326",
       "Player": "frozenhunt",
@@ -5397,25 +5416,6 @@
       "Zancudo Exit": "21:58",
       "Finish": "23:48",
       "Notes?": "R68 = Quarry Underpass"
-    },
-    {
-      "#": "108",
-      "Car": "Flatbed",
-      "Time": "23:51.779",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:39",
-      "Wheelspin": "2:48",
-      "Quarry": "4:20",
-      "Hospital Line": "6:55",
-      "Airport": "8:17",
-      "Route 68": "11:42",
-      "Chiliad": "15:37",
-      "Off Tracks": "18:24",
-      "Observatory": "20:24",
-      "Zancudo Exit": "22:08",
-      "Finish": "23:51",
-      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "109",
@@ -5438,6 +5438,25 @@
     },
     {
       "#": "110",
+      "Car": "Pony",
+      "Time": "24:01.089",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:40",
+      "Wheelspin": "4:21",
+      "Quarry": "6:33",
+      "Hospital Line": "8:50",
+      "Airport": "9:58",
+      "Route 68": "12:58",
+      "Chiliad": "16:57",
+      "Off Tracks": "19:04",
+      "Observatory": "20:58",
+      "Zancudo Exit": "22:35",
+      "Finish": "24:01",
+      "Notes?": "R68 = Quarry Underpass"
+    },
+    {
+      "#": "111",
       "Car": "Youga",
       "Time": "24:20.257",
       "Player": "frozenhunt",
@@ -5453,25 +5472,6 @@
       "Observatory": "21:02",
       "Zancudo Exit": "22:44",
       "Finish": "24:20",
-      "Notes?": "R68 = Quarry Underpass"
-    },
-    {
-      "#": "111",
-      "Car": "Pony",
-      "Time": "24:29.650",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:42",
-      "Wheelspin": "4:32",
-      "Quarry": "6:45",
-      "Hospital Line": "9:03",
-      "Airport": "10:11",
-      "Route 68": "13:12",
-      "Chiliad": "17:05",
-      "Off Tracks": "19:25",
-      "Observatory": "21:12",
-      "Zancudo Exit": "22:57",
-      "Finish": "24:29",
       "Notes?": "R68 = Quarry Underpass"
     },
     {
@@ -5514,6 +5514,63 @@
     },
     {
       "#": "114",
+      "Car": "Box Trailer",
+      "Time": "24:49.288",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:40",
+      "Wheelspin": "2:49",
+      "Quarry": "4:20",
+      "Hospital Line": "6:57",
+      "Airport": "8:19",
+      "Route 68": "11:51",
+      "Chiliad": "16:08",
+      "Off Tracks": "19:01",
+      "Observatory": "21:01",
+      "Zancudo Exit": "23:05",
+      "Finish": "24:49",
+      "Notes?": "R68 = Quarry Underpass"
+    },
+    {
+      "#": "115",
+      "Car": "Rubble",
+      "Time": "25:17.849",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:39",
+      "Wheelspin": "2:50",
+      "Quarry": "4:20",
+      "Hospital Line": "6:47",
+      "Airport": "8:10",
+      "Route 68": "11:24",
+      "Chiliad": "16:32",
+      "Off Tracks": "19:15",
+      "Observatory": "21:29",
+      "Zancudo Exit": "23:25",
+      "Finish": "25:17",
+      "Notes?": "R68 = Quarry Underpass / Can WB (Aggressive)"
+    },
+    {
+      "#": "116",
+      "Car": "Flatbed Trailer",
+      "Time": "25:29.277",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:40",
+      "Wheelspin": "2:50",
+      "Quarry": "4:23",
+      "Hospital Line": "7:07",
+      "Airport": "8:38",
+      "Route 68": "12:13",
+      "Chiliad": "17:04",
+      "Off Tracks": "19:53",
+      "Observatory": "21:54",
+      "Zancudo Exit": "23:44",
+      "Finish": "25:29",
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
+    },
+    {
+      "#": "117",
       "Car": "Regina",
       "Time": "25:51.065",
       "Player": "frozenhunt",
@@ -5532,7 +5589,83 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "115",
+      "#": "118",
+      "Car": "Packer",
+      "Time": "26:12.503",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:41",
+      "Wheelspin": "2:49",
+      "Quarry": "4:13",
+      "Hospital Line": "6:33",
+      "Airport": "10:18",
+      "Route 68": "13:21",
+      "Chiliad": "17:03",
+      "Off Tracks": "20:31",
+      "Observatory": "22:30",
+      "Zancudo Exit": "24:17",
+      "Finish": "26:12",
+      "Notes?": "R68 = Quarry Underpass / Can WB (Aggressive)"
+    },
+    {
+      "#": "119",
+      "Car": "Pigalle",
+      "Time": "26:26.250",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:41",
+      "Wheelspin": "11:11",
+      "Quarry": "13:37",
+      "Hospital Line": "15:23",
+      "Airport": "16:17",
+      "Route 68": "18:31",
+      "Chiliad": "20:59",
+      "Off Tracks": "22:43",
+      "Observatory": "24:02",
+      "Zancudo Exit": "25:20",
+      "Finish": "26:26",
+      "Notes?": ""
+    },
+    {
+      "#": "120",
+      "Car": "Utility Truck (Cargo Truck)",
+      "Time": "26:37.096",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:42",
+      "Wheelspin": "2:50",
+      "Quarry": "4:29",
+      "Hospital Line": "7:17",
+      "Airport": "8:44",
+      "Route 68": "12:09",
+      "Chiliad": "18:31",
+      "Off Tracks": "21:22",
+      "Observatory": "23:36",
+      "Zancudo Exit": "25:14",
+      "Finish": "26:37",
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
+    },
+    {
+      "#": "121",
+      "Car": "Mixer (6 wheels)",
+      "Time": "26:38.813",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:41",
+      "Wheelspin": "2:52",
+      "Quarry": "4:26",
+      "Hospital Line": "7:02",
+      "Airport": "8:24",
+      "Route 68": "11:40",
+      "Chiliad": "18:09",
+      "Off Tracks": "20:52",
+      "Observatory": "23:12",
+      "Zancudo Exit": "24:59",
+      "Finish": "26:38",
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
+    },
+    {
+      "#": "122",
       "Car": "Utility Trailer",
       "Time": "26:49.374",
       "Player": "frozenhunt",
@@ -5551,83 +5684,45 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "116",
-      "Car": "Mixer (6 wheels)",
-      "Time": "26:58.317",
+      "#": "123",
+      "Car": "Jester",
+      "Time": "26:54.695",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:42",
+      "Wheelspin": "11:59",
+      "Quarry": "14:28",
+      "Hospital Line": "16:15",
+      "Airport": "17:08",
+      "Route 68": "19:22",
+      "Chiliad": "21:35",
+      "Off Tracks": "23:20",
+      "Observatory": "24:35",
+      "Zancudo Exit": "25:51",
+      "Finish": "26:54",
+      "Notes?": "Elevator"
+    },
+    {
+      "#": "124",
+      "Car": "Hakuchou",
+      "Time": "27:13.698",
       "Player": "frozenhunt",
       "Link": "Link",
       "Highway": "2:41",
-      "Wheelspin": "2:49",
-      "Quarry": "4:24",
-      "Hospital Line": "6:57",
-      "Airport": "8:17",
-      "Route 68": "11:25",
-      "Chiliad": "18:04",
-      "Off Tracks": "20:54",
-      "Observatory": "23:16",
-      "Zancudo Exit": "25:05",
-      "Finish": "26:58",
-      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
+      "Wheelspin": "11:30",
+      "Quarry": "14:26",
+      "Hospital Line": "16:05",
+      "Airport": "17:04",
+      "Route 68": "19:55",
+      "Chiliad": "22:02",
+      "Off Tracks": "23:36",
+      "Observatory": "24:46",
+      "Zancudo Exit": "25:58",
+      "Finish": "27:13",
+      "Notes?": "Hybrid"
     },
     {
-      "#": "117",
-      "Car": "Utility Truck (Cargo Truck)",
-      "Time": "27:01.453",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:40",
-      "Wheelspin": "2:52",
-      "Quarry": "4:33",
-      "Hospital Line": "7:20",
-      "Airport": "8:39",
-      "Route 68": "12:19",
-      "Chiliad": "18:15",
-      "Off Tracks": "20:50",
-      "Observatory": "23:21",
-      "Zancudo Exit": "25:12",
-      "Finish": "27:01",
-      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
-    },
-    {
-      "#": "118",
-      "Car": "Rubble",
-      "Time": "27:04.472",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:46",
-      "Wheelspin": "2:57",
-      "Quarry": "4:29",
-      "Hospital Line": "7:04",
-      "Airport": "9:24",
-      "Route 68": "12:52",
-      "Chiliad": "18:15",
-      "Off Tracks": "21:08",
-      "Observatory": "23:26",
-      "Zancudo Exit": "25:10",
-      "Finish": "27:04",
-      "Notes?": "R68 = Quarry Underpass / Can WB (Aggressive)"
-    },
-    {
-      "#": "119",
-      "Car": "Flatbed Trailer",
-      "Time": "27:05.524",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:44",
-      "Wheelspin": "2:56",
-      "Quarry": "4:30",
-      "Hospital Line": "7:16",
-      "Airport": "9:33",
-      "Route 68": "13:10",
-      "Chiliad": "17:32",
-      "Off Tracks": "20:47",
-      "Observatory": "23:04",
-      "Zancudo Exit": "25:07",
-      "Finish": "27:05",
-      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
-    },
-    {
-      "#": "120",
+      "#": "125",
       "Car": "Scrap Truck",
       "Time": "27:30.949",
       "Player": "frozenhunt",
@@ -5646,7 +5741,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "121",
+      "#": "126",
       "Car": "Alpha",
       "Time": "27:41.442",
       "Player": "frozenhunt",
@@ -5665,7 +5760,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "122",
+      "#": "127",
       "Car": "Furore GT",
       "Time": "27:49.635",
       "Player": "SMGWolfmanz",
@@ -5684,7 +5779,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "123",
+      "#": "128",
       "Car": "Mixer (8 wheels)",
       "Time": "27:53.254",
       "Player": "frozenhunt",
@@ -5703,7 +5798,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Aggressive)"
     },
     {
-      "#": "124",
+      "#": "129",
       "Car": "Thrust",
       "Time": "27:53.922",
       "Player": "frozenhunt",
@@ -5722,7 +5817,7 @@
       "Notes?": "Hotlap"
     },
     {
-      "#": "125",
+      "#": "130",
       "Car": "Dukes",
       "Time": "27:54.655",
       "Player": "frozenhunt",
@@ -5741,7 +5836,7 @@
       "Notes?": ""
     },
     {
-      "#": "126",
+      "#": "131",
       "Car": "Rhapsody",
       "Time": "28:14.024",
       "Player": "frozenhunt",
@@ -5760,7 +5855,7 @@
       "Notes?": ""
     },
     {
-      "#": "127",
+      "#": "132",
       "Car": "Utility Truck (Van)",
       "Time": "28:21.765",
       "Player": "frozenhunt",
@@ -5779,45 +5874,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "128",
-      "Car": "Pigalle",
-      "Time": "28:32.493",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:46",
-      "Wheelspin": "12:07",
-      "Quarry": "14:51",
-      "Hospital Line": "16:40",
-      "Airport": "17:35",
-      "Route 68": "19:51",
-      "Chiliad": "22:24",
-      "Off Tracks": "24:17",
-      "Observatory": "25:36",
-      "Zancudo Exit": "26:54",
-      "Finish": "28:32",
-      "Notes?": ""
-    },
-    {
-      "#": "129",
-      "Car": "Jester",
-      "Time": "28:38.850",
-      "Player": "SLIMYYY",
-      "Link": "Link",
-      "Highway": "2:44",
-      "Wheelspin": "12:44",
-      "Quarry": "15:23",
-      "Hospital Line": "17:12",
-      "Airport": "18:09",
-      "Route 68": "20:29",
-      "Chiliad": "22:51",
-      "Off Tracks": "24:43",
-      "Observatory": "26:01",
-      "Zancudo Exit": "27:28",
-      "Finish": "28:38",
-      "Notes?": "Elevator"
-    },
-    {
-      "#": "130",
+      "#": "133",
       "Car": "Stallion",
       "Time": "28:57.952",
       "Player": "frozenhunt",
@@ -5836,7 +5893,7 @@
       "Notes?": ""
     },
     {
-      "#": "131",
+      "#": "134",
       "Car": "Blista Compact",
       "Time": "29:02.157",
       "Player": "frozenhunt",
@@ -5855,7 +5912,7 @@
       "Notes?": ""
     },
     {
-      "#": "132",
+      "#": "135",
       "Car": "Faggio",
       "Time": "29:08.379",
       "Player": "frozenhunt",
@@ -5874,7 +5931,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "133",
+      "#": "136",
       "Car": "Hauler",
       "Time": "29:08.830",
       "Player": "frozenhunt",
@@ -5893,7 +5950,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
-      "#": "134",
+      "#": "137",
       "Car": "Glendale",
       "Time": "29:15.402",
       "Player": "frozenhunt",
@@ -5912,7 +5969,7 @@
       "Notes?": ""
     },
     {
-      "#": "135",
+      "#": "138",
       "Car": "Tipper (6 wheels)",
       "Time": "29:24.712",
       "Player": "frozenhunt",
@@ -5931,7 +5988,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "136",
+      "#": "139",
       "Car": "Dashound",
       "Time": "29:35.757",
       "Player": "frozenhunt",
@@ -5950,7 +6007,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "137",
+      "#": "140",
       "Car": "Dock Trailer",
       "Time": "29:54.259",
       "Player": "frozenhunt",
@@ -5969,26 +6026,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "138",
-      "Car": "Packer",
-      "Time": "29:56.045",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:43",
-      "Wheelspin": "3:02",
-      "Quarry": "4:27",
-      "Hospital Line": "6:55",
-      "Airport": "13:12",
-      "Route 68": "16:22",
-      "Chiliad": "20:43",
-      "Off Tracks": "24:01",
-      "Observatory": "26:02",
-      "Zancudo Exit": "27:55",
-      "Finish": "29:56",
-      "Notes?": "R68 = Quarry Underpass / Can WB (Aggressive)"
-    },
-    {
-      "#": "139",
+      "#": "141",
       "Car": "Crusader",
       "Time": "29:57.248",
       "Player": "frozenhunt",
@@ -6007,7 +6045,7 @@
       "Notes?": ""
     },
     {
-      "#": "140",
+      "#": "142",
       "Car": "Warrener",
       "Time": "29:58.063",
       "Player": "frozenhunt",
@@ -6026,7 +6064,7 @@
       "Notes?": ""
     },
     {
-      "#": "141",
+      "#": "143",
       "Car": "Police Riot",
       "Time": "30:04.650",
       "Player": "frozenhunt",
@@ -6045,7 +6083,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "142",
+      "#": "144",
       "Car": "Panto",
       "Time": "30:07.955",
       "Player": "frozenhunt",
@@ -6064,26 +6102,7 @@
       "Notes?": ""
     },
     {
-      "#": "143",
-      "Car": "Box Trailer",
-      "Time": "30:26.158*",
-      "Player": "SLIMYYY",
-      "Link": "Link",
-      "Highway": "2:44",
-      "Wheelspin": "3:35",
-      "Quarry": "5:05",
-      "Hospital Line": "7:48",
-      "Airport": "11:16",
-      "Route 68": "15:19",
-      "Chiliad": "19:58",
-      "Off Tracks": "23:49",
-      "Observatory": "25:58",
-      "Zancudo Exit": "28:23",
-      "Finish": "30:26",
-      "Notes?": "R68 = Quarry Underpass"
-    },
-    {
-      "#": "144",
+      "#": "145",
       "Car": "Camper",
       "Time": "30:28.542",
       "Player": "frozenhunt",
@@ -6102,7 +6121,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "145",
+      "#": "146",
       "Car": "Caddy",
       "Time": "30:49.514",
       "Player": "frozenhunt",
@@ -6121,7 +6140,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "146",
+      "#": "147",
       "Car": "Journey",
       "Time": "30:59.791",
       "Player": "frozenhunt",
@@ -6140,7 +6159,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
-      "#": "147",
+      "#": "148",
       "Car": "Tipper (4 wheels)",
       "Time": "31:23.932",
       "Player": "frozenhunt",
@@ -6159,7 +6178,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "148",
+      "#": "149",
       "Car": "Barracks Semi",
       "Time": "31:50.808",
       "Player": "frozenhunt",
@@ -6176,25 +6195,6 @@
       "Zancudo Exit": "30:00",
       "Finish": "31:50",
       "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
-    },
-    {
-      "#": "149",
-      "Car": "Hakuchou",
-      "Time": "32:09.860",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:37",
-      "Wheelspin": "16:36",
-      "Quarry": "19:05",
-      "Hospital Line": "20:44",
-      "Airport": "21:38",
-      "Route 68": "23:56",
-      "Chiliad": "26:04",
-      "Off Tracks": "27:46",
-      "Observatory": "28:51",
-      "Zancudo Exit": "30:03",
-      "Finish": "32:09",
-      "Notes?": "Hybrid"
     },
     {
       "#": "150",
@@ -6236,6 +6236,44 @@
     },
     {
       "#": "152",
+      "Car": "Logs Trailer",
+      "Time": "34:55.409",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:40",
+      "Wheelspin": "3:25",
+      "Quarry": "5:17",
+      "Hospital Line": "8:39",
+      "Airport": "11:57",
+      "Route 68": "16:30",
+      "Chiliad": "24:33",
+      "Off Tracks": "28:07",
+      "Observatory": "30:38",
+      "Zancudo Exit": "32:51",
+      "Finish": "34:55",
+      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
+    },
+    {
+      "#": "153",
+      "Car": "Bus",
+      "Time": "35:49.280",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "2:40",
+      "Wheelspin": "5:29",
+      "Quarry": "6:45",
+      "Hospital Line": "10:02",
+      "Airport": "12:33",
+      "Route 68": "16:35",
+      "Chiliad": "25:16",
+      "Off Tracks": "28:51",
+      "Observatory": "31:38",
+      "Zancudo Exit": "33:49",
+      "Finish": "35:49",
+      "Notes?": "R68 = Quarry Underpass"
+    },
+    {
+      "#": "154",
       "Car": "Biff",
       "Time": "36:11.735",
       "Player": "frozenhunt",
@@ -6254,7 +6292,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
-      "#": "153",
+      "#": "155",
       "Car": "Barracks",
       "Time": "36:28.837",
       "Player": "frozenhunt",
@@ -6273,7 +6311,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Aggressive)"
     },
     {
-      "#": "154",
+      "#": "156",
       "Car": "Utility Truck (Cherry Picker)",
       "Time": "37:10.828",
       "Player": "frozenhunt",
@@ -6292,7 +6330,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "155",
+      "#": "157",
       "Car": "Trashmaster",
       "Time": "37:53.154",
       "Player": "frozenhunt",
@@ -6309,44 +6347,6 @@
       "Zancudo Exit": "36:02",
       "Finish": "37:53",
       "Notes?": "R68 = Quarry Underpass"
-    },
-    {
-      "#": "156",
-      "Car": "Bus",
-      "Time": "38:51.045",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:48",
-      "Wheelspin": "6:07",
-      "Quarry": "8:17",
-      "Hospital Line": "11:37",
-      "Airport": "14:13",
-      "Route 68": "18:21",
-      "Chiliad": "27:37",
-      "Off Tracks": "31:21",
-      "Observatory": "34:37",
-      "Zancudo Exit": "36:46",
-      "Finish": "38:51",
-      "Notes?": "R68 = Quarry Underpass"
-    },
-    {
-      "#": "157",
-      "Car": "Logs Trailer",
-      "Time": "39:17.838",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "2:42",
-      "Wheelspin": "4:31",
-      "Quarry": "6:12",
-      "Hospital Line": "9:27",
-      "Airport": "13:06",
-      "Route 68": "17:36",
-      "Chiliad": "28:47",
-      "Off Tracks": "32:32",
-      "Observatory": "35:04",
-      "Zancudo Exit": "37:14",
-      "Finish": "39:17",
-      "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
       "#": "158",
