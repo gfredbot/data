@@ -2605,6 +2605,25 @@
     },
     {
       "#": "138",
+      "Car": "Tipper (6 wheels)",
+      "Time": "29:51.670",
+      "Player": "frozenhunt",
+      "Link": "Link",
+      "Highway": "01:57",
+      "Wheelspin": "02:15",
+      "Observatory": "06:06",
+      "Route 68": "07:29",
+      "Chiliad": "15:10",
+      "Off Tracks": "17:52",
+      "Hospital Line": "20:31",
+      "Airport": "22:05",
+      "Quarry": "26:30",
+      "Lighthouse": "28:43",
+      "Finish": "29:51",
+      "Notes?": ""
+    },
+    {
+      "#": "139",
       "Car": "Utility Truck (Van)",
       "Time": "30:03.700",
       "Player": "frozenhunt",
@@ -2623,7 +2642,7 @@
       "Notes?": ""
     },
     {
-      "#": "139",
+      "#": "140",
       "Car": "Tipper (4 wheels)",
       "Time": "30:50.963",
       "Player": "frozenhunt",
@@ -2642,7 +2661,7 @@
       "Notes?": ""
     },
     {
-      "#": "140",
+      "#": "141",
       "Car": "Journey",
       "Time": "30:54.667",
       "Player": "frozenhunt",
@@ -2661,7 +2680,7 @@
       "Notes?": "Can WB (Gentle)"
     },
     {
-      "#": "141",
+      "#": "142",
       "Car": "Warrener",
       "Time": "31:11.151",
       "Player": "frozenhunt",
@@ -2680,7 +2699,7 @@
       "Notes?": ""
     },
     {
-      "#": "142",
+      "#": "143",
       "Car": "Glendale",
       "Time": "31:13.904",
       "Player": "frozenhunt",
@@ -2699,7 +2718,7 @@
       "Notes?": ""
     },
     {
-      "#": "143",
+      "#": "144",
       "Car": "Biff",
       "Time": "31:20.643",
       "Player": "frozenhunt",
@@ -2718,7 +2737,7 @@
       "Notes?": "Can WB (Gentle)"
     },
     {
-      "#": "144",
+      "#": "145",
       "Car": "Camper",
       "Time": "31:22.779",
       "Player": "frozenhunt",
@@ -2737,7 +2756,7 @@
       "Notes?": ""
     },
     {
-      "#": "145",
+      "#": "146",
       "Car": "Rhapsody",
       "Time": "31:27.584",
       "Player": "frozenhunt",
@@ -2756,7 +2775,7 @@
       "Notes?": ""
     },
     {
-      "#": "146",
+      "#": "147",
       "Car": "Dashound",
       "Time": "32:01.573",
       "Player": "frozenhunt",
@@ -2775,7 +2794,7 @@
       "Notes?": ""
     },
     {
-      "#": "147",
+      "#": "148",
       "Car": "Barracks",
       "Time": "32:51.284",
       "Player": "frozenhunt",
@@ -2792,25 +2811,6 @@
       "Lighthouse": "31:39",
       "Finish": "32:51",
       "Notes?": "Can WB (Aggressive)"
-    },
-    {
-      "#": "148",
-      "Car": "Tipper (6 wheels)",
-      "Time": "32:53.707",
-      "Player": "frozenhunt",
-      "Link": "Link",
-      "Highway": "1:56",
-      "Wheelspin": "2:09",
-      "Observatory": "6:03",
-      "Route 68": "7:26",
-      "Chiliad": "17:36",
-      "Off Tracks": "20:43",
-      "Hospital Line": "23:15",
-      "Airport": "25:24",
-      "Quarry": "29:39",
-      "Lighthouse": "31:47",
-      "Finish": "32:53",
-      "Notes?": ""
     },
     {
       "#": "149",
