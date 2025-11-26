@@ -6865,6 +6865,25 @@
     },
     {
       "#": "8",
+      "Car": "Surano",
+      "Time": "16:04.084",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:57",
+      "Wheelspin": "02:07",
+      "Observatory": "04:04",
+      "Route 68": "04:56",
+      "Chiliad": "07:12",
+      "Off Tracks": "08:49",
+      "Hospital Line": "10:23",
+      "Airport": "11:16",
+      "Quarry": "13:49",
+      "Lighthouse": "15:38",
+      "Finish": "16:04",
+      "Notes?": "Elevator"
+    },
+    {
+      "#": "9",
       "Car": "Bullet",
       "Time": "16:09.106",
       "Player": "Rj_Igor",
@@ -6883,7 +6902,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "9",
+      "#": "10",
       "Car": "Comet",
       "Time": "16:09.233",
       "Player": "Rj_Igor",
@@ -6902,7 +6921,7 @@
       "Notes?": "Elevator"
     },
     {
-      "#": "10",
+      "#": "11",
       "Car": "Akuma",
       "Time": "16:11.008",
       "Player": "Rj_Igor",
@@ -6919,25 +6938,6 @@
       "Lighthouse": "15:44",
       "Finish": "16:11",
       "Notes?": "Hybrid"
-    },
-    {
-      "#": "11",
-      "Car": "Surano",
-      "Time": "16:15.055",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:57",
-      "Wheelspin": "02:06",
-      "Observatory": "04:07",
-      "Route 68": "05:00",
-      "Chiliad": "07:18",
-      "Off Tracks": "08:56",
-      "Hospital Line": "10:28",
-      "Airport": "11:24",
-      "Quarry": "14:02",
-      "Lighthouse": "15:49",
-      "Finish": "16:15",
-      "Notes?": "Elevator"
     },
     {
       "#": "12",
@@ -9107,6 +9107,25 @@
     },
     {
       "#": "126",
+      "Car": "Utility Truck (Cargo Truck)",
+      "Time": "29:53.288",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:58",
+      "Wheelspin": "02:13",
+      "Observatory": "05:38",
+      "Route 68": "06:56",
+      "Chiliad": "14:41",
+      "Off Tracks": "18:21",
+      "Hospital Line": "20:42",
+      "Airport": "22:58",
+      "Quarry": "26:43",
+      "Lighthouse": "28:41",
+      "Finish": "29:53",
+      "Notes?": "Can WB (Gentle)"
+    },
+    {
+      "#": "127",
       "Car": "Warrener",
       "Time": "30:36.192",
       "Player": "Rj_Igor",
@@ -9125,7 +9144,7 @@
       "Notes?": ""
     },
     {
-      "#": "127",
+      "#": "128",
       "Car": "Scrap Truck",
       "Time": "30:51.141",
       "Player": "HeavyFlavor",
@@ -9144,7 +9163,7 @@
       "Notes?": ""
     },
     {
-      "#": "128",
+      "#": "129",
       "Car": "Tipper (6 wheels)",
       "Time": "30:56.197",
       "Player": "Rj_Igor",
@@ -9163,7 +9182,7 @@
       "Notes?": ""
     },
     {
-      "#": "129",
+      "#": "130",
       "Car": "Camper",
       "Time": "31:16.345",
       "Player": "Rj_Igor",
@@ -9182,7 +9201,7 @@
       "Notes?": ""
     },
     {
-      "#": "130",
+      "#": "131",
       "Car": "Rhapsody",
       "Time": "31:24.415",
       "Player": "Rj_Igor",
@@ -9201,7 +9220,7 @@
       "Notes?": ""
     },
     {
-      "#": "131",
+      "#": "132",
       "Car": "Voodoo",
       "Time": "31:34.245",
       "Player": "HeavyFlavor",
@@ -9220,7 +9239,7 @@
       "Notes?": ""
     },
     {
-      "#": "132",
+      "#": "133",
       "Car": "Dashound",
       "Time": "32:16.918",
       "Player": "HeavyFlavor",
@@ -9237,25 +9256,6 @@
       "Lighthouse": "31:13",
       "Finish": "32:16",
       "Notes?": ""
-    },
-    {
-      "#": "133",
-      "Car": "Utility Truck (Cargo Truck)",
-      "Time": "32:19.581",
-      "Player": "HeavyFlavor",
-      "Link": "Link",
-      "Highway": "01:57",
-      "Wheelspin": "02:09",
-      "Observatory": "05:56",
-      "Route 68": "07:19",
-      "Chiliad": "17:24",
-      "Off Tracks": "20:30",
-      "Hospital Line": "23:01",
-      "Airport": "25:09",
-      "Quarry": "29:01",
-      "Lighthouse": "31:10",
-      "Finish": "32:19",
-      "Notes?": "Can WB (Gentle)"
     },
     {
       "#": "134",
@@ -11998,20 +11998,20 @@
     {
       "#": "101",
       "Car": "Emperor",
-      "Time": "23:27.768",
-      "Player": "SMGWolfmanz",
+      "Time": "23:25.041",
+      "Player": "Rj_Igor",
       "Link": "Link",
       "Highway": "02:40",
       "Wheelspin": "02:49",
-      "Quarry": "04:16",
-      "Hospital Line": "06:45",
-      "Airport": "07:56",
-      "Route 68": "11:08",
-      "Chiliad": "15:27",
-      "Off Tracks": "17:44",
-      "Observatory": "19:56",
-      "Zancudo Exit": "21:37",
-      "Finish": "23:27",
+      "Quarry": "04:19",
+      "Hospital Line": "06:47",
+      "Airport": "07:59",
+      "Route 68": "11:12",
+      "Chiliad": "16:04",
+      "Off Tracks": "18:12",
+      "Observatory": "20:14",
+      "Zancudo Exit": "21:54",
+      "Finish": "23:25",
       "Notes?": "R68 = Quarry Underpass"
     },
     {
@@ -12795,25 +12795,6 @@
     },
     {
       "#": "143",
-      "Car": "Feet (Walking)",
-      "Time": "l   307:26.369   |",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "N/A",
-      "Wheelspin": "N/A",
-      "Quarry": "31:02",
-      "Hospital Line": "76:23",
-      "Airport": "103:39",
-      "Route 68": "160:33",
-      "Chiliad": "207:05",
-      "Off Tracks": "235:57",
-      "Observatory": "262:01",
-      "Zancudo Exit": "291:48",
-      "Finish": "307:26",
-      "Notes?": ""
-    },
-    {
-      "#": "144",
       "Car": "Barracks Semi",
       "Time": "31:02.653",
       "Player": "Rj_Igor",
@@ -12832,7 +12813,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
-      "#": "145",
+      "#": "144",
       "Car": "Biff",
       "Time": "31:09.925",
       "Player": "Rj_Igor",
@@ -12851,7 +12832,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
-      "#": "146",
+      "#": "145",
       "Car": "Tipper (4 wheels)",
       "Time": "31:12.005",
       "Player": "Rj_Igor",
@@ -12870,7 +12851,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "147",
+      "#": "146",
       "Car": "Camper",
       "Time": "31:14.194",
       "Player": "Rj_Igor",
@@ -12889,7 +12870,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "148",
+      "#": "147",
       "Car": "Dashound",
       "Time": "31:24.240",
       "Player": "Rj_Igor",
@@ -12908,7 +12889,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "149",
+      "#": "148",
       "Car": "Dock Trailer",
       "Time": "31:27.956*",
       "Player": "Rj_Igor",
@@ -12927,7 +12908,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "150",
+      "#": "149",
       "Car": "Faggio",
       "Time": "31:45.641",
       "Player": "Rj_Igor",
@@ -12946,7 +12927,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "151",
+      "#": "150",
       "Car": "Pounder",
       "Time": "32:16.684*",
       "Player": "Rj_Igor",
@@ -12965,7 +12946,7 @@
       "Notes?": "Can WB (Aggressive)"
     },
     {
-      "#": "152",
+      "#": "151",
       "Car": "Ramp Door Trailer",
       "Time": "34:05.996*",
       "Player": "Rj_Igor",
@@ -12984,7 +12965,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "153",
+      "#": "152",
       "Car": "Bus",
       "Time": "34:52.438",
       "Player": "Rj_Igor",
@@ -13003,7 +12984,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "154",
+      "#": "153",
       "Car": "Journey",
       "Time": "35:01.338",
       "Player": "SMGWolfmanz",
@@ -13022,7 +13003,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
-      "#": "155",
+      "#": "154",
       "Car": "Caddy",
       "Time": "35:01.426",
       "Player": "Rj_Igor",
@@ -13041,7 +13022,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "156",
+      "#": "155",
       "Car": "Barracks",
       "Time": "35:41.833",
       "Player": "Rj_Igor",
@@ -13060,7 +13041,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Aggressive)"
     },
     {
-      "#": "157",
+      "#": "156",
       "Car": "Box Trailer",
       "Time": "36:16.825",
       "Player": "Rj_Igor",
@@ -13079,7 +13060,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "158",
+      "#": "157",
       "Car": "Utility Truck (Cherry Picker)",
       "Time": "36:42.141",
       "Player": "Rj_Igor",
@@ -13098,7 +13079,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "159",
+      "#": "158",
       "Car": "Logs Trailer",
       "Time": "37:23.562",
       "Player": "Rj_Igor",
@@ -13117,7 +13098,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
-      "#": "160",
+      "#": "159",
       "Car": "Trashmaster",
       "Time": "38:23.265",
       "Player": "Rj_Igor",
@@ -13136,7 +13117,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "161",
+      "#": "160",
       "Car": "Mule",
       "Time": "38:53.966",
       "Player": "Rj_Igor",
@@ -13155,7 +13136,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
-      "#": "162",
+      "#": "161",
       "Car": "Surfer",
       "Time": "41:25.305",
       "Player": "SMGWolfmanz",
@@ -13174,7 +13155,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "163",
+      "#": "162",
       "Car": "Seashark",
       "Time": "44:05.773*",
       "Player": "Rj_Igor",
@@ -13193,7 +13174,7 @@
       "Notes?": ""
     },
     {
-      "#": "164",
+      "#": "163",
       "Car": "Feet (Open)",
       "Time": "44:20.698",
       "Player": "BloodySquirrels",
@@ -13212,7 +13193,7 @@
       "Notes?": "R68 = Quarry Underpass / Run Fast allowed"
     },
     {
-      "#": "165",
+      "#": "164",
       "Car": "Dinghy",
       "Time": "45:34.641*",
       "Player": "Rj_Igor",
@@ -13231,7 +13212,7 @@
       "Notes?": ""
     },
     {
-      "#": "166",
+      "#": "165",
       "Car": "Tropic",
       "Time": "46:27.848*",
       "Player": "Rj_Igor",
@@ -13250,7 +13231,7 @@
       "Notes?": ""
     },
     {
-      "#": "167",
+      "#": "166",
       "Car": "Squalo",
       "Time": "46:31.831*",
       "Player": "Rj_Igor",
@@ -13269,7 +13250,7 @@
       "Notes?": ""
     },
     {
-      "#": "168",
+      "#": "167",
       "Car": "Jetmax",
       "Time": "46:42.498*",
       "Player": "Rj_Igor",
@@ -13288,7 +13269,7 @@
       "Notes?": ""
     },
     {
-      "#": "169",
+      "#": "168",
       "Car": "Suntrap",
       "Time": "49:19.260*",
       "Player": "Rj_Igor",
@@ -13307,7 +13288,7 @@
       "Notes?": ""
     },
     {
-      "#": "170",
+      "#": "169",
       "Car": "Scorcher",
       "Time": "49:23.096",
       "Player": "Rj_Igor",
@@ -13324,6 +13305,25 @@
       "Zancudo Exit": "47:05",
       "Finish": "49:23",
       "Notes?": ""
+    },
+    {
+      "#": "170",
+      "Car": "Fieldmaster",
+      "Time": "51:57.293",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:41",
+      "Wheelspin": "03:12",
+      "Quarry": "06:11",
+      "Hospital Line": "11:29",
+      "Airport": "15:12",
+      "Route 68": "22:54",
+      "Chiliad": "36:06",
+      "Off Tracks": "40:07",
+      "Observatory": "45:34",
+      "Zancudo Exit": "49:03",
+      "Finish": "51:57",
+      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "171",
@@ -13346,25 +13346,6 @@
     },
     {
       "#": "172",
-      "Car": "Fieldmaster",
-      "Time": "52:43.930",
-      "Player": "SMGWolfmanz",
-      "Link": "Link",
-      "Highway": "02:51",
-      "Wheelspin": "04:03",
-      "Quarry": "06:14",
-      "Hospital Line": "11:44",
-      "Airport": "15:27",
-      "Route 68": "23:08",
-      "Chiliad": "36:58",
-      "Off Tracks": "41:10",
-      "Observatory": "46:24",
-      "Zancudo Exit": "49:46",
-      "Finish": "52:43",
-      "Notes?": "R68 = Quarry Underpass"
-    },
-    {
-      "#": "173",
       "Car": "BMX",
       "Time": "54:30.366",
       "Player": "Rj_Igor",
@@ -13383,7 +13364,7 @@
       "Notes?": ""
     },
     {
-      "#": "174",
+      "#": "173",
       "Car": "Cruiser (Bicycle)",
       "Time": "62:03.232",
       "Player": "SMGWolfmanz",
@@ -13402,7 +13383,7 @@
       "Notes?": ""
     },
     {
-      "#": "175",
+      "#": "174",
       "Car": "Taco Van",
       "Time": "70:08.438",
       "Player": "HeavyFlavor",
@@ -13421,7 +13402,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
-      "#": "176",
+      "#": "175",
       "Car": "Feet (Traditional)",
       "Time": "72:22.811",
       "Player": "BloodySquirrels",
@@ -13440,7 +13421,7 @@
       "Notes?": ""
     },
     {
-      "#": "177",
+      "#": "176",
       "Car": "Tanker Trailer",
       "Time": "l   102:57.812   l",
       "Player": "Rj_Igor",
@@ -13457,6 +13438,25 @@
       "Zancudo Exit": "100:33",
       "Finish": "102:57",
       "Notes?": "R68 = Quarry Underpass"
+    },
+    {
+      "#": "177",
+      "Car": "Feet (Walking)",
+      "Time": "l   307:26.369   |",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "N/A",
+      "Quarry": "31:02",
+      "Hospital Line": "76:23",
+      "Airport": "103:39",
+      "Route 68": "160:33",
+      "Chiliad": "207:05",
+      "Off Tracks": "235:57",
+      "Observatory": "262:01",
+      "Zancudo Exit": "291:48",
+      "Finish": "307:26",
+      "Notes?": ""
     }
   ]
 }
