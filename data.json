@@ -12776,6 +12776,25 @@
     },
     {
       "#": "142",
+      "Car": "Dashound",
+      "Time": "30:13.285",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:40",
+      "Wheelspin": "02:50",
+      "Quarry": "04:34",
+      "Hospital Line": "07:27",
+      "Airport": "09:42",
+      "Route 68": "13:19",
+      "Chiliad": "19:03",
+      "Off Tracks": "22:42",
+      "Observatory": "25:22",
+      "Zancudo Exit": "28:07",
+      "Finish": "30:13",
+      "Notes?": "R68 = Quarry Underpass"
+    },
+    {
+      "#": "143",
       "Car": "Police Riot",
       "Time": "30:35.785",
       "Player": "Rj_Igor",
@@ -12794,7 +12813,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "143",
+      "#": "144",
       "Car": "Barracks Semi",
       "Time": "31:02.653",
       "Player": "Rj_Igor",
@@ -12813,7 +12832,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
-      "#": "144",
+      "#": "145",
       "Car": "Biff",
       "Time": "31:09.925",
       "Player": "Rj_Igor",
@@ -12832,7 +12851,7 @@
       "Notes?": "R68 = Quarry Underpass / Can WB (Gentle)"
     },
     {
-      "#": "145",
+      "#": "146",
       "Car": "Tipper (4 wheels)",
       "Time": "31:12.005",
       "Player": "Rj_Igor",
@@ -12851,7 +12870,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "146",
+      "#": "147",
       "Car": "Camper",
       "Time": "31:14.194",
       "Player": "Rj_Igor",
@@ -12867,25 +12886,6 @@
       "Observatory": "27:15",
       "Zancudo Exit": "29:07",
       "Finish": "31:14",
-      "Notes?": "R68 = Quarry Underpass"
-    },
-    {
-      "#": "147",
-      "Car": "Dashound",
-      "Time": "31:24.240",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:41",
-      "Wheelspin": "02:58",
-      "Quarry": "04:43",
-      "Hospital Line": "07:31",
-      "Airport": "09:52",
-      "Route 68": "13:27",
-      "Chiliad": "19:56",
-      "Off Tracks": "23:48",
-      "Observatory": "26:25",
-      "Zancudo Exit": "29:17",
-      "Finish": "31:24",
       "Notes?": "R68 = Quarry Underpass"
     },
     {
