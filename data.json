@@ -7188,6 +7188,25 @@
     },
     {
       "#": "25",
+      "Car": "Gauntlet",
+      "Time": "16:50.928",
+      "Player": "SMGWolfmanz",
+      "Link": "Link",
+      "Highway": "02:00",
+      "Wheelspin": "02:06",
+      "Observatory": "04:13",
+      "Route 68": "05:05",
+      "Chiliad": "07:30",
+      "Off Tracks": "09:11",
+      "Hospital Line": "10:47",
+      "Airport": "11:51",
+      "Quarry": "14:32",
+      "Lighthouse": "16:26",
+      "Finish": "16:50",
+      "Notes?": ""
+    },
+    {
+      "#": "26",
       "Car": "Oracle",
       "Time": "16:56.403",
       "Player": "Rj_Igor",
@@ -7206,7 +7225,7 @@
       "Notes?": ""
     },
     {
-      "#": "26",
+      "#": "27",
       "Car": "Double-T",
       "Time": "17:01.052",
       "Player": "Rj_Igor",
@@ -7223,25 +7242,6 @@
       "Lighthouse": "16:24",
       "Finish": "17:01",
       "Notes?": "Hybrid"
-    },
-    {
-      "#": "27",
-      "Car": "Gauntlet",
-      "Time": "17:08.259",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:58",
-      "Wheelspin": "02:07",
-      "Observatory": "04:17",
-      "Route 68": "05:13",
-      "Chiliad": "07:41",
-      "Off Tracks": "09:27",
-      "Hospital Line": "11:04",
-      "Airport": "12:01",
-      "Quarry": "14:44",
-      "Lighthouse": "16:42",
-      "Finish": "17:08",
-      "Notes?": ""
     },
     {
       "#": "28",
@@ -7967,6 +7967,25 @@
     },
     {
       "#": "66",
+      "Car": "Cavalcade",
+      "Time": "19:10.341",
+      "Player": "SMGWolfmanz",
+      "Link": "Link",
+      "Highway": "01:58",
+      "Wheelspin": "02:08",
+      "Observatory": "04:38",
+      "Route 68": "05:42",
+      "Chiliad": "08:34",
+      "Off Tracks": "10:33",
+      "Hospital Line": "12:26",
+      "Airport": "13:35",
+      "Quarry": "16:39",
+      "Lighthouse": "18:48",
+      "Finish": "19:10",
+      "Notes?": ""
+    },
+    {
+      "#": "67",
       "Car": "Picador",
       "Time": "19:10.984",
       "Player": "Rj_Igor",
@@ -7985,7 +8004,7 @@
       "Notes?": ""
     },
     {
-      "#": "67",
+      "#": "68",
       "Car": "Sadler",
       "Time": "19:11.509",
       "Player": "Rj_Igor",
@@ -8004,7 +8023,7 @@
       "Notes?": ""
     },
     {
-      "#": "68",
+      "#": "69",
       "Car": "Bison",
       "Time": "19:14.500",
       "Player": "Rj_Igor",
@@ -8020,25 +8039,6 @@
       "Quarry": "16:33",
       "Lighthouse": "18:50",
       "Finish": "19:14",
-      "Notes?": ""
-    },
-    {
-      "#": "69",
-      "Car": "Cavalcade",
-      "Time": "19:15.535",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:59",
-      "Wheelspin": "02:04",
-      "Observatory": "04:33",
-      "Route 68": "05:38",
-      "Chiliad": "08:33",
-      "Off Tracks": "10:32",
-      "Hospital Line": "12:26",
-      "Airport": "13:35",
-      "Quarry": "16:44",
-      "Lighthouse": "18:51",
-      "Finish": "19:15",
       "Notes?": ""
     },
     {
@@ -8670,6 +8670,25 @@
     },
     {
       "#": "103",
+      "Car": "Thrust",
+      "Time": "24:38.057",
+      "Player": "SMGWolfmanz",
+      "Link": "Link",
+      "Highway": "01:57",
+      "Wheelspin": "09:35",
+      "Observatory": "11:09",
+      "Route 68": "12:02",
+      "Chiliad": "14:52",
+      "Off Tracks": "16:39",
+      "Hospital Line": "18:15",
+      "Airport": "19:35",
+      "Quarry": "22:21",
+      "Lighthouse": "24:16",
+      "Finish": "24:38",
+      "Notes?": "Hotlap"
+    },
+    {
+      "#": "104",
       "Car": "Dukes",
       "Time": "24:44.989",
       "Player": "Rj_Igor",
@@ -8688,7 +8707,7 @@
       "Notes?": ""
     },
     {
-      "#": "104",
+      "#": "105",
       "Car": "Ingot",
       "Time": "24:51.841",
       "Player": "Rj_Igor",
@@ -8707,7 +8726,7 @@
       "Notes?": ""
     },
     {
-      "#": "105",
+      "#": "106",
       "Car": "Duneloader",
       "Time": "24:57.012",
       "Player": "Rj_Igor",
@@ -8726,7 +8745,7 @@
       "Notes?": ""
     },
     {
-      "#": "106",
+      "#": "107",
       "Car": "Massacro",
       "Time": "25:00.143",
       "Player": "Rj_Igor",
@@ -8745,7 +8764,7 @@
       "Notes?": ""
     },
     {
-      "#": "107",
+      "#": "108",
       "Car": "Blista Compact",
       "Time": "25:08.988",
       "Player": "Rj_Igor",
@@ -8764,7 +8783,7 @@
       "Notes?": ""
     },
     {
-      "#": "108",
+      "#": "109",
       "Car": "Youga",
       "Time": "25:09.121",
       "Player": "Rj_Igor",
@@ -8783,7 +8802,7 @@
       "Notes?": ""
     },
     {
-      "#": "109",
+      "#": "110",
       "Car": "Utility Trailer",
       "Time": "25:12.891",
       "Player": "Rj_Igor",
@@ -8802,7 +8821,7 @@
       "Notes?": ""
     },
     {
-      "#": "110",
+      "#": "111",
       "Car": "Generator Trailer",
       "Time": "25:17.858",
       "Player": "Rj_Igor",
@@ -8821,7 +8840,7 @@
       "Notes?": ""
     },
     {
-      "#": "111",
+      "#": "112",
       "Car": "Emperor",
       "Time": "25:24.508",
       "Player": "Rj_Igor",
@@ -8840,7 +8859,7 @@
       "Notes?": ""
     },
     {
-      "#": "112",
+      "#": "113",
       "Car": "Phantom",
       "Time": "25:52.027",
       "Player": "Rj_Igor",
@@ -8859,7 +8878,7 @@
       "Notes?": "can do 2nd entry elevator"
     },
     {
-      "#": "113",
+      "#": "114",
       "Car": "Panto",
       "Time": "25:58.266",
       "Player": "Rj_Igor",
@@ -8878,7 +8897,7 @@
       "Notes?": ""
     },
     {
-      "#": "114",
+      "#": "115",
       "Car": "Flatbed",
       "Time": "25:58.429",
       "Player": "Rj_Igor",
@@ -8897,7 +8916,7 @@
       "Notes?": "Can WB (gentle)"
     },
     {
-      "#": "115",
+      "#": "116",
       "Car": "Stallion",
       "Time": "26:05.215",
       "Player": "Rj_Igor",
@@ -8916,7 +8935,7 @@
       "Notes?": ""
     },
     {
-      "#": "116",
+      "#": "117",
       "Car": "Pigalle",
       "Time": "26:34.744",
       "Player": "Rj_Igor",
@@ -8935,7 +8954,7 @@
       "Notes?": ""
     },
     {
-      "#": "117",
+      "#": "118",
       "Car": "Barracks Semi",
       "Time": "26:55.768",
       "Player": "Rj_Igor",
@@ -8952,25 +8971,6 @@
       "Lighthouse": "25:47",
       "Finish": "26:55",
       "Notes?": "Can WB (Gentle)"
-    },
-    {
-      "#": "118",
-      "Car": "Thrust",
-      "Time": "26:56.100",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:57",
-      "Wheelspin": "11:47",
-      "Observatory": "13:42",
-      "Route 68": "14:36",
-      "Chiliad": "17:25",
-      "Off Tracks": "19:16",
-      "Hospital Line": "20:53",
-      "Airport": "21:45",
-      "Quarry": "24:37",
-      "Lighthouse": "26:30",
-      "Finish": "26:56",
-      "Notes?": ""
     },
     {
       "#": "119",
