@@ -6771,20 +6771,20 @@
     {
       "#": "3",
       "Car": "9f",
-      "Time": "15:30.070",
+      "Time": "15:29.957",
       "Player": "Rj_Igor",
       "Link": "Link",
-      "Highway": "02:00",
-      "Wheelspin": "02:07",
-      "Observatory": "04:01",
-      "Route 68": "04:52",
-      "Chiliad": "07:03",
-      "Off Tracks": "08:33",
-      "Hospital Line": "10:02",
-      "Airport": "10:56",
-      "Quarry": "13:24",
-      "Lighthouse": "15:07",
-      "Finish": "15:30",
+      "Highway": "01:57",
+      "Wheelspin": "02:06",
+      "Observatory": "04:00",
+      "Route 68": "04:53",
+      "Chiliad": "07:05",
+      "Off Tracks": "08:37",
+      "Hospital Line": "10:07",
+      "Airport": "11:00",
+      "Quarry": "13:29",
+      "Lighthouse": "15:08",
+      "Finish": "15:29",
       "Notes?": "Hybrid"
     },
     {
@@ -7208,20 +7208,20 @@
     {
       "#": "26",
       "Car": "Oracle",
-      "Time": "16:56.403",
+      "Time": "16:52.814",
       "Player": "Rj_Igor",
       "Link": "Link",
-      "Highway": "01:57",
-      "Wheelspin": "02:07",
-      "Observatory": "04:16",
-      "Route 68": "05:10",
-      "Chiliad": "07:40",
-      "Off Tracks": "09:20",
-      "Hospital Line": "10:58",
-      "Airport": "11:54",
-      "Quarry": "14:35",
-      "Lighthouse": "16:31",
-      "Finish": "16:56",
+      "Highway": "01:59",
+      "Wheelspin": "02:06",
+      "Observatory": "04:12",
+      "Route 68": "05:07",
+      "Chiliad": "07:37",
+      "Off Tracks": "09:17",
+      "Hospital Line": "10:57",
+      "Airport": "11:53",
+      "Quarry": "14:33",
+      "Lighthouse": "16:28",
+      "Finish": "16:52",
       "Notes?": ""
     },
     {
@@ -11579,6 +11579,25 @@
     },
     {
       "#": "79",
+      "Car": "Prairie",
+      "Time": "19:37.097",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:36",
+      "Wheelspin": "02:45",
+      "Quarry": "03:58",
+      "Hospital Line": "06:02",
+      "Airport": "07:05",
+      "Route 68": "09:46",
+      "Chiliad": "13:16",
+      "Off Tracks": "15:11",
+      "Observatory": "16:47",
+      "Zancudo Exit": "18:16",
+      "Finish": "19:37",
+      "Notes?": "R68 = Quarry Underpass"
+    },
+    {
+      "#": "80",
       "Car": "Asea",
       "Time": "19:38.479",
       "Player": "Rj_Igor",
@@ -11597,7 +11616,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "80",
+      "#": "81",
       "Car": "BeeJay XL",
       "Time": "19:41.399",
       "Player": "Rj_Igor",
@@ -11616,7 +11635,7 @@
       "Notes?": ""
     },
     {
-      "#": "81",
+      "#": "82",
       "Car": "Sandking SWB",
       "Time": "19:50.527",
       "Player": "Rj_Igor",
@@ -11635,7 +11654,7 @@
       "Notes?": ""
     },
     {
-      "#": "82",
+      "#": "83",
       "Car": "Patriot",
       "Time": "19:51.993",
       "Player": "Rj_Igor",
@@ -11654,7 +11673,7 @@
       "Notes?": "Can WB (Aggressive)"
     },
     {
-      "#": "83",
+      "#": "84",
       "Car": "Surge",
       "Time": "19:55.802",
       "Player": "Rj_Igor",
@@ -11673,7 +11692,7 @@
       "Notes?": ""
     },
     {
-      "#": "84",
+      "#": "85",
       "Car": "Sandking XL",
       "Time": "19:56.382",
       "Player": "Rj_Igor",
@@ -11692,7 +11711,7 @@
       "Notes?": ""
     },
     {
-      "#": "85",
+      "#": "86",
       "Car": "Seminole",
       "Time": "19:59.222",
       "Player": "Rj_Igor",
@@ -11709,25 +11728,6 @@
       "Zancudo Exit": "18:36",
       "Finish": "19:59",
       "Notes?": ""
-    },
-    {
-      "#": "86",
-      "Car": "Prairie",
-      "Time": "20:03.437",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:36",
-      "Wheelspin": "02:45",
-      "Quarry": "03:59",
-      "Hospital Line": "06:04",
-      "Airport": "07:07",
-      "Route 68": "09:50",
-      "Chiliad": "13:25",
-      "Off Tracks": "15:39",
-      "Observatory": "17:14",
-      "Zancudo Exit": "18:46",
-      "Finish": "20:03",
-      "Notes?": "R68 = Quarry Underpass"
     },
     {
       "#": "87",
