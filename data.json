@@ -7910,6 +7910,25 @@
     },
     {
       "#": "63",
+      "Car": "Bison",
+      "Time": "18:57.054",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:58",
+      "Wheelspin": "02:08",
+      "Observatory": "04:35",
+      "Route 68": "05:36",
+      "Chiliad": "08:26",
+      "Off Tracks": "10:25",
+      "Hospital Line": "12:18",
+      "Airport": "13:21",
+      "Quarry": "16:27",
+      "Lighthouse": "18:34",
+      "Finish": "18:57",
+      "Notes?": ""
+    },
+    {
+      "#": "64",
       "Car": "FQ 2",
       "Time": "18:59.628",
       "Player": "Rj_Igor",
@@ -7928,7 +7947,7 @@
       "Notes?": ""
     },
     {
-      "#": "64",
+      "#": "65",
       "Car": "Baller (Old)",
       "Time": "19:02.921",
       "Player": "Rj_Igor",
@@ -7947,7 +7966,7 @@
       "Notes?": ""
     },
     {
-      "#": "65",
+      "#": "66",
       "Car": "Habanero",
       "Time": "19:09.984",
       "Player": "Rj_Igor",
@@ -7966,7 +7985,7 @@
       "Notes?": ""
     },
     {
-      "#": "66",
+      "#": "67",
       "Car": "Cavalcade",
       "Time": "19:10.341",
       "Player": "SMGWolfmanz",
@@ -7985,7 +8004,7 @@
       "Notes?": ""
     },
     {
-      "#": "67",
+      "#": "68",
       "Car": "Picador",
       "Time": "19:10.984",
       "Player": "Rj_Igor",
@@ -8004,7 +8023,7 @@
       "Notes?": ""
     },
     {
-      "#": "68",
+      "#": "69",
       "Car": "Sadler",
       "Time": "19:11.509",
       "Player": "Rj_Igor",
@@ -8020,25 +8039,6 @@
       "Quarry": "16:40",
       "Lighthouse": "18:46",
       "Finish": "19:11",
-      "Notes?": ""
-    },
-    {
-      "#": "69",
-      "Car": "Bison",
-      "Time": "19:14.500",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:56",
-      "Wheelspin": "02:04",
-      "Observatory": "04:32",
-      "Route 68": "05:34",
-      "Chiliad": "08:27",
-      "Off Tracks": "10:29",
-      "Hospital Line": "12:22",
-      "Airport": "13:24",
-      "Quarry": "16:33",
-      "Lighthouse": "18:50",
-      "Finish": "19:14",
       "Notes?": ""
     },
     {
@@ -8937,20 +8937,20 @@
     {
       "#": "117",
       "Car": "Pigalle",
-      "Time": "26:34.744",
+      "Time": "26:12.295",
       "Player": "Rj_Igor",
       "Link": "Link",
-      "Highway": "N/A",
-      "Wheelspin": "11:26",
-      "Observatory": "13:22",
-      "Route 68": "14:15",
-      "Chiliad": "16:49",
-      "Off Tracks": "18:42",
-      "Hospital Line": "20:15",
-      "Airport": "21:19",
-      "Quarry": "24:13",
-      "Lighthouse": "26:08",
-      "Finish": "26:34",
+      "Highway": "01:59",
+      "Wheelspin": "10:59",
+      "Observatory": "12:47",
+      "Route 68": "13:42",
+      "Chiliad": "16:16",
+      "Off Tracks": "18:46",
+      "Hospital Line": "20:19",
+      "Airport": "21:14",
+      "Quarry": "23:52",
+      "Lighthouse": "25:48",
+      "Finish": "26:12",
       "Notes?": ""
     },
     {
