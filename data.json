@@ -7245,6 +7245,25 @@
     },
     {
       "#": "28",
+      "Car": "Buccaneer",
+      "Time": "17:15.612",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:57",
+      "Wheelspin": "02:03",
+      "Observatory": "04:15",
+      "Route 68": "05:09",
+      "Chiliad": "07:41",
+      "Off Tracks": "09:26",
+      "Hospital Line": "11:07",
+      "Airport": "12:05",
+      "Quarry": "14:53",
+      "Lighthouse": "16:50",
+      "Finish": "17:15",
+      "Notes?": ""
+    },
+    {
+      "#": "29",
       "Car": "Nemesis",
       "Time": "17:16.427",
       "Player": "Rj_Igor",
@@ -7263,7 +7282,7 @@
       "Notes?": "Hybrid / Hotlap"
     },
     {
-      "#": "29",
+      "#": "30",
       "Car": "Oracle XS",
       "Time": "17:17.081",
       "Player": "Rj_Igor",
@@ -7282,7 +7301,7 @@
       "Notes?": ""
     },
     {
-      "#": "30",
+      "#": "31",
       "Car": "Voltic",
       "Time": "17:17.350",
       "Player": "Rj_Igor",
@@ -7301,7 +7320,7 @@
       "Notes?": ""
     },
     {
-      "#": "31",
+      "#": "32",
       "Car": "Felon GT",
       "Time": "17:18.000",
       "Player": "Rj_Igor",
@@ -7320,7 +7339,7 @@
       "Notes?": ""
     },
     {
-      "#": "32",
+      "#": "33",
       "Car": "Ruffian",
       "Time": "17:19.664",
       "Player": "Rj_Igor",
@@ -7337,25 +7356,6 @@
       "Lighthouse": "16:48",
       "Finish": "17:19",
       "Notes?": "Hybrid"
-    },
-    {
-      "#": "33",
-      "Car": "Buccaneer",
-      "Time": "17:21.973",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:56",
-      "Wheelspin": "02:03",
-      "Observatory": "04:15",
-      "Route 68": "05:11",
-      "Chiliad": "07:48",
-      "Off Tracks": "09:32",
-      "Hospital Line": "11:13",
-      "Airport": "12:13",
-      "Quarry": "15:01",
-      "Lighthouse": "16:57",
-      "Finish": "17:21",
-      "Notes?": ""
     },
     {
       "#": "34",
@@ -7796,6 +7796,25 @@
     },
     {
       "#": "57",
+      "Car": "Habanero",
+      "Time": "18:37.119",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:58",
+      "Wheelspin": "02:05",
+      "Observatory": "04:30",
+      "Route 68": "05:34",
+      "Chiliad": "08:22",
+      "Off Tracks": "10:24",
+      "Hospital Line": "12:08",
+      "Airport": "13:09",
+      "Quarry": "16:07",
+      "Lighthouse": "18:14",
+      "Finish": "18:37",
+      "Notes?": ""
+    },
+    {
+      "#": "58",
       "Car": "Granger",
       "Time": "18:37.689",
       "Player": "Rj_Igor",
@@ -7814,7 +7833,7 @@
       "Notes?": ""
     },
     {
-      "#": "58",
+      "#": "59",
       "Car": "Stratum",
       "Time": "18:38.508",
       "Player": "Rj_Igor",
@@ -7833,7 +7852,7 @@
       "Notes?": ""
     },
     {
-      "#": "59",
+      "#": "60",
       "Car": "Radius",
       "Time": "18:40.609",
       "Player": "Rj_Igor",
@@ -7852,7 +7871,7 @@
       "Notes?": ""
     },
     {
-      "#": "60",
+      "#": "61",
       "Car": "Serrano",
       "Time": "18:48.774",
       "Player": "Rj_Igor",
@@ -7871,7 +7890,7 @@
       "Notes?": ""
     },
     {
-      "#": "61",
+      "#": "62",
       "Car": "Daemon",
       "Time": "18:50.504",
       "Player": "Rj_Igor",
@@ -7890,7 +7909,7 @@
       "Notes?": "Hotlap"
     },
     {
-      "#": "62",
+      "#": "63",
       "Car": "Issi",
       "Time": "18:54.520",
       "Player": "Rj_Igor",
@@ -7909,7 +7928,7 @@
       "Notes?": ""
     },
     {
-      "#": "63",
+      "#": "64",
       "Car": "Bison",
       "Time": "18:57.054",
       "Player": "Rj_Igor",
@@ -7928,7 +7947,7 @@
       "Notes?": ""
     },
     {
-      "#": "64",
+      "#": "65",
       "Car": "FQ 2",
       "Time": "18:59.628",
       "Player": "Rj_Igor",
@@ -7947,7 +7966,7 @@
       "Notes?": ""
     },
     {
-      "#": "65",
+      "#": "66",
       "Car": "Baller (Old)",
       "Time": "19:02.921",
       "Player": "Rj_Igor",
@@ -7966,7 +7985,7 @@
       "Notes?": ""
     },
     {
-      "#": "66",
+      "#": "67",
       "Car": "BeeJay XL",
       "Time": "19:04.867",
       "Player": "Rj_Igor",
@@ -7982,25 +8001,6 @@
       "Quarry": "16:33",
       "Lighthouse": "18:40",
       "Finish": "19:04",
-      "Notes?": ""
-    },
-    {
-      "#": "67",
-      "Car": "Habanero",
-      "Time": "19:09.984",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:00",
-      "Wheelspin": "02:11",
-      "Observatory": "04:41",
-      "Route 68": "05:46",
-      "Chiliad": "08:38",
-      "Off Tracks": "10:42",
-      "Hospital Line": "12:32",
-      "Airport": "13:31",
-      "Quarry": "16:32",
-      "Lighthouse": "18:44",
-      "Finish": "19:09",
       "Notes?": ""
     },
     {
@@ -8290,6 +8290,25 @@
     },
     {
       "#": "83",
+      "Car": "Asea",
+      "Time": "20:15.639",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "01:58",
+      "Wheelspin": "02:05",
+      "Observatory": "04:31",
+      "Route 68": "05:32",
+      "Chiliad": "09:40",
+      "Off Tracks": "11:40",
+      "Hospital Line": "13:33",
+      "Airport": "14:35",
+      "Quarry": "17:42",
+      "Lighthouse": "19:51",
+      "Finish": "20:15",
+      "Notes?": "reverse up elevator"
+    },
+    {
+      "#": "84",
       "Car": "Surge",
       "Time": "20:20.687",
       "Player": "Rj_Igor",
@@ -8308,7 +8327,7 @@
       "Notes?": ""
     },
     {
-      "#": "84",
+      "#": "85",
       "Car": "Sandking XL",
       "Time": "20:26.669",
       "Player": "Rj_Igor",
@@ -8327,7 +8346,7 @@
       "Notes?": ""
     },
     {
-      "#": "85",
+      "#": "86",
       "Car": "Prairie",
       "Time": "21:11.944",
       "Player": "Rj_Igor",
@@ -8343,25 +8362,6 @@
       "Quarry": "18:20",
       "Lighthouse": "20:01",
       "Finish": "21:11",
-      "Notes?": "reverse up elevator"
-    },
-    {
-      "#": "86",
-      "Car": "Asea",
-      "Time": "21:24.541",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "01:57",
-      "Wheelspin": "02:42",
-      "Observatory": "05:06",
-      "Route 68": "06:06",
-      "Chiliad": "10:47",
-      "Off Tracks": "12:43",
-      "Hospital Line": "14:36",
-      "Airport": "15:38",
-      "Quarry": "18:45",
-      "Lighthouse": "21:00",
-      "Finish": "21:24",
       "Notes?": "reverse up elevator"
     },
     {
