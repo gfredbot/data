@@ -10724,6 +10724,25 @@
     },
     {
       "#": "34",
+      "Car": "Buccaneer",
+      "Time": "17:15.863",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:41",
+      "Wheelspin": "02:48",
+      "Quarry": "03:57",
+      "Hospital Line": "05:49",
+      "Airport": "06:45",
+      "Route 68": "09:11",
+      "Chiliad": "11:40",
+      "Off Tracks": "13:24",
+      "Observatory": "14:45",
+      "Zancudo Exit": "16:06",
+      "Finish": "17:15",
+      "Notes?": ""
+    },
+    {
+      "#": "35",
       "Car": "Sentinel XS",
       "Time": "17:16.263",
       "Player": "S1P4C",
@@ -10738,25 +10757,6 @@
       "Off Tracks": "13:18",
       "Observatory": "14:41",
       "Zancudo Exit": "16:08",
-      "Finish": "17:16",
-      "Notes?": ""
-    },
-    {
-      "#": "35",
-      "Car": "Buccaneer",
-      "Time": "17:16.581",
-      "Player": "RBSReece",
-      "Link": "Link",
-      "Highway": "02:37",
-      "Wheelspin": "02:45",
-      "Quarry": "03:53",
-      "Hospital Line": "05:45",
-      "Airport": "06:43",
-      "Route 68": "09:08",
-      "Chiliad": "11:43",
-      "Off Tracks": "13:21",
-      "Observatory": "14:46",
-      "Zancudo Exit": "16:05",
       "Finish": "17:16",
       "Notes?": ""
     },
@@ -13270,6 +13270,25 @@
     },
     {
       "#": "168",
+      "Car": "BMX",
+      "Time": "48:34.602",
+      "Player": "Rj_Igor",
+      "Link": "Link",
+      "Highway": "02:41",
+      "Wheelspin": "12:05",
+      "Quarry": "17:35",
+      "Hospital Line": "21:33",
+      "Airport": "24:16",
+      "Route 68": "29:53",
+      "Chiliad": "36:09",
+      "Off Tracks": "40:06",
+      "Observatory": "43:11",
+      "Zancudo Exit": "46:13",
+      "Finish": "48:34",
+      "Notes?": ""
+    },
+    {
+      "#": "169",
       "Car": "Suntrap",
       "Time": "49:19.260*",
       "Player": "Rj_Igor",
@@ -13288,7 +13307,7 @@
       "Notes?": ""
     },
     {
-      "#": "169",
+      "#": "170",
       "Car": "Scorcher",
       "Time": "49:23.096",
       "Player": "Rj_Igor",
@@ -13307,7 +13326,7 @@
       "Notes?": ""
     },
     {
-      "#": "170",
+      "#": "171",
       "Car": "Fieldmaster",
       "Time": "51:57.293",
       "Player": "Rj_Igor",
@@ -13326,7 +13345,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "171",
+      "#": "172",
       "Car": "Police Predator",
       "Time": "52:23.553*",
       "Player": "Rj_Igor",
@@ -13342,25 +13361,6 @@
       "Observatory": "45:13",
       "Zancudo Exit": "N/A",
       "Finish": "52:23",
-      "Notes?": ""
-    },
-    {
-      "#": "172",
-      "Car": "BMX",
-      "Time": "54:30.366",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "02:42",
-      "Wheelspin": "11:57",
-      "Quarry": "19:06",
-      "Hospital Line": "24:10",
-      "Airport": "27:20",
-      "Route 68": "34:06",
-      "Chiliad": "40:21",
-      "Off Tracks": "44:44",
-      "Observatory": "48:18",
-      "Zancudo Exit": "51:32",
-      "Finish": "54:30",
       "Notes?": ""
     },
     {
