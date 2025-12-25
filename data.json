@@ -13156,25 +13156,6 @@
     },
     {
       "#": "162",
-      "Car": "Seashark",
-      "Time": "44:05.773*",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "N/A",
-      "Wheelspin": "01:01",
-      "Quarry": "04:42",
-      "Hospital Line": "N/A",
-      "Airport": "15:57",
-      "Route 68": "N/A",
-      "Chiliad": "30:16",
-      "Off Tracks": "N/A",
-      "Observatory": "37:09",
-      "Zancudo Exit": "N/A",
-      "Finish": "44:05",
-      "Notes?": ""
-    },
-    {
-      "#": "163",
       "Car": "Feet (Open)",
       "Time": "44:20.698",
       "Player": "BloodySquirrels",
@@ -13193,7 +13174,7 @@
       "Notes?": "R68 = Quarry Underpass / Run Fast allowed"
     },
     {
-      "#": "164",
+      "#": "163",
       "Car": "Dinghy",
       "Time": "45:34.641*",
       "Player": "Rj_Igor",
@@ -13212,7 +13193,7 @@
       "Notes?": ""
     },
     {
-      "#": "165",
+      "#": "164",
       "Car": "Tropic",
       "Time": "46:27.848*",
       "Player": "Rj_Igor",
@@ -13231,7 +13212,7 @@
       "Notes?": ""
     },
     {
-      "#": "166",
+      "#": "165",
       "Car": "Squalo",
       "Time": "46:31.831*",
       "Player": "Rj_Igor",
@@ -13250,7 +13231,7 @@
       "Notes?": ""
     },
     {
-      "#": "167",
+      "#": "166",
       "Car": "Jetmax",
       "Time": "46:42.498*",
       "Player": "Rj_Igor",
@@ -13269,7 +13250,7 @@
       "Notes?": ""
     },
     {
-      "#": "168",
+      "#": "167",
       "Car": "BMX",
       "Time": "48:34.602",
       "Player": "Rj_Igor",
@@ -13288,7 +13269,7 @@
       "Notes?": ""
     },
     {
-      "#": "169",
+      "#": "168",
       "Car": "Suntrap",
       "Time": "49:19.260*",
       "Player": "Rj_Igor",
@@ -13307,7 +13288,7 @@
       "Notes?": ""
     },
     {
-      "#": "170",
+      "#": "169",
       "Car": "Scorcher",
       "Time": "49:23.096",
       "Player": "Rj_Igor",
@@ -13326,7 +13307,7 @@
       "Notes?": ""
     },
     {
-      "#": "171",
+      "#": "170",
       "Car": "Fieldmaster",
       "Time": "51:57.293",
       "Player": "Rj_Igor",
@@ -13345,7 +13326,7 @@
       "Notes?": "R68 = Quarry Underpass"
     },
     {
-      "#": "172",
+      "#": "171",
       "Car": "Police Predator",
       "Time": "52:23.553*",
       "Player": "Rj_Igor",
@@ -13361,6 +13342,25 @@
       "Observatory": "45:13",
       "Zancudo Exit": "N/A",
       "Finish": "52:23",
+      "Notes?": ""
+    },
+    {
+      "#": "172",
+      "Car": "Seashark",
+      "Time": "60:12.001*",
+      "Player": "HeavyFlavor",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "01:01",
+      "Quarry": "05:20",
+      "Hospital Line": "N/A",
+      "Airport": "15:20",
+      "Route 68": "N/A",
+      "Chiliad": "34:38",
+      "Off Tracks": "N/A",
+      "Observatory": "47:03",
+      "Zancudo Exit": "N/A",
+      "Finish": "60:12",
       "Notes?": ""
     },
     {
