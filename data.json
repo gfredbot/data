@@ -9563,6 +9563,25 @@
     },
     {
       "#": "150",
+      "Car": "Police Predator",
+      "Time": "60:05.654*",
+      "Player": "HeavyFlavor",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "01:50",
+      "Observatory": "11:11",
+      "Route 68": "N/A",
+      "Chiliad": "24:55",
+      "Off Tracks": "N/A",
+      "Hospital Line": "N/A",
+      "Airport": "40:00",
+      "Quarry": "54:22",
+      "Lighthouse": "59:25",
+      "Finish": "60:05",
+      "Notes?": ""
+    },
+    {
+      "#": "151",
       "Car": "Pounder",
       "Time": "60:58.607*",
       "Player": "HeavyFlavor",
@@ -9581,7 +9600,7 @@
       "Notes?": "Can WB (aggressive)"
     },
     {
-      "#": "151",
+      "#": "152",
       "Car": "Journey",
       "Time": "71:17.690",
       "Player": "HeavyFlavor",
@@ -9600,7 +9619,7 @@
       "Notes?": "Can WB (Gentle)"
     },
     {
-      "#": "152",
+      "#": "153",
       "Car": "Feet (Traditional)",
       "Time": "",
       "Player": "",
@@ -9619,7 +9638,7 @@
       "Notes?": ""
     },
     {
-      "#": "153",
+      "#": "154",
       "Car": "Feet (Walking)",
       "Time": "",
       "Player": "",
@@ -9638,7 +9657,7 @@
       "Notes?": ""
     },
     {
-      "#": "154",
+      "#": "155",
       "Car": "Tropic",
       "Time": "",
       "Player": "",
@@ -9657,7 +9676,7 @@
       "Notes?": ""
     },
     {
-      "#": "155",
+      "#": "156",
       "Car": "Suntrap",
       "Time": "",
       "Player": "",
@@ -9676,7 +9695,7 @@
       "Notes?": ""
     },
     {
-      "#": "156",
+      "#": "157",
       "Car": "Squalo",
       "Time": "",
       "Player": "",
@@ -9695,27 +9714,8 @@
       "Notes?": ""
     },
     {
-      "#": "157",
-      "Car": "Seashark",
-      "Time": "",
-      "Player": "",
-      "Link": "",
-      "Highway": "",
-      "Wheelspin": "",
-      "Observatory": "",
-      "Route 68": "",
-      "Chiliad": "",
-      "Off Tracks": "",
-      "Hospital Line": "",
-      "Airport": "",
-      "Quarry": "",
-      "Lighthouse": "",
-      "Finish": "",
-      "Notes?": ""
-    },
-    {
       "#": "158",
-      "Car": "Police Predator",
+      "Car": "Seashark",
       "Time": "",
       "Player": "",
       "Link": "",
@@ -13327,25 +13327,6 @@
     },
     {
       "#": "171",
-      "Car": "Police Predator",
-      "Time": "52:23.553*",
-      "Player": "Rj_Igor",
-      "Link": "Link",
-      "Highway": "N/A",
-      "Wheelspin": "02:07",
-      "Quarry": "06:52",
-      "Hospital Line": "N/A",
-      "Airport": "21:28",
-      "Route 68": "N/A",
-      "Chiliad": "38:34",
-      "Off Tracks": "N/A",
-      "Observatory": "45:13",
-      "Zancudo Exit": "N/A",
-      "Finish": "52:23",
-      "Notes?": ""
-    },
-    {
-      "#": "172",
       "Car": "Seashark",
       "Time": "60:12.001*",
       "Player": "HeavyFlavor",
@@ -13361,6 +13342,25 @@
       "Observatory": "47:03",
       "Zancudo Exit": "N/A",
       "Finish": "60:12",
+      "Notes?": ""
+    },
+    {
+      "#": "172",
+      "Car": "Police Predator",
+      "Time": "61:48.119*",
+      "Player": "HeavyFlavor",
+      "Link": "Link",
+      "Highway": "N/A",
+      "Wheelspin": "01:31",
+      "Quarry": "06:20",
+      "Hospital Line": "N/A",
+      "Airport": "18:09",
+      "Route 68": "N/A",
+      "Chiliad": "37:06",
+      "Off Tracks": "N/A",
+      "Observatory": "46:56",
+      "Zancudo Exit": "N/A",
+      "Finish": "61:48",
       "Notes?": ""
     },
     {
